@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cheap Practice Finder</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/backgrid.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+	<div id="app" style="display: none" class="container">
+		<header><h1>Cheap Practice Finder</h1></header>
+		<section id="main">
+      <div id="search-view">
+        <div id="search-box"></div>
+        <div id="search-status"></div>
+      </div>
+      <div id="table-view">
+        <div id="search-options"></div>
+        <div id="backgrid-grid"></div>
+      </div>
+		</section>
+		<footer>
+      <div class="footer">
+        <strong>Fees apply for enrolled patients only</strong>
+        <span class="open">more</span>
+      </div>
+    </footer>
+    <div id='modal'></div>
+	</div>
+
+  <script type="text/template" id="expanded-template">
+    <td colspan="3" >
+        <p>PHO: <%- pho %></p>
+        <p>Phone: <%- phone %></p>
+        <p>Address: <%- address %></p>
+        <p><a href="<%- url %>">Website</a></p>
+      <div id="map_canvas" style="height: 500px; background-color:black;"><p>No map</p></div>
+    </td>
+  </script>
+
+  <script type="text/template" id="search-options-template">
+      <p>Displaying <span id="count"></span> practices within
+      <select class="form-control" id="radius-select">
+        <option value="5">5km</option>
+        <option value="15">15km</option>
+        <option value="30">30km</option>
+        <option value="60">60km</option>
+        <option value="120">120km</option>
+        <option value="240">240km</option>
+      </select>
+      of <%- address %></p>
+  </script>
+
+  <script type="text/template" id="search-template">
+      <input id="new-search-address" class="form-control" type="text" placeholder="Type your address...">
+      <input id="new-search-age" class="form-control" type="text" placeholder="age" style="display: none">
+  </script>
+
+  <script type="text/template" id="error-template">
+    <div class="alert alert-danger" role="alert">
+      <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+      <span class="sr-only">Error:</span><%- message %>
+    </div>
+  </script>
+
+  <script type="text/template" id="info-template">
+    <h4>Searching practices from the following PHOs:</h4>
+    <ul>
+      <li><a href="http://www.compasshealth.org.nz/">Compass Health</a></li>
+        <ul>
+          <li>Wellington</li>
+          <li>Wairapa</li>
+        </ul>
+      <li><a href="http://www.southernpho.health.nz/">Southern PHO</a></li>
+        <ul>
+          <li>Central Otago</li>
+          <li>Waitaki/North Otago</li>
+          <li>Queenstown Lakes</li>
+          <li>Dunedin</li>
+          <li>Southland/Gore</li>
+          <li>Clutha</li>
+          <li>Invercargill</li>
+        </ul>
+      <li><a href="http://www.healthhb.co.nz/">Health Hawkes Bay</a></li>
+        <ul>
+          <li>Central Hawkes Bay</li>
+          <li>Hastings</li>
+          <li>Napier</li>
+          <li>Wairoa</li>
+        </ul>
+      <li><a href="http://www.centralpho.org.nz/">Central PHO</a></li>
+        <ul>
+          <li>Palmerston North</li>
+          <li>Otaki</li>
+          <li>Levin</li>
+          <li>Fielding</li>
+          <li>Dannevirke</li>
+        </ul>
+    </ul>
+    <strong>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients. Some practices may have enrolment restrictions. <strong>
+  </script>
+  
+  <script type="text/javascript" src="js/lib/jquery.min.js"></script>
+  <script type="text/javascript" src="js/lib/underscore-min.js"></script>
+  <script type="text/javascript" src="js/lib/backbone-min.js"></script>
+  <script type="text/javascript" src="js/lib/backgrid.min.js"></script>
+  <script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/lib/backbone.bootstrap-modal.js"></script>
+  <script type="text/javascript" src="js/lib/deep-model.min.js"></script>
+  <script type="text/javascript" src="js/lib/backgrid-filter.min.js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry,places"></script>
+
+  <script src="js/models/Practice.js" type="text/javascript"></script>
+  <script src="js/models/SearchQuery.js" type="text/javascript"></script>
+  <script src="js/collections/Practices.js" type="text/javascript"></script>
+  <script src="js/views/ExpandedView.js" type="text/javascript"></script>
+  <script src="js/views/SearchOptionsView.js" type="text/javascript"></script>
+  <script src="js/views/InfoView.js" type="text/javascript"></script>
+  <script src="js/views/TableView.js" type="text/javascript"></script>
+  <script src="js/views/SearchView.js" type="text/javascript"></script>
+  <script src="js/Router.js" type="text/javascript"></script>
+</body>
+</html>

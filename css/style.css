@@ -1,0 +1,44 @@
+select.form-control {
+	display: inline;
+	width: 100px;
+	height: 30px;
+}
+
+header, footer {
+	width: 100%;
+	text-align: center;
+}
+
+.container {
+	margin:0 auto;
+	width: 600px;
+}
+
+#new-search-address {
+	width: 100%;
+}
+
+#new-search-age {
+	margin: auto;
+	width: 50px;
+}
+
+#table-view {
+	padding: 15px;
+}
+
+#expanded-view {
+	background-color: lightblue;
+}
+
+.hover-glow {
+	background-color: lightblue;
+}
+
+.open {
+  	color: #428bca;
+	cursor: pointer;
+}
+.open:hover{
+	cursor:pointer;
+}

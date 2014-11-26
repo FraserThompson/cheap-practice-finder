@@ -1,0 +1,150 @@
+[
+    {
+        "address": "229 Grey Street,",
+        "coordinates": [
+            -40.3473585936442,
+            175.620925806666
+        ],
+        "name": "Orbit Medical",
+        "pho": "Central PHO",
+        "phone": "06 353 5335",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/5226/Default.aspx"
+    },
+    {
+        "address": "2 Aotaki Street,",
+        "coordinates": [
+            -40.7524856167491,
+            175.141036422822
+        ],
+        "name": "Otaki Medical Centre",
+        "pho": "Central PHO",
+        "phone": "06 3648555",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/2869/Default.aspx"
+    },
+    {
+        "address": "50 Queen Street,",
+        "coordinates": [
+            -40.6195588887893,
+            175.283952049663
+        ],
+        "name": "Queen Street Surgery Levin",
+        "pho": "Central PHO",
+        "phone": "06 3686186",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 34.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3796/Default.aspx"
+    },
+    {
+        "address": "The Palms, 445 Fergusson Street",
+        "coordinates": [
+            -40.3565700490353,
+            175.61961139656
+        ],
+        "name": "Radius Medical",
+        "pho": "Central PHO",
+        "phone": "06 3547737",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.5
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 39.5
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3749/Default.aspx"
+    }
+]

@@ -1,0 +1,5367 @@
+[
+    {
+        "address": "237 Mt Smart Road, Onehunga  1061 ",
+        "coordinates": [
+            -36.9148209,
+            174.8013919
+        ],
+        "name": "All Health - Mt Smart",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 579 0563  F 09 579 4620 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "415 Queen Street, Auckland  City 1010 ",
+        "coordinates": [
+            -36.8570275,
+            174.7615813
+        ],
+        "name": "Auckland City Doctors",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 280 3555  F 09 369 5125 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1784 Great North Road,  Avondale 1026 ",
+        "coordinates": [
+            -36.891718,
+            174.6962566
+        ],
+        "name": "Avondale Family Health Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 820 0065  F 09 828 8909 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "93 Bader Drive, Mangere Town  Centre ",
+        "coordinates": [
+            -36.969643,
+            174.79896
+        ],
+        "name": "Bader Drive Health Care - Mangere",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 275 8598  F 09 275 8544 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Shop 4/6 7 Hill Road,  Manurewa ",
+        "coordinates": [
+            -37.020871,
+            174.897309
+        ],
+        "name": "Bader Drive Health Care - Manurewa",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 275 8598  F 09 275 8544 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "144 Queens Road, Panmure  1072 ",
+        "coordinates": [
+            -36.9009261,
+            174.8568144
+        ],
+        "name": "Hong Kong Surgery",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 527 8829  F 09 527 8882 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "215 Massey Road, Mangere",
+        "coordinates": [
+            -36.9567364,
+            174.8338618
+        ],
+        "name": "Mangere Family Doctors",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 275 9977  F 09 275 3353 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1/627 Mt Wellington Highway,  Mt Wellington 1062 ",
+        "coordinates": [
+            -36.92981899999999,
+            174.8426077
+        ],
+        "name": "Integrated Health Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 276 8640  F 09 276-9849 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1230 Dominion Road, Mt  Roskill 1041 ",
+        "coordinates": [
+            -36.9027872,
+            174.7425741
+        ],
+        "name": "New Al-Dawa Medical & Dental Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 620 5046  F 09 620 6405 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "5/115 Church Street, Otahuhu  1062 ",
+        "coordinates": [
+            -36.9444107,
+            174.8467297
+        ],
+        "name": "Otahuhu Family Practice",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 276 4309  F 09 270 2052 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Shop 11 Bairds Road, Otara",
+        "coordinates": [
+            -36.9585952,
+            174.8575942
+        ],
+        "name": "Southseas HealthCare",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 278 2694  F 09 273 9026 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "3/400 George Bolt Memorial  Drive, Airport Shopping Centre ",
+        "coordinates": [
+            -36.9585952,
+            174.8575942
+        ],
+        "name": "The Airport Doctors",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 256 8655  F 09 256 8460 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "161 Queens Road, Panmure",
+        "coordinates": [
+            -36.9008555,
+            174.8564594
+        ],
+        "name": "Tongan Health Society - Panmure Clinic",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 570 9827  F 09 570 9365 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "29 Hill Street, Onehunga",
+        "coordinates": [
+            -36.9240944,
+            174.7812295
+        ],
+        "name": "Tongan Health Society - Langimalie Health  Centre ",
+        "pho": "Alliance Health Plus",
+        "phone": "P 09 636 3629  F 09 636 3229 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 0
+            },
+            {
+                "age": 25,
+                "price": 0
+            },
+            {
+                "age": 45,
+                "price": 0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "229 Grey Street,",
+        "coordinates": [
+            -40.3473585936442,
+            175.620925806666
+        ],
+        "name": "Orbit Medical",
+        "pho": "Central PHO",
+        "phone": "06 353 5335",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/5226/Default.aspx"
+    },
+    {
+        "address": "2 Aotaki Street,",
+        "coordinates": [
+            -40.7524856167491,
+            175.141036422822
+        ],
+        "name": "Otaki Medical Centre",
+        "pho": "Central PHO",
+        "phone": "06 3648555",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/2869/Default.aspx"
+    },
+    {
+        "address": "50 Queen Street,",
+        "coordinates": [
+            -40.6195588887893,
+            175.283952049663
+        ],
+        "name": "Queen Street Surgery Levin",
+        "pho": "Central PHO",
+        "phone": "06 3686186",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 34.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3796/Default.aspx"
+    },
+    {
+        "address": "The Palms, 445 Fergusson Street",
+        "coordinates": [
+            -40.3565700490353,
+            175.61961139656
+        ],
+        "name": "Radius Medical",
+        "pho": "Central PHO",
+        "phone": "06 3547737",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.5
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 39.5
+            }
+        ],
+        "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3749/Default.aspx"
+    },
+    {
+        "address": "183 Ohiro Road, Brooklyn",
+        "coordinates": [
+            -41.3047112557738,
+            174.763596024943
+        ],
+        "name": "Brooklyn Central Health",
+        "pho": "Compass Health",
+        "phone": "04 8018188",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/295/Default.aspx"
+    },
+    {
+        "address": "155 Ohiro Road, Brooklyn",
+        "coordinates": [
+            -41.3036265546074,
+            174.763853637503
+        ],
+        "name": "Brooklyn Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 3842761",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/298/Default.aspx"
+    },
+    {
+        "address": "107c Westchester Drive, Churton Park",
+        "coordinates": [
+            -41.2020017,
+            174.8082795
+        ],
+        "name": "Churton Park Medical Care",
+        "pho": "Compass Health",
+        "phone": "04 4770014",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 39.5
+            },
+            {
+                "age": 18,
+                "price": 49.0
+            },
+            {
+                "age": 25,
+                "price": 52.0
+            },
+            {
+                "age": 45,
+                "price": 52.0
+            },
+            {
+                "age": 65,
+                "price": 47.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/6591/Default.aspx"
+    },
+    {
+        "address": "189 - 191 Willis St,",
+        "coordinates": [
+            -41.2916084056584,
+            174.773514985014
+        ],
+        "name": "City GPs",
+        "pho": "Compass Health",
+        "phone": "04 3816161",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 49.0
+            },
+            {
+                "age": 25,
+                "price": 61.0
+            },
+            {
+                "age": 45,
+                "price": 62.0
+            },
+            {
+                "age": 65,
+                "price": 60.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/322/Default.aspx"
+    },
+    {
+        "address": "Level 1, Deloitte House, 10 Brandon Street",
+        "coordinates": [
+            -41.2835062591943,
+            174.777380496361
+        ],
+        "name": "City Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 4712161",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 53.0
+            },
+            {
+                "age": 18,
+                "price": 59.0
+            },
+            {
+                "age": 25,
+                "price": 59.0
+            },
+            {
+                "age": 45,
+                "price": 59.0
+            },
+            {
+                "age": 65,
+                "price": 52.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/316/Default.aspx"
+    },
+    {
+        "address": "Level 1, 36 Allen Street",
+        "coordinates": [
+            -41.293056942819,
+            174.782414611199
+        ],
+        "name": "Courtenay Medical",
+        "pho": "Compass Health",
+        "phone": "04 8015228",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 43.0
+            },
+            {
+                "age": 18,
+                "price": 51.0
+            },
+            {
+                "age": 25,
+                "price": 53.0
+            },
+            {
+                "age": 45,
+                "price": 53.0
+            },
+            {
+                "age": 65,
+                "price": 53.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/315/Default.aspx"
+    },
+    {
+        "address": "4 Taurima Street, Hataitai",
+        "coordinates": [
+            -41.3043959150521,
+            174.793518326786
+        ],
+        "name": "Dr RM McIlroy's Surgery",
+        "pho": "Compass Health",
+        "phone": "04 3861379",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/337/Default.aspx"
+    },
+    {
+        "address": "51 Kapiti Road,",
+        "coordinates": [
+            -40.9120221,
+            175.0031146
+        ],
+        "name": "Grace Surgery",
+        "pho": "Compass Health",
+        "phone": "04 2983050",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 46.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/6585/Default.aspx"
+    },
+    {
+        "address": "12 Tapiri St, Hataitai",
+        "coordinates": [
+            -41.3059412412874,
+            174.793763432687
+        ],
+        "name": "Hataitai Medical Practice",
+        "pho": "Compass Health",
+        "phone": "04 3863598",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 39.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 25,
+                "price": 54.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/356/Default.aspx"
+    },
+    {
+        "address": "4 Taurima St, Hataitai",
+        "coordinates": [
+            -41.3043959150521,
+            174.793518326786
+        ],
+        "name": "Hataitai Village Surgery",
+        "pho": "Compass Health",
+        "phone": "04 3861379",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/372/Default.aspx"
+    },
+    {
+        "address": "Kapiti Health Centre, Warrimoo Street",
+        "coordinates": [
+            -40.910608744553,
+            175.006952052416
+        ],
+        "name": "Hora Te Pai Health Services",
+        "pho": "Compass Health",
+        "phone": "04 9027095",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 8.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/357/Default.aspx"
+    },
+    {
+        "address": "159 The Parade, Island Bay",
+        "coordinates": [
+            -41.3353625020406,
+            174.773474366711
+        ],
+        "name": "Island Bay Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 3837647",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 39.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/367/Default.aspx"
+    },
+    {
+        "address": "24 Moorefield Road, Johnsonville",
+        "coordinates": [
+            -41.2218114476702,
+            174.806400347867
+        ],
+        "name": "Johnsonville Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 9208850",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 39.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 25,
+                "price": 52.0
+            },
+            {
+                "age": 45,
+                "price": 52.0
+            },
+            {
+                "age": 65,
+                "price": 48.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/370/Default.aspx"
+    },
+    {
+        "address": "42 Upland Road, Kelburn",
+        "coordinates": [
+            -41.2877948740891,
+            174.765507708793
+        ],
+        "name": "Kelburn GPs",
+        "pho": "Compass Health",
+        "phone": "04 4759801",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 47.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 52.0
+            },
+            {
+                "age": 45,
+                "price": 52.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/381/Default.aspx"
+    },
+    {
+        "address": "5 Upland Rd, Kelburn",
+        "coordinates": [
+            -41.2857995737486,
+            174.767006515261
+        ],
+        "name": "Kelburn Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 9399551",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 36.0
+            },
+            {
+                "age": 18,
+                "price": 47.0
+            },
+            {
+                "age": 25,
+                "price": 47.0
+            },
+            {
+                "age": 45,
+                "price": 47.0
+            },
+            {
+                "age": 65,
+                "price": 46.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/380/Default.aspx"
+    },
+    {
+        "address": "8 Dekka St, Khandallah",
+        "coordinates": [
+            -41.2474061169988,
+            174.790334364882
+        ],
+        "name": "Khandallah Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 4797157",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 42.0
+            },
+            {
+                "age": 18,
+                "price": 49.0
+            },
+            {
+                "age": 25,
+                "price": 56.0
+            },
+            {
+                "age": 45,
+                "price": 56.0
+            },
+            {
+                "age": 65,
+                "price": 56.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/384/Default.aspx"
+    },
+    {
+        "address": "49 Hinau Street, Linden",
+        "coordinates": [
+            -41.1581925510255,
+            174.832965644893
+        ],
+        "name": "Linden Surgery",
+        "pho": "Compass Health",
+        "phone": "04 2328376",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 46.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 47.0
+            },
+            {
+                "age": 65,
+                "price": 46.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/395/Default.aspx"
+    },
+    {
+        "address": "107 The Esplanade, Paremata",
+        "coordinates": [
+            -41.091693298327,
+            174.867888515687
+        ],
+        "name": "Mana Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 2338019",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 49.0
+            },
+            {
+                "age": 25,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 49.0
+            },
+            {
+                "age": 65,
+                "price": 48.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/398/Default.aspx"
+    },
+    {
+        "address": "46 Park Rd, Miramar",
+        "coordinates": [
+            -41.3140902910754,
+            174.818138998074
+        ],
+        "name": "Miramar Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 388 7018",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 25,
+                "price": 47.0
+            },
+            {
+                "age": 45,
+                "price": 47.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/406/Default.aspx"
+    },
+    {
+        "address": "15 Batchelor Street, Newlands",
+        "coordinates": [
+            -41.2223744204311,
+            174.82219769496
+        ],
+        "name": "Newlands Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 4789858",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 51.9
+            },
+            {
+                "age": 25,
+                "price": 51.9
+            },
+            {
+                "age": 45,
+                "price": 52.0
+            },
+            {
+                "age": 65,
+                "price": 52.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/413/Default.aspx"
+    },
+    {
+        "address": "33 Rintoul St, Newtown",
+        "coordinates": [
+            -41.3132677530763,
+            174.778887997349
+        ],
+        "name": "Newtown Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 389 9955",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 41.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/415/Default.aspx"
+    },
+    {
+        "address": "75 Ottawa Rd, Ngaio",
+        "coordinates": [
+            -41.2473738890994,
+            174.774879767997
+        ],
+        "name": "Ngaio Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 9399393",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/416/Default.aspx"
+    },
+    {
+        "address": "52 Northland Rd, Northland",
+        "coordinates": [
+            -41.283434862219,
+            174.757271880914
+        ],
+        "name": "Northland Village Surgery",
+        "pho": "Compass Health",
+        "phone": "04 4753377",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 43.0
+            },
+            {
+                "age": 18,
+                "price": 51.0
+            },
+            {
+                "age": 25,
+                "price": 51.0
+            },
+            {
+                "age": 45,
+                "price": 51.0
+            },
+            {
+                "age": 65,
+                "price": 51.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/424/Default.aspx"
+    },
+    {
+        "address": "123 Moorefield Rd, Johnsonville",
+        "coordinates": [
+            -41.2288941009139,
+            174.800986978523
+        ],
+        "name": "Onslow Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 4789999",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 43.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 52.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/431/Default.aspx"
+    },
+    {
+        "address": "4 Bedford Court, Cannons Creek",
+        "coordinates": [
+            -41.1413139758592,
+            174.863379953858
+        ],
+        "name": "Pacific Health Service Porirua",
+        "pho": "Compass Health",
+        "phone": "04 890 3620",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 10.0
+            },
+            {
+                "age": 25,
+                "price": 10.0
+            },
+            {
+                "age": 45,
+                "price": 10.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/5105/Default.aspx"
+    },
+    {
+        "address": "58 Miramar Ave, Miramar",
+        "coordinates": [
+            -41.3159404526599,
+            174.815024414331
+        ],
+        "name": "Peninsula Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 3808855",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/446/Default.aspx"
+    },
+    {
+        "address": "Level 4,  Plimmer Tower, Lambton Quay",
+        "coordinates": [
+            -41.2859617182011,
+            174.775249667975
+        ],
+        "name": "Plimmer Surgery",
+        "pho": "Compass Health",
+        "phone": "04 472 6024",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 39.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/453/Default.aspx"
+    },
+    {
+        "address": "10 Steyne Avenue, Plimmerton",
+        "coordinates": [
+            -41.0825564258592,
+            174.865880945682
+        ],
+        "name": "Plimmerton Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 2338015",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/452/Default.aspx"
+    },
+    {
+        "address": "23 Raumati Road, Raumati Beach",
+        "coordinates": [
+            -40.9190529590133,
+            174.98273252998
+        ],
+        "name": "Raumati Road Surgery",
+        "pho": "Compass Health",
+        "phone": "04 298 6807",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 65.0
+            },
+            {
+                "age": 45,
+                "price": 65.0
+            },
+            {
+                "age": 65,
+                "price": 54.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/473/Default.aspx"
+    },
+    {
+        "address": "Student Health and Counselling Centre, Mt Cook",
+        "coordinates": [
+            -36.0998648060489,
+            174.590354368876
+        ],
+        "name": "Student Health Services Massey University",
+        "pho": "Compass Health",
+        "phone": "04 8012542",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 0.0
+            },
+            {
+                "age": 65,
+                "price": 0.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/555/Default.aspx"
+    },
+    {
+        "address": "Student Health Service, Mauri Ora, L1, Student Union B",
+        "coordinates": [
+            -41.2880074413849,
+            174.768104524731
+        ],
+        "name": "Student Health Services, Mauri Ora, Victoria University",
+        "pho": "Compass Health",
+        "phone": "04 463 5308",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 0.0
+            },
+            {
+                "age": 65,
+                "price": 0.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/486/Default.aspx"
+    },
+    {
+        "address": "Rewa Terrace, Tawa",
+        "coordinates": [
+            -41.1694441943566,
+            174.82429040894
+        ],
+        "name": "Tawa Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 2327193",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 46.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 47.0
+            },
+            {
+                "age": 65,
+                "price": 46.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/501/Default.aspx"
+    },
+    {
+        "address": "331 Willis Street,",
+        "coordinates": [
+            -41.2959692359451,
+            174.771052810887
+        ],
+        "name": "Te Aro Health Centre",
+        "pho": "Compass Health",
+        "phone": "04 3850255",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.5
+            },
+            {
+                "age": 18,
+                "price": 12.5
+            },
+            {
+                "age": 25,
+                "price": 12.5
+            },
+            {
+                "age": 45,
+                "price": 12.5
+            },
+            {
+                "age": 65,
+                "price": 12.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/499/Default.aspx"
+    },
+    {
+        "address": "Coastlands Mall, Paraparaumu",
+        "coordinates": [
+            -40.9165876099765,
+            175.005529433268
+        ],
+        "name": "Team Medical",
+        "pho": "Compass Health",
+        "phone": "04 2973000",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/706/Default.aspx"
+    },
+    {
+        "address": "Level 1, 50 The Terrace (via 44 The Terrace), CBD",
+        "coordinates": [
+            -41.2805247051171,
+            174.775055541358
+        ],
+        "name": "The Terrace Medical Centre",
+        "pho": "Compass Health",
+        "phone": "04 472 5723",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 52.5
+            },
+            {
+                "age": 18,
+                "price": 56.0
+            },
+            {
+                "age": 25,
+                "price": 60.5
+            },
+            {
+                "age": 45,
+                "price": 62.0
+            },
+            {
+                "age": 65,
+                "price": 56.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/514/Default.aspx"
+    },
+    {
+        "address": "3 Whitehouse Rd, Titahi Bay",
+        "coordinates": [
+            -41.1080009613562,
+            174.839494553871
+        ],
+        "name": "Titahi Bay Doctors",
+        "pho": "Compass Health",
+        "phone": "04 2368171",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 33.5
+            },
+            {
+                "age": 25,
+                "price": 33.5
+            },
+            {
+                "age": 45,
+                "price": 33.5
+            },
+            {
+                "age": 65,
+                "price": 33.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/502/Default.aspx"
+    },
+    {
+        "address": "76 Main Road, Titahi Bay",
+        "coordinates": [
+            -41.1089313246568,
+            174.840461186736
+        ],
+        "name": "Titahi Bay Surgery",
+        "pho": "Compass Health",
+        "phone": "04 2368200",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 33.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/503/Default.aspx"
+    },
+    {
+        "address": "104a Wadestown Rd, Wadestown",
+        "coordinates": [
+            -41.2617736239261,
+            174.774419694351
+        ],
+        "name": "Wadestown Medical",
+        "pho": "Compass Health",
+        "phone": "04 4737248",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 51.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/564/Default.aspx"
+    },
+    {
+        "address": "Marae Lane,",
+        "coordinates": [
+            -40.8782238929786,
+            175.063272918862
+        ],
+        "name": "Waikanae Health Centre",
+        "pho": "Compass Health",
+        "phone": "04 2936005",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.5
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/525/Default.aspx"
+    },
+    {
+        "address": "Whitby Mall, Discovery Drive",
+        "coordinates": [
+            -41.1158750461098,
+            174.890211187909
+        ],
+        "name": "Whitby Doctors",
+        "pho": "Compass Health",
+        "phone": "04 234 1404",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/537/Default.aspx"
+    },
+    {
+        "address": "159-163 South High Street, Carterton",
+        "coordinates": [
+            -41.0355184542467,
+            175.517051656938
+        ],
+        "name": "Carterton Medical Centre",
+        "pho": "Compass Health",
+        "phone": "06 3798105",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 33.5
+            },
+            {
+                "age": 25,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/760/Default.aspx"
+    },
+    {
+        "address": "3 Clifford Square, Featherston",
+        "coordinates": [
+            -41.1172080281923,
+            175.328611810834
+        ],
+        "name": "Featherston Medical Centre",
+        "pho": "Compass Health",
+        "phone": "06 3089220",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 31.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/757/Default.aspx"
+    },
+    {
+        "address": "186 East Street, Greytown",
+        "coordinates": [
+            -41.0892119631547,
+            175.452116596773
+        ],
+        "name": "Greytown Medical Centre",
+        "pho": "Compass Health",
+        "phone": "06 3049012",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.5
+            },
+            {
+                "age": 18,
+                "price": 27.0
+            },
+            {
+                "age": 25,
+                "price": 30.5
+            },
+            {
+                "age": 45,
+                "price": 33.5
+            },
+            {
+                "age": 65,
+                "price": 33.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/759/Default.aspx"
+    },
+    {
+        "address": "Crayne Street, Masterton",
+        "coordinates": [
+            -40.9583816678359,
+            175.649420799783
+        ],
+        "name": "Kuripuni Medical Centre",
+        "pho": "Compass Health",
+        "phone": "06 3774093",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/762/Default.aspx"
+    },
+    {
+        "address": "5 Oxford Street, Martinborough",
+        "coordinates": [
+            -41.2193817552599,
+            175.460591705136
+        ],
+        "name": "Martinborough Health Services",
+        "pho": "Compass Health",
+        "phone": "06 3069501",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 33.0
+            },
+            {
+                "age": 25,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 31.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/758/Default.aspx"
+    },
+    {
+        "address": "5 Park Street, Masterton",
+        "coordinates": [
+            -40.9494916695605,
+            175.663883298098
+        ],
+        "name": "Whaiora",
+        "pho": "Compass Health",
+        "phone": "06 3700818",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/966/Default.aspx"
+    },
+    {
+        "address": "19 Kenilworth Street, Waipawa",
+        "coordinates": [
+            -39.9437771,
+            176.5862613
+        ],
+        "name": "The Doctors, Waipawa",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 857 8507",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/central-hawkes-bay/the-doctors-waipawa/"
+    },
+    {
+        "address": "1 Cook Street, Waipukurau",
+        "coordinates": [
+            -39.9948323,
+            176.5492277
+        ],
+        "name": "Tuki Tuki Medical Ltd",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 858 7767",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 32.5
+            },
+            {
+                "age": 18,
+                "price": 32.5
+            },
+            {
+                "age": 25,
+                "price": 32.5
+            },
+            {
+                "age": 45,
+                "price": 32.5
+            },
+            {
+                "age": 65,
+                "price": 32.5
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/central-hawkes-bay/tuki-tuki-medical-ltd/"
+    },
+    {
+        "address": "26 Middle Road, Havelock North",
+        "coordinates": [
+            -39.6720344,
+            176.8748705
+        ],
+        "name": "Dr Colin Wakefield",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 877 8011",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 24.0
+            },
+            {
+                "age": 25,
+                "price": 28.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/dr-colin-wakefield/"
+    },
+    {
+        "address": "821 Orchard Road, Camberley, Hastings\nPO Box 718, Hastings\nTelephone: (06) 871 5352\nFax: (06) 871 5353",
+        "coordinates": [
+            -39.6223507,
+            176.8153549
+        ],
+        "name": "Hauora Heretaunga",
+        "pho": "Health Hawke's Bay",
+        "phone": "None supplied",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 25,
+                "price": 16.0
+            },
+            {
+                "age": 45,
+                "price": 16.0
+            },
+            {
+                "age": 65,
+                "price": 16.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/hauora-heretaunga/"
+    },
+    {
+        "address": "615 Heretaunga Street West, Hastings",
+        "coordinates": [
+            -39.6356736,
+            176.8373212
+        ],
+        "name": "Medical & Injury",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 878 8600",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/medical-injury/"
+    },
+    {
+        "address": "110 Russell Street South, Hastings",
+        "coordinates": [
+            -39.6427489,
+            176.8428494
+        ],
+        "name": "The Doctors, Hastings",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 876 8445",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 16.0
+            },
+            {
+                "age": 18,
+                "price": 28.0
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/the-doctors-hastings/"
+    },
+    {
+        "address": "101 Queen Street East, Hastings",
+        "coordinates": [
+            -39.6414748,
+            176.844269
+        ],
+        "name": "The Hastings Health Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 873 8999",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 17.0
+            },
+            {
+                "age": 18,
+                "price": 33.0
+            },
+            {
+                "age": 25,
+                "price": 33.5
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/the-hastings-health-centre/"
+    },
+    {
+        "address": "57 Middle Road, Havelock North",
+        "coordinates": [
+            -39.67347729999999,
+            176.8741972
+        ],
+        "name": "Dr Maurice Jolly",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 877 6141",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/dr-maurice-jolly/"
+    },
+    {
+        "address": "407 Gascoigne Street, Hastings",
+        "coordinates": [
+            -39.6458794,
+            176.8294967
+        ],
+        "name": "Gascoigne Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 878 9978",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/gascoigne-medical-centre/"
+    },
+    {
+        "address": "1/900 Tomoana Road, Mahora, Hastings",
+        "coordinates": [
+            -39.62872360000001,
+            176.8489408
+        ],
+        "name": "Mahora Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 878 2722",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/mahora-medical-centre/"
+    },
+    {
+        "address": "33-35 Napier Road, Havelock North\nTelephone: (06) 873 0752\nFax: (06) 873 0753\nEmail: tematapeak@hdl.net.nz",
+        "coordinates": [
+            -39.6670982,
+            176.8798217
+        ],
+        "name": "Te Mata Peak Practice",
+        "pho": "Health Hawke's Bay",
+        "phone": "None supplied",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/te-mata-peak-practice/"
+    },
+    {
+        "address": "",
+        "coordinates": [
+            -40.900557,
+            174.885971
+        ],
+        "name": "Maraenui Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "65 Geddis Avenue, Maraenui, Napier",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/maraenui-medical-centre/"
+    },
+    {
+        "address": "123 Carlyle Street",
+        "coordinates": [
+            -39.4932968,
+            176.9053484
+        ],
+        "name": "Carlyle Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 835 3720",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 39.5
+            },
+            {
+                "age": 45,
+                "price": 39.5
+            },
+            {
+                "age": 65,
+                "price": 39.5
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/carlyle-medical-centre/"
+    },
+    {
+        "address": "27/28 Douglas McLean Avenue, Napier",
+        "coordinates": [
+            -39.5001548,
+            176.9035751
+        ],
+        "name": "Central Medical (HB) Ltd",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 843 2320",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/central-medical-hb-ltd/"
+    },
+    {
+        "address": "1 Williamson Road, PO Box 2, Clive",
+        "coordinates": [
+            -39.5844207,
+            176.9158059
+        ],
+        "name": "Clive Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 870 0402",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 21.0
+            },
+            {
+                "age": 18,
+                "price": 33.0
+            },
+            {
+                "age": 25,
+                "price": 33.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/clive-medical-centre/"
+    },
+    {
+        "address": "23 Clive Square West, Napier",
+        "coordinates": [
+            -39.4921585,
+            176.9129147
+        ],
+        "name": "Dr Alex Luft",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 835 9604",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/dr-alex-luft/"
+    },
+    {
+        "address": "31 Charles Street, Westshore, Napier",
+        "coordinates": [
+            -39.4778548,
+            176.8829241
+        ],
+        "name": "Dr Marjory Craig",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 835 5661",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 20.0
+            },
+            {
+                "age": 25,
+                "price": 22.5
+            },
+            {
+                "age": 45,
+                "price": 22.0
+            },
+            {
+                "age": 65,
+                "price": 25.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/dr-marjory-craig/"
+    },
+    {
+        "address": "4a Peddie Street, Taradale",
+        "coordinates": [
+            -39.5338596,
+            176.8510384
+        ],
+        "name": "Dr Paul Hendy",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 844 2930",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/dr-paul-hendy/"
+    },
+    {
+        "address": "Munroe Raffles Medical Centre\n1st Floor, Cnr Munroe & Raffles Street, Napier",
+        "coordinates": [
+            -39.4946336,
+            176.9150111
+        ],
+        "name": "Dr Robert Harris",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 835 7376",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 26.0
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/dr-robert-harris/"
+    },
+    {
+        "address": "135 Gloucester Street, Taradale, Napier",
+        "coordinates": [
+            -39.5293389,
+            176.8560784
+        ],
+        "name": "Greendale Family Health Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 844 8071",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 33.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/greendale-family-health-centre/"
+    },
+    {
+        "address": "24 Shakespeare Road, Napier",
+        "coordinates": [
+            -39.4881122,
+            176.9156632
+        ],
+        "name": "Shakespeare Rd Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 835 7318",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 25.0
+            },
+            {
+                "age": 25,
+                "price": 25.0
+            },
+            {
+                "age": 45,
+                "price": 25.0
+            },
+            {
+                "age": 65,
+                "price": 25.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/shakespeare-rd-medical-centre/"
+    },
+    {
+        "address": "18-20 Durham Avenue, Tamatea, Napier",
+        "coordinates": [
+            -39.5080936,
+            176.8681644
+        ],
+        "name": "Tamatea Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 843 9048",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/tamatea-medical-centre/"
+    },
+    {
+        "address": "20 Puketapu Road, Taradale, Napier, 4112",
+        "coordinates": [
+            -39.5371574,
+            176.8461624
+        ],
+        "name": "Taradale Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 844 6831",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/taradale-medical-centre/"
+    },
+    {
+        "address": "524 Kennedy Road,\nGreenmeadows, Napier 4110\nTelephone: (06) 844 6277\nFax: (06) 844 3748",
+        "coordinates": [
+            -39.5229325,
+            176.8685694
+        ],
+        "name": "The Doctors, Greenmeadows",
+        "pho": "Health Hawke's Bay",
+        "phone": "The Doctors Greenmeadows and EIT are satellite clinics of The Doctors, Napier Ltd.  This means that if you enrol with any one of these three practices you are able to see a health practitioner at any of the three sites and receive the same enrolled patient benefits.",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 26.5
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/the-doctors-greenmeadows/"
+    },
+    {
+        "address": "Cnr Chatham Road & Caernarvon Drive, Flaxmere, Hastings",
+        "coordinates": [
+            -39.62632929999999,
+            176.7845586
+        ],
+        "name": "Totara Health Centre – Flaxmere",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 873 9024",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/totara-health-centre-flaxmere/"
+    },
+    {
+        "address": "403 Nelson Street North, Hastings, 4122",
+        "coordinates": [
+            -39.6368651,
+            176.8440445
+        ],
+        "name": "Totara Health Centre – Nelson Street",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 873 0101",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/hastings/totara-health-centre-nelson-street/"
+    },
+    {
+        "address": "Wairoa Integrated Family Health Centre, Kitchener Street, Wairoa",
+        "coordinates": [
+            -39.0430076,
+            177.4189878
+        ],
+        "name": "Health Care Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 838 9739",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 0.0
+            },
+            {
+                "age": 45,
+                "price": 16.5
+            },
+            {
+                "age": 65,
+                "price": 21.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/wairoa/health-care-centre/"
+    },
+    {
+        "address": "Wairoa Integrated Family Health Centre, Kitchener Street, Wairoa Telephone: (06) 838 9728 Fax: (06) 838 9729",
+        "coordinates": [
+            -39.035173,
+            177.4180311
+        ],
+        "name": "Wairoa Medical Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "None supplied",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 0.0
+            },
+            {
+                "age": 45,
+                "price": 16.5
+            },
+            {
+                "age": 65,
+                "price": 22.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/wairoa/wairoa-medical-centre/"
+    },
+    {
+        "address": "19 Eden Street, OAMARU 9400",
+        "coordinates": [
+            -45.096573,
+            170.9706678
+        ],
+        "name": "Central Medical",
+        "pho": "Southern PHO",
+        "phone": "03 434 8181",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.5
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 24,
+                "price": 42.5
+            },
+            {
+                "age": 45,
+                "price": 42.5
+            },
+            {
+                "age": 65,
+                "price": 42.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=76"
+    },
+    {
+        "address": "6 Wynyard Street, KUROW 9435",
+        "coordinates": [
+            -44.733315,
+            170.4691382
+        ],
+        "name": "Kurow Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 436 0760",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.5
+            },
+            {
+                "age": 18,
+                "price": 34.5
+            },
+            {
+                "age": 24,
+                "price": 34.5
+            },
+            {
+                "age": 45,
+                "price": 34.5
+            },
+            {
+                "age": 65,
+                "price": 34.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=83"
+    },
+    {
+        "address": "6 Coquet Street, Oamaru 9400",
+        "coordinates": [
+            -45.0977907,
+            170.9722919
+        ],
+        "name": "Malcolm Lay Medical Trust",
+        "pho": "Southern PHO",
+        "phone": "03 434 8291",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 33.0
+            },
+            {
+                "age": 24,
+                "price": 33.0
+            },
+            {
+                "age": 45,
+                "price": 33.0
+            },
+            {
+                "age": 65,
+                "price": 33.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=85"
+    },
+    {
+        "address": "4 Frome Street, Oamaru 9400",
+        "coordinates": [
+            -45.0798393,
+            170.9823283
+        ],
+        "name": "North End Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 437 0347",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=88"
+    },
+    {
+        "address": "11 Arun Street, Oamaru 9400",
+        "coordinates": [
+            -45.1061885,
+            170.965054
+        ],
+        "name": "South Hill Medical",
+        "pho": "Southern PHO",
+        "phone": "03 434 8499",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 24,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=93"
+    },
+    {
+        "address": "23 Reed Street , Oamaru 9400",
+        "coordinates": [
+            -45.096615,
+            170.9683456
+        ],
+        "name": "Whitestone Family Practice",
+        "pho": "Southern PHO",
+        "phone": "03 434 7697",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 24,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=119"
+    },
+    {
+        "address": "29 Albany Street, North Dunedin, DUNEDIN 9016",
+        "coordinates": [
+            -45.8660991,
+            170.5088692
+        ],
+        "name": "Albany Street Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 477 8812",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.5
+            },
+            {
+                "age": 18,
+                "price": 42.5
+            },
+            {
+                "age": 24,
+                "price": 42.5
+            },
+            {
+                "age": 45,
+                "price": 42.5
+            },
+            {
+                "age": 65,
+                "price": 42.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=58"
+    },
+    {
+        "address": "343 Highgate, Roslyn, DUNEDIN 9010",
+        "coordinates": [
+            -45.8659244,
+            170.4915901
+        ],
+        "name": "Amity Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 464 0041",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=38"
+    },
+    {
+        "address": "70 Macandrew Road, South Dunedin, DUNEDIN 9012",
+        "coordinates": [
+            -45.8965682,
+            170.4999257
+        ],
+        "name": "Aurora Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 455 0006",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=39"
+    },
+    {
+        "address": "2 Broadway, DUNEDIN 9016",
+        "coordinates": [
+            -45.8780856,
+            170.5001862
+        ],
+        "name": "Broadway Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 477 4335",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 12.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=40"
+    },
+    {
+        "address": "285 South Road, Caversham, DUNEDIN 9012",
+        "coordinates": [
+            -45.8963991,
+            170.4808935
+        ],
+        "name": "Caversham Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 487 7169",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=59"
+    },
+    {
+        "address": "483 George Street, Dunedin",
+        "coordinates": [
+            -45.8663909,
+            170.5076426
+        ],
+        "name": "Community Support Medical Practice",
+        "pho": "Southern PHO",
+        "phone": "03 477 7412",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 10.0
+            },
+            {
+                "age": 24,
+                "price": 10.0
+            },
+            {
+                "age": 45,
+                "price": 10.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=41"
+    },
+    {
+        "address": "15 St David Street, Dunedin North, DUNEDIN 9016",
+        "coordinates": [
+            -45.8623355,
+            170.5111745
+        ],
+        "name": "Dunedin North Medical",
+        "pho": "Southern PHO",
+        "phone": "03 477 7583",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 37.5
+            },
+            {
+                "age": 24,
+                "price": 37.5
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=100"
+    },
+    {
+        "address": "351 King Edward Street, Dunedin South, DUNEDIN 9012",
+        "coordinates": [
+            -45.8976952,
+            170.5017307
+        ],
+        "name": "Dunedin South Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 455 4073",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 12.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=61"
+    },
+    {
+        "address": "26 Bank Street, North East Valley, DUNEDIN 9010",
+        "coordinates": [
+            -45.854575,
+            170.5176819
+        ],
+        "name": "Gardens Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 473 0144",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=47"
+    },
+    {
+        "address": "96 Gordon Road, MOSGIEL 9024",
+        "coordinates": [
+            -45.8769781,
+            170.3490135
+        ],
+        "name": "Gordon Road Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 489 8881",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 25.0
+            },
+            {
+                "age": 24,
+                "price": 29.0
+            },
+            {
+                "age": 45,
+                "price": 29.0
+            },
+            {
+                "age": 65,
+                "price": 29.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=54"
+    },
+    {
+        "address": "20 Shand Street, Green Island, DUNEDIN 9018",
+        "coordinates": [
+            -45.9028564,
+            170.4301432
+        ],
+        "name": "Green Island Family Health Care",
+        "pho": "Southern PHO",
+        "phone": "03 488 2222",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 3.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 24,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=62"
+    },
+    {
+        "address": "4 Howden Street, Green Island, DUNEDIN 9018",
+        "coordinates": [
+            -45.9028367,
+            170.4291704
+        ],
+        "name": "Green Island Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 488 2754",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 21.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=48"
+    },
+    {
+        "address": "47 George Street, Port Chalmers, DUNEDIN 9023",
+        "coordinates": [
+            -45.8169667,
+            170.6208438
+        ],
+        "name": "Harbour Health Port Chalmers",
+        "pho": "Southern PHO",
+        "phone": "03 472 8026",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 41.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 24,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=63"
+    },
+    {
+        "address": "231 Helensburgh Road, Wakari, DUNEDIN 9010",
+        "coordinates": [
+            -45.8533778,
+            170.4835649
+        ],
+        "name": "Helensburgh Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 476 4565",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 42.5
+            },
+            {
+                "age": 24,
+                "price": 42.5
+            },
+            {
+                "age": 45,
+                "price": 42.5
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=64"
+    },
+    {
+        "address": "609 Highgate, Maori Hill, DUNEDIN 9010",
+        "coordinates": [
+            -45.8580827,
+            170.5007968
+        ],
+        "name": "Maori Hill Clinic",
+        "pho": "Southern PHO",
+        "phone": "03 464 0044",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 46.5
+            },
+            {
+                "age": 24,
+                "price": 46.5
+            },
+            {
+                "age": 45,
+                "price": 46.5
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=65"
+    },
+    {
+        "address": "Suite 3, Car Park Level One, Meridian Mall, 267 George Street, DUNEDIN 9016",
+        "coordinates": [
+            -45.8704165,
+            170.5054313
+        ],
+        "name": "Meridian Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 477 9927",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 21.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 24,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=66"
+    },
+    {
+        "address": "169 Eglinton Road, Mornington, DUNEDIN 9011",
+        "coordinates": [
+            -45.8820309,
+            170.4829375
+        ],
+        "name": "Mornington Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 466 5011",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 13.0
+            },
+            {
+                "age": 18,
+                "price": 38.5
+            },
+            {
+                "age": 24,
+                "price": 38.5
+            },
+            {
+                "age": 45,
+                "price": 38.5
+            },
+            {
+                "age": 65,
+                "price": 38.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=97"
+    },
+    {
+        "address": "21 Inglis Street , MOSGIEL 9024",
+        "coordinates": [
+            -45.8828617,
+            170.3470692
+        ],
+        "name": "Mosgiel Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 489 5135",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=55"
+    },
+    {
+        "address": "59A Musselburgh Rise, Musselburgh, DUNEDIN 9013",
+        "coordinates": [
+            -45.8974139,
+            170.5155077
+        ],
+        "name": "Musselburgh Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 455 4085",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 16.0
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 24,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=50"
+    },
+    {
+        "address": "12 Allans Beach Road, Portobello, DUNEDIN 9014",
+        "coordinates": [
+            -45.8412117,
+            170.6537935
+        ],
+        "name": "Otago Peninsula Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 478 0880",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 48.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 24,
+                "price": 48.0
+            },
+            {
+                "age": 45,
+                "price": 48.0
+            },
+            {
+                "age": 65,
+                "price": 48.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=67"
+    },
+    {
+        "address": "10 Beaumaris Street, OUTRAM 9019,",
+        "coordinates": [
+            -45.8603836,
+            170.2288958
+        ],
+        "name": "Outram Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 486 2150",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 24,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=57"
+    },
+    {
+        "address": "2 Pitt Street, North Dunedin, DUNEDIN 9016",
+        "coordinates": [
+            -45.8675867,
+            170.506651
+        ],
+        "name": "Pitt Street Medical",
+        "pho": "Southern PHO",
+        "phone": "03 474 1348",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 13.5
+            },
+            {
+                "age": 18,
+                "price": 43.5
+            },
+            {
+                "age": 24,
+                "price": 43.5
+            },
+            {
+                "age": 45,
+                "price": 43.5
+            },
+            {
+                "age": 65,
+                "price": 43.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=68"
+    },
+    {
+        "address": "271 Highgate, Roslyn, DUNEDIN 9010",
+        "coordinates": [
+            -45.8676409,
+            170.4889166
+        ],
+        "name": "Roslyn Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 477 6471",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 24,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=52"
+    },
+    {
+        "address": "100 Princes Street, Dunedin Central, DUNEDIN 9016",
+        "coordinates": [
+            -45.8757212,
+            170.5024539
+        ],
+        "name": "Servants Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 477 7040",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 24,
+                "price": 0.0
+            },
+            {
+                "age": 45,
+                "price": 0.0
+            },
+            {
+                "age": 65,
+                "price": 0.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=69"
+    },
+    {
+        "address": "Unit 3 Cromtrade, 2 McNulty Drive, Cromwell 9310",
+        "coordinates": [
+            -45.0496762,
+            169.19456679999996
+        ],
+        "name": "Cromwell Family Practice",
+        "pho": "Southern PHO",
+        "phone": "03 445 4666",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=177"
+    },
+    {
+        "address": "1 Tyrone Street, Ranfurly 9332",
+        "coordinates": [
+            -45.1285615,
+            170.1106391
+        ],
+        "name": "Ranfurly Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 444 1073",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 42.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=90"
+    },
+    {
+        "address": "65 Scotland Street, Roxburgh 9500",
+        "coordinates": [
+            -45.5384894,
+            169.310832
+        ],
+        "name": "Roxburgh Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 446 8200",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 34.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=92"
+    },
+    {
+        "address": "Wanaka Lakes Health Ctr23 Cardrona Valley RoadWanaka 9305",
+        "coordinates": [
+            -44.70784769999999,
+            169.1360214
+        ],
+        "name": "Aspiring Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 443 1226",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=72"
+    },
+    {
+        "address": "38b Gorge Road, Queenstown 9300",
+        "coordinates": [
+            -45.0269086,
+            168.661071
+        ],
+        "name": "Mountain Lakes Medical",
+        "pho": "Southern PHO",
+        "phone": "03 442 7188",
+        "prices": [
+            {
+                "age": 0,
+                "price": 10.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 24,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 45.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=101"
+    },
+    {
+        "address": "9 Isle Street, Queenstown 9300",
+        "coordinates": [
+            -45.0299519,
+            168.6582585
+        ],
+        "name": "Queenstown Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 441 0500",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 59.5
+            },
+            {
+                "age": 24,
+                "price": 59.5
+            },
+            {
+                "age": 45,
+                "price": 59.5
+            },
+            {
+                "age": 65,
+                "price": 59.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=16"
+    },
+    {
+        "address": "11 McBride Street, Queenstown 9300",
+        "coordinates": [
+            -45.0164674,
+            168.7303428
+        ],
+        "name": "Wakatipu Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 442 2288",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 55.0
+            },
+            {
+                "age": 24,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 55.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=94"
+    },
+    {
+        "address": "23 Cardrona Valley RoadWanaka 9305",
+        "coordinates": [
+            -44.70784769999999,
+            169.1360214
+        ],
+        "name": "Wanaka Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 443 0710",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 31.0
+            },
+            {
+                "age": 24,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=95"
+    },
+    {
+        "address": "29 Main Road, Owaka 9340",
+        "coordinates": [
+            -46.4504596,
+            169.6647844
+        ],
+        "name": "Catlins Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 415 8006",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 24,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=74"
+    },
+    {
+        "address": "3 Charlotte Street, Balclutha 9230",
+        "coordinates": [
+            -46.2366572,
+            169.7404173
+        ],
+        "name": "Clutha Health First General Practice",
+        "pho": "Southern PHO",
+        "phone": "03 419 0500",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 24,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=73"
+    },
+    {
+        "address": "3 Charlotte Street, Balclutha 9230",
+        "coordinates": [
+            -46.2366572,
+            169.7404173
+        ],
+        "name": "Doctor Visagie's Practice",
+        "pho": "Southern PHO",
+        "phone": "03 419 0400",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 24,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=81"
+    },
+    {
+        "address": "43 Whitehaven Street, Lawrence 9532",
+        "coordinates": [
+            -45.9201013,
+            169.6897078
+        ],
+        "name": "Lawrence Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 485 9056",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 24,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=84"
+    },
+    {
+        "address": "50 Tapanui-Raes Junction , Highway, TAPANUI 9522",
+        "coordinates": [
+            -45.9431253,
+            169.2625141
+        ],
+        "name": "West Otago Health",
+        "pho": "Southern PHO",
+        "phone": "03 204 8668",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.5
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 33.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=96"
+    },
+    {
+        "address": "2 Tone Street, BLUFF 9814",
+        "coordinates": [
+            -46.6042543,
+            168.3503409
+        ],
+        "name": "Bluff Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 212 7337",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 24,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=20"
+    },
+    {
+        "address": "25 Luxmore Drive, TE ANAU 9600",
+        "coordinates": [
+            -45.4163111,
+            167.7197389
+        ],
+        "name": "Fiordland Medical Practice",
+        "pho": "Southern PHO",
+        "phone": "03 249 7007",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 24,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=11"
+    },
+    {
+        "address": "9 Birch Lane, GORE 9710",
+        "coordinates": [
+            -46.1030597,
+            168.9369442
+        ],
+        "name": "Gore Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 209 3022",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 24,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=8"
+    },
+    {
+        "address": "12 Eccles Street, GORE 9710",
+        "coordinates": [
+            -46.104191,
+            168.9387035
+        ],
+        "name": "Gore Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 208 9222",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.2
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 24,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=6"
+    },
+    {
+        "address": "58 Garden Street, LUMSDEN 9730",
+        "coordinates": [
+            -45.7358121,
+            168.446105
+        ],
+        "name": "Lumsden Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 248 7146",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.5
+            },
+            {
+                "age": 18,
+                "price": 35.5
+            },
+            {
+                "age": 24,
+                "price": 35.5
+            },
+            {
+                "age": 45,
+                "price": 35.5
+            },
+            {
+                "age": 65,
+                "price": 35.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=7"
+    },
+    {
+        "address": "11 Bridge Street, MATAURA 9712",
+        "coordinates": [
+            -46.1943008,
+            168.8665056
+        ],
+        "name": "Mataura Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 203 8152",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 24,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=9"
+    },
+    {
+        "address": "Cnr Main and Chester Streets, OTAUTAU 9610",
+        "coordinates": [
+            -46.1447628,
+            167.9984694
+        ],
+        "name": "Otautau Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 225 8099",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.9
+            },
+            {
+                "age": 18,
+                "price": 31.9
+            },
+            {
+                "age": 24,
+                "price": 31.9
+            },
+            {
+                "age": 45,
+                "price": 31.9
+            },
+            {
+                "age": 65,
+                "price": 31.9
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=14"
+    },
+    {
+        "address": "104 Palmerston Street, RIVERTON 9822",
+        "coordinates": [
+            -46.3496398,
+            168.0172065
+        ],
+        "name": "Riverton Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 234 8290",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 24,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=12"
+    },
+    {
+        "address": "69A Orawia Road, TUATAPERE 9620",
+        "coordinates": [
+            -46.1276521,
+            167.6898631
+        ],
+        "name": "Tuatapere Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 226 6123",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=13"
+    },
+    {
+        "address": "394 Great North Road, WINTON 9720",
+        "coordinates": [
+            -46.1342918,
+            168.3257439
+        ],
+        "name": "Winton Medical Services",
+        "pho": "Southern PHO",
+        "phone": "03 236 7444",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 24,
+                "price": 30.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=10"
+    }
+]
