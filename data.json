@@ -1,50 +1,25 @@
 [
     {
-        "address": "237 Mt Smart Road, Onehunga  1061 ",
+        "address": "3/400 George Bolt Memorial Drive Auckland Airport Manukau",
         "coordinates": [
-            -36.9148209,
-            174.8013919
+            -36.9962043,
+            174.7881753
         ],
-        "name": "All Health - Mt Smart",
+        "name": "The Airport Doctors",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 579 0563  F 09 579 4620 ",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0
-            },
-            {
-                "age": 6,
-                "price": 0
-            },
-            {
-                "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
-            }
-        ],
-        "url": "None supplied"
+        "phone": "(09) 256 8655",
+        "prices": [],
+        "url": "http://www.alliancehealth.org.nz/clinics/14/the-airport-doctors/"
     },
     {
-        "address": "415 Queen Street, Auckland  City 1010 ",
+        "address": "415 Queen Street Auckland City",
         "coordinates": [
-            -36.8570275,
-            174.7615813
+            -36.8571321,
+            174.7616216
         ],
         "name": "Auckland City Doctors",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 280 3555  F 09 369 5125 ",
+        "phone": "(09) 280 3555",
         "prices": [
             {
                 "age": 0,
@@ -52,36 +27,24 @@
             },
             {
                 "age": 6,
-                "price": 0
+                "price": 11.5
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/1/auckland-city-doctors/"
     },
     {
-        "address": "1784 Great North Road,  Avondale 1026 ",
+        "address": "1784 Great North Road Avondale",
         "coordinates": [
             -36.891718,
             174.6962566
         ],
         "name": "Avondale Family Health Centre",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 820 0065  F 09 828 8909 ",
+        "phone": "(09) 820 0065 or 820 0526",
         "prices": [
             {
                 "age": 0,
@@ -93,106 +56,87 @@
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/3/avondale-family-health-centre/"
     },
     {
-        "address": "93 Bader Drive, Mangere Town  Centre ",
+        "address": "93 Bader Drive  Mangere Town Centre,",
         "coordinates": [
-            -36.969643,
-            174.79896
+            -36.9688897,
+            174.7997308
         ],
-        "name": "Bader Drive Health Care - Mangere",
+        "name": "Bader Drive Healthcare Mangere",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 275 8598  F 09 275 8544 ",
+        "phone": "",
         "prices": [
             {
                 "age": 0,
                 "price": 0
             },
             {
-                "age": 6,
-                "price": 0
-            },
-            {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 16.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/4/bader-drive-healthcare-mangere/"
     },
     {
-        "address": "Shop 4/6 7 Hill Road,  Manurewa ",
+        "address": "Shop 4/6,  7 Hill Road Manurewa",
         "coordinates": [
-            -37.020871,
-            174.897309
+            -37.0204997,
+            174.8971001
         ],
-        "name": "Bader Drive Health Care - Manurewa",
+        "name": "Bader Drive Healthcare Manurewa",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 275 8598  F 09 275 8544 ",
+        "phone": "(09) 266 8598",
         "prices": [
             {
                 "age": 0,
                 "price": 0
             },
             {
-                "age": 6,
+                "age": 18,
+                "price": 16.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/5/bader-drive-healthcare-manurewa/"
+    },
+    {
+        "address": "23 Hall Avenue Otahuhu",
+        "coordinates": [
+            -36.944839,
+            174.8431098
+        ],
+        "name": "Hall Ave Medical Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "1062",
+        "prices": [
+            {
+                "age": 0,
                 "price": 0
+            },
+            {
+                "age": 16,
+                "price": 5.0
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 15.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/24/hall-ave-medical-centre/"
     },
     {
-        "address": "144 Queens Road, Panmure  1072 ",
+        "address": "111 Queens Road Panmure",
         "coordinates": [
-            -36.9009261,
-            174.8568144
+            -36.900033,
+            174.854786
         ],
         "name": "Hong Kong Surgery",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 527 8829  F 09 527 8882 ",
+        "phone": "(09) 527 8829",
         "prices": [
             {
                 "age": 0,
@@ -200,36 +144,78 @@
             },
             {
                 "age": 6,
+                "price": 5.0
+            },
+            {
+                "age": 17,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/6/hong-kong-surgery/"
+    },
+    {
+        "address": "161 Queens Road  Panmure",
+        "coordinates": [
+            -36.9008555,
+            174.8564594
+        ],
+        "name": "Langimalie Health Centre Panmure",
+        "pho": "Alliance Health Plus",
+        "phone": "(09) 570 9827",
+        "prices": [
+            {
+                "age": 0,
                 "price": 0
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
+                "price": 15.0
             },
             {
                 "age": 65,
                 "price": 0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/8/langimalie-health-centre-panmure/"
     },
     {
-        "address": "215 Massey Road, Mangere",
+        "address": "29 Hill Street Onehunga",
+        "coordinates": [
+            -36.9240944,
+            174.7812295
+        ],
+        "name": "Langimalie Integrated Family Health Centre Onehunga",
+        "pho": "Alliance Health Plus",
+        "phone": "(09) 636 3629",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/7/langimalie-integrated-family-health-centre-onehunga/"
+    },
+    {
+        "address": "215 Massey Road Mangere",
         "coordinates": [
             -36.9567364,
             174.8338618
         ],
         "name": "Mangere Family Doctors",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 275 9977  F 09 275 3353 ",
+        "phone": "(09) 275 9977",
         "prices": [
             {
                 "age": 0,
@@ -237,36 +223,24 @@
             },
             {
                 "age": 6,
-                "price": 0
+                "price": 6.0
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/9/mangere-family-doctors/"
     },
     {
-        "address": "1/627 Mt Wellington Highway,  Mt Wellington 1062 ",
+        "address": "237A Mt Smart Road Onehunga",
         "coordinates": [
-            -36.92981899999999,
-            174.8426077
+            -36.9149696,
+            174.8014899
         ],
-        "name": "Integrated Health Centre",
+        "name": "Mt Smart Medical Centre",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 276 8640  F 09 276-9849 ",
+        "phone": "(09) 579 0563",
         "prices": [
             {
                 "age": 0,
@@ -277,33 +251,46 @@
                 "price": 0
             },
             {
-                "age": 18,
-                "price": 0
+                "age": 6,
+                "price": 17.0
             },
             {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "age": 17,
+                "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/2/mt-smart-medical-centre/"
     },
     {
-        "address": "1230 Dominion Road, Mt  Roskill 1041 ",
+        "address": "1/627 Mt Wellington Highway Mt Wellington",
+        "coordinates": [
+            -36.9293526,
+            174.8424558
+        ],
+        "name": "Mt Wellington Integrated Family Health Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "(09) 276 8640",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/10/mt-wellington-integrated-family-health-centre/"
+    },
+    {
+        "address": "1230 Dominion Rd Mt Roskill",
         "coordinates": [
             -36.9027872,
             174.7425741
         ],
         "name": "New Al-Dawa Medical & Dental Centre",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 620 5046  F 09 620 6405 ",
+        "phone": "(09) 620 4027",
         "prices": [
             {
                 "age": 0,
@@ -311,36 +298,24 @@
             },
             {
                 "age": 6,
-                "price": 0
+                "price": 5.0
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 10.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/11/new-al-dawa-medical-dental-centre/"
     },
     {
-        "address": "5/115 Church Street, Otahuhu  1062 ",
+        "address": "5/115 Church Street Otahuhu",
         "coordinates": [
-            -36.9444107,
-            174.8467297
+            -36.9443529,
+            174.8467646
         ],
         "name": "Otahuhu Family Practice",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 276 4309  F 09 270 2052 ",
+        "phone": "(09) 276 4309",
         "prices": [
             {
                 "age": 0,
@@ -348,73 +323,53 @@
             },
             {
                 "age": 6,
-                "price": 0
+                "price": 5.0
             },
             {
                 "age": 18,
-                "price": 0
-            },
-            {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/12/otahuhu-family-practice/"
     },
     {
-        "address": "Shop 11 Bairds Road, Otara",
+        "address": "463 Great South Road Otahuhu",
         "coordinates": [
-            -36.9585952,
-            174.8575942
+            -36.9457784,
+            174.8447281
         ],
-        "name": "Southseas HealthCare",
+        "name": "Otahuhu Medical Clinic",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 278 2694  F 09 273 9026 ",
+        "phone": "(09) 276 2822 or (09) 270 2023",
         "prices": [
             {
                 "age": 0,
                 "price": 0
             },
             {
-                "age": 6,
-                "price": 0
+                "age": 17,
+                "price": 11.5
             },
             {
-                "age": 18,
-                "price": 0
+                "age": "18+ years (with CCS)",
+                "price": 12.0
             },
             {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "age": "18+ years (without CCS)",
+                "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/21/otahuhu-medical-clinic/"
     },
     {
-        "address": "3/400 George Bolt Memorial  Drive, Airport Shopping Centre ",
+        "address": "258A Puhinui Road,  Papatoetoe",
         "coordinates": [
-            -36.9585952,
-            174.8575942
+            -36.9909881,
+            174.8512103
         ],
-        "name": "The Airport Doctors",
+        "name": "The Puhinui Doctors",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 256 8655  F 09 256 8460 ",
+        "phone": "(09) 279 5556",
         "prices": [
             {
                 "age": 0,
@@ -422,36 +377,28 @@
             },
             {
                 "age": 6,
-                "price": 0
+                "price": 11.0
             },
             {
-                "age": 18,
-                "price": 0
+                "age": 17,
+                "price": 11.0
             },
             {
-                "age": 25,
-                "price": 0
-            },
-            {
-                "age": 45,
-                "price": 0
-            },
-            {
-                "age": 65,
-                "price": 0
+                "age": 17,
+                "price": 16.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/18/the-puhinui-doctors/"
     },
     {
-        "address": "161 Queens Road, Panmure",
+        "address": "241 Manukau Road, Pukekohe 2120",
         "coordinates": [
-            -36.9008555,
-            174.8564594
+            -37.2143371,
+            174.9100736
         ],
-        "name": "Tongan Health Society - Panmure Clinic",
+        "name": "Pukekohe South Doctors ",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 570 9827  F 09 570 9365 ",
+        "phone": "(09) 2370286",
         "prices": [
             {
                 "age": 0,
@@ -459,36 +406,40 @@
             },
             {
                 "age": 6,
-                "price": 0
+                "price": 18.0
+            },
+            {
+                "age": 12,
+                "price": 23.0
             },
             {
                 "age": 18,
-                "price": 0
+                "price": 33.0
             },
             {
                 "age": 25,
-                "price": 0
+                "price": 36.0
             },
             {
                 "age": 45,
-                "price": 0
+                "price": 36.0
             },
             {
                 "age": 65,
-                "price": 0
+                "price": 33.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/22/pukekohe-south-doctors/"
     },
     {
-        "address": "29 Hill Street, Onehunga",
+        "address": "488 Great South Road Papatoetoe",
         "coordinates": [
-            -36.9240944,
-            174.7812295
+            -36.977737,
+            174.8715908
         ],
-        "name": "Tongan Health Society - Langimalie Health  Centre ",
+        "name": "Sandhu Doctors",
         "pho": "Alliance Health Plus",
-        "phone": "P 09 636 3629  F 09 636 3229 ",
+        "phone": "(09) 277 7830",
         "prices": [
             {
                 "age": 0,
@@ -496,26 +447,1067 @@
             },
             {
                 "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/19/sandhu-doctors/"
+    },
+    {
+        "address": "57 Seddon Street Pukekohe",
+        "coordinates": [
+            -37.1987945,
+            174.9015127
+        ],
+        "name": "Seddon Street Medical Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "(09) 237 0055",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/15/seddon-street-medical-centre/"
+    },
+    {
+        "address": "Shop 11 Otara Town Centre Otara",
+        "coordinates": [
+            -36.9610559,
+            174.8732661
+        ],
+        "name": "South Seas Healthcare",
+        "pho": "Alliance Health Plus",
+        "phone": "(09) 273 9017",
+        "prices": [
+            {
+                "age": 0,
                 "price": 0
             },
             {
                 "age": 18,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/13/south-seas-healthcare/"
+    },
+    {
+        "address": "652 Great South Road (Inside Southpoint Mall next to Countdown) Manukau",
+        "coordinates": [
+            -36.9872347,
+            174.8836002
+        ],
+        "name": "Southpoint Family Doctors",
+        "pho": "Alliance Health Plus",
+        "phone": "2104",
+        "prices": [],
+        "url": "http://www.alliancehealth.org.nz/clinics/27/southpoint-family-doctors/"
+    },
+    {
+        "address": "Ground Floor 5 Vernon St",
+        "coordinates": [
+            -36.8488532,
+            174.7558334
+        ],
+        "name": "Victoria Park Medical Suites",
+        "pho": "Alliance Health Plus",
+        "phone": "Bay",
+        "prices": [
+            {
+                "age": 0,
                 "price": 0
+            },
+            {
+                "age": 6,
+                "price": 17.0
+            },
+            {
+                "age": 18,
+                "price": 29.0
             },
             {
                 "age": 25,
-                "price": 0
+                "price": 32.0
             },
             {
                 "age": 45,
-                "price": 0
+                "price": 32.0
             },
             {
                 "age": 65,
-                "price": 0
+                "price": 25.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.alliancehealth.org.nz/clinics/26/victoria-park-medical-suites/"
+    },
+    {
+        "address": "26-30 Constable Road Waiuku",
+        "coordinates": [
+            -37.2521607,
+            174.7251647
+        ],
+        "name": "Waiuku Health Centre",
+        "pho": "Alliance Health Plus",
+        "phone": "(09) 235 9102 or (09) 235 9192",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 23.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 31.0
+            }
+        ],
+        "url": "http://www.alliancehealth.org.nz/clinics/20/waiuku-health-centre/"
+    },
+    {
+        "address": "Great Barrier Island",
+        "coordinates": [
+            -36.197282,
+            175.416921
+        ],
+        "name": "Aotea Health",
+        "pho": "Auckland PHO",
+        "phone": "09 4290356",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 24,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=6&cntnt01returnid=116"
+    },
+    {
+        "address": "326/28 College Hill, Freemans Bay, 1011",
+        "coordinates": [
+            -36.848806,
+            174.749058
+        ],
+        "name": "Auckland Central Medical",
+        "pho": "Auckland PHO",
+        "phone": "09 3600250 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 23.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 24,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=24&cntnt01returnid=116"
+    },
+    {
+        "address": "55 Wellesley Street East, Auckland",
+        "coordinates": [
+            -36.853232,
+            174.767319
+        ],
+        "name": "AUT Health Counselling and Wellbeing",
+        "pho": "Auckland PHO",
+        "phone": "64 9 921 9992",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 24,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=2&cntnt01returnid=116"
+    },
+    {
+        "address": "63 Rosebank Road Avondale 1746",
+        "coordinates": [
+            -36.894376,
+            174.69706
+        ],
+        "name": "Avondale Family Doctor",
+        "pho": "Auckland PHO",
+        "phone": "09 828 8410 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 24,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=3&cntnt01returnid=116"
+    },
+    {
+        "address": "39 Layard Street (cnr St Jude St) Avondale",
+        "coordinates": [
+            33.435598,
+            -112.349602
+        ],
+        "name": "Avondale Health Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 8282066",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 21.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 24,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 64.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=4&cntnt01returnid=116"
+    },
+    {
+        "address": "256 Rosebank Road, Avondale, 1026",
+        "coordinates": [
+            -36.885796,
+            174.6836
+        ],
+        "name": "Avondale Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 8288453",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 24,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=7&cntnt01returnid=116"
+    },
+    {
+        "address": "503 Blockhouse Bay Road, Blockhouse Bay",
+        "coordinates": [
+            -36.922348,
+            174.700856
+        ],
+        "name": "Blockhouse Bay Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 6279176",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 44.5
+            },
+            {
+                "age": 24,
+                "price": 48.0
+            },
+            {
+                "age": 45,
+                "price": 48.5
+            },
+            {
+                "age": 65,
+                "price": 43.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=5&cntnt01returnid=116"
+    },
+    {
+        "address": "136-140 Hobson Street, Auckland City",
+        "coordinates": [
+            -36.850831,
+            174.760684
+        ],
+        "name": "Calder Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 3039266",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 24,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 15.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=8&cntnt01returnid=116"
+    },
+    {
+        "address": "349 Mount Albert Road, Mount Roskill 1041",
+        "coordinates": [
+            -36.903714,
+            174.740025
+        ],
+        "name": "Dominion Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 6204986 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 16.0
+            },
+            {
+                "age": 24,
+                "price": 16.0
+            },
+            {
+                "age": 45,
+                "price": 16.0
+            },
+            {
+                "age": 65,
+                "price": 16.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=9&cntnt01returnid=116"
+    },
+    {
+        "address": "8 Donovan Street, Blockhouse Bay, 1007",
+        "coordinates": [
+            -36.92242,
+            174.701778
+        ],
+        "name": "Donovan Street Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 6271290",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 53.0
+            },
+            {
+                "age": 24,
+                "price": 53.0
+            },
+            {
+                "age": 45,
+                "price": 53.0
+            },
+            {
+                "age": 65,
+                "price": 43.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=10&cntnt01returnid=116"
+    },
+    {
+        "address": "464 Richardson Road, Mount Roskill, 1041",
+        "coordinates": [
+            -36.912461,
+            174.728103
+        ],
+        "name": "Gabriel Medical Practice",
+        "pho": "Auckland PHO",
+        "phone": "09 6267750",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 24,
+                "price": 30.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=11&cntnt01returnid=116"
+    },
+    {
+        "address": "271A Blockhouse Bay Road, Avondale, 0600",
+        "coordinates": [
+            -36.906688,
+            174.701432
+        ],
+        "name": "Glenavon Doctors Surgery",
+        "pho": "Auckland PHO",
+        "phone": "09 8286138",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 24,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=12&cntnt01returnid=116"
+    },
+    {
+        "address": "785 Mount Eden Road, Mount Eden,",
+        "coordinates": [
+            -36.894054,
+            174.75832
+        ],
+        "name": "Marsden Medical Practice",
+        "pho": "Auckland PHO",
+        "phone": "09 6389200",
+        "prices": [
+            {
+                "age": 0,
+                "price": 25.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 24,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=13&cntnt01returnid=116"
+    },
+    {
+        "address": "2 Blackett Crescent, Meadowbank, 1072",
+        "coordinates": [
+            -36.873336,
+            174.828864
+        ],
+        "name": "Meadowbank Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 5284242",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 33.0
+            },
+            {
+                "age": 24,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=14&cntnt01returnid=116"
+    },
+    {
+        "address": "986 New North Road, Mount Albert, 1025",
+        "coordinates": [
+            -36.885609,
+            174.714225
+        ],
+        "name": "Mt Albert Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 8467493",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 24,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=15&cntnt01returnid=116"
+    },
+    {
+        "address": "Level 1, 197 Broadway,  Newmarket, 1023",
+        "coordinates": [
+            -36.869078,
+            174.777608
+        ],
+        "name": "Newmarket Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 5201050",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 24,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=25&cntnt01returnid=116"
+    },
+    {
+        "address": "132 Ocean View Road, Oneroa, Waiheke Island, 1081",
+        "coordinates": [
+            -36.783687,
+            175.011003
+        ],
+        "name": "Oneroa Accident and Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 3728756",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=16&cntnt01returnid=116"
+    },
+    {
+        "address": "25/215 Kepa Road, Orakei, 1146",
+        "coordinates": [
+            -36.860682,
+            174.829643
+        ],
+        "name": "Orakei Health Services",
+        "pho": "Auckland PHO",
+        "phone": "09 5780956",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 24,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 5.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=17&cntnt01returnid=116"
+    },
+    {
+        "address": "9 Belgium Street, Ostend, Waiheke Island 1081",
+        "coordinates": [
+            -36.796108,
+            175.044914
+        ],
+        "name": "Ostend Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 3725005",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=18&cntnt01returnid=116"
+    },
+    {
+        "address": "Tahatai Road, Blackpool, Waiheke Island, 1081",
+        "coordinates": [
+            -36.791777,
+            175.038935
+        ],
+        "name": "Piritahi Hau Ora Trust",
+        "pho": "Auckland PHO",
+        "phone": "09 3720022",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 24,
+                "price": 0.0
+            },
+            {
+                "age": 45,
+                "price": 0.0
+            },
+            {
+                "age": 65,
+                "price": 0.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=19&cntnt01returnid=116"
+    },
+    {
+        "address": "11 Woodford Road, Mount Eden",
+        "coordinates": [
+            -36.878161,
+            174.754377
+        ],
+        "name": "Raphael Medical Therapy Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 631 0477",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=20&cntnt01returnid=116"
+    },
+    {
+        "address": "452 Richmond Road Medical Centre",
+        "coordinates": [
+            29.734654,
+            -95.384644
+        ],
+        "name": "Richmond Road Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 3765621",
+        "prices": [
+            {
+                "age": 0,
+                "price": 18.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 24,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=21&cntnt01returnid=116"
+    },
+    {
+        "address": "57 Symonds Street, Auckland, 1010",
+        "coordinates": [
+            -36.856559,
+            174.765098
+        ],
+        "name": "Symonds Street Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 3099577",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 24,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=22&cntnt01returnid=116"
+    },
+    {
+        "address": "535 Mount Albert Road, Mount Albert 1042",
+        "coordinates": [
+            -36.909477,
+            174.757977
+        ],
+        "name": "Three Kings Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 6258998",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 24,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=23&cntnt01returnid=116"
+    },
+    {
+        "address": "Viaduct Point Building, 125 Customs Street West, Viaduct Harbour, Auckland 1010",
+        "coordinates": [
+            -36.84414,
+            174.760025
+        ],
+        "name": "Viaduct Medical Centre",
+        "pho": "Auckland PHO",
+        "phone": "09 307-1122",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 24,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=26&cntnt01returnid=116"
     },
     {
         "address": "229 Grey Street,",

@@ -22,6 +22,11 @@ app.PracticeModel = Backbone.DeepModel.extend({
 	},
 
 	getPrice: function(age) {
+		if (this.prices.length == 0){
+			this.set({price: 1000});
+			return;
+		}
+		
 		for (var i = 0; i < this.prices.length - 1; ++i){
 			if (age >= this.prices[i].age && age < this.prices[i+1].age){
 				break;

@@ -77,8 +77,13 @@ var BackgridColumns = [
 	sortType: "toggle",
 	cell: Backgrid.NumberCell.extend({
 		render: function() {
-			this.$el.empty();
-			this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
+				this.$el.empty();
+
+			if (this.model.get(this.column.get('name')) != 1000){
+				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
+			} else {
+				this.$el.html("Unknown");
+			}
 			this.delegateEvents();
 			return this;
 		}
