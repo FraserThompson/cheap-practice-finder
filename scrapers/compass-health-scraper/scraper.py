@@ -33,7 +33,6 @@ for row in rows:
 			failed_list.append(practiceURL)
 			continue
 
-
 		######## GOING IN DEEP #######
 		practiceUrlOpened = urlopen(practiceURL).read()
 		practiceUrlSouped = BeautifulSoup(practiceUrlOpened)
