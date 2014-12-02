@@ -1,0 +1,28 @@
+ERROR Auckland Metro Doctors & Travelcare: Couldn't geocode: 17 Emily Place
+WARNING Avondale Health Centre: Couldn't find fees.
+WARNING Blockhouse Bay Medical Centre: Couldn't find fees.
+WARNING Browns Bay Family Medical Centre: Couldn't find fees.
+ERROR CityMed: Couldn't geocode: Quay West Building, Ground Floor, 8 Albert St
+WARNING Donovan Street Medical Centre: Couldn't find fees.
+WARNING Dr Andrew Tseung: Couldn't find fees.
+WARNING Dr Peter King and Dr James Lowe Medical: Couldn't find fees.
+WARNING SerRion s rieve  Dr v ce G : Couldn't find fees.
+WARNING Family Practice & Medical Centre: Couldn't find fees.
+WARNING Freemans Bay Medical Centre: Couldn't find fees.
+WARNING Golf Road Medical Centre: Couldn't find fees.
+WARNING Hillsborough Medical Centre: Couldn't find fees.
+WARNING Hillside Medical Centre: Couldn't find fees.
+WARNING Hobsonville Medical Centre: Couldn't find fees.
+WARNING Marsden Medical Practice: Couldn't find fees.
+WARNING Mission Bay Doctors: Couldn't find fees.
+WARNING Napier Avenue Medical Centre: Couldn't find fees.
+WARNING New Lynn Medical Centre: Couldn't find fees.
+WARNING Queen Street Doctors: Couldn't find fees.
+WARNING Rathgar Medical Clinic: Couldn't find fees.
+ERROR Royal Oak Mall Medical Centre: Couldn't geocode: 1st Floor Royal Oak Mall, 691 Manukau Rd
+ERROR St Patrick's Square Medical & Dental Centre: Couldn't geocode: Level 2/33 Wyndham Street
+WARNING Titirangi Family Healthcare: Couldn't find fees.
+ERROR University of Auckland Health: Couldn't geocode: Students Common Building, 3rd Floor, 2 Alfred Street
+WARNING Upper Harbour Medical Centre: Couldn't find fees.
+WARNING Valley Medical Centre: Couldn't find fees.
+WARNING Waimauku Doctors: Couldn't find fees.

@@ -1,0 +1,15 @@
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/307/Default.aspx Capital Care Health Centre: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/318/Default.aspx Coastal Medical Rooms: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/327/Default.aspx Drs Cammack & Evans: No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/391/Default.aspx Kapiti Youth Support: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/0/Default.aspx Kilbirnie Central Surgery (Dr Macann): No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/0/Default.aspx Kilbirnie Central Surgery (Dr Matich): No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/385/Default.aspx Kilbirnie Medical Centre: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/4210/Default.aspx Natural Healing Raumati: No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/436/Default.aspx Paraparaumu Medical: No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/0/Default.aspx Port Nicholson MC (Dr J Barrett): No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/0/Default.aspx Port Nicholson MC (Dr L Smith): No address.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/493/Default.aspx Seatoun Medical: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/505/Default.aspx Thorndon Medical Centre: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/527/Default.aspx Waitangirua Health Centre: Not enrolling patients.
+ERROR http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/763/Default.aspx Masterton Medical: No address.

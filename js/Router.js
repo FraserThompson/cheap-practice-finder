@@ -21,6 +21,7 @@ app.Router = Backbone.Router.extend({
 		if (!app.footerView){
 			app.footerView = new app.FooterView();
 		}
+		$('#expanded-view').remove();
 		app.searchView = new app.SearchView();
 		app.searchView.startLoading();
 		app.Practices.fetch({

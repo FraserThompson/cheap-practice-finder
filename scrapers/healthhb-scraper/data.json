@@ -740,6 +740,43 @@
         "url": "http://www.healthhb.co.nz/our-practices/napier/greendale-family-health-centre/"
     },
     {
+        "address": "536 Kennedy Road, Greenmeadows, Napier",
+        "coordinates": [
+            -39.5234629,
+            176.8673887
+        ],
+        "name": "Hawke's Bay Wellness Centre",
+        "pho": "Health Hawke's Bay",
+        "phone": "(06) 844 0011",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/hawkes-bay-wellness-centre/"
+    },
+    {
         "address": "24 Shakespeare Road, Napier",
         "coordinates": [
             -39.4881122,
@@ -851,6 +888,43 @@
         "url": "http://www.healthhb.co.nz/our-practices/napier/taradale-medical-centre/"
     },
     {
+        "address": "30 Munroe Street\nNapier 4110\nTelephone: (06) 835 4696\nFax: (06) 834 4248",
+        "coordinates": [
+            -39.4940657,
+            176.9148712
+        ],
+        "name": "The Doctors, Napier",
+        "pho": "Health Hawke's Bay",
+        "phone": "Napier General Practitioners",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 26.5
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.healthhb.co.nz/our-practices/napier/the-doctors-napier/"
+    },
+    {
         "address": "524 Kennedy Road,\nGreenmeadows, Napier 4110\nTelephone: (06) 844 6277\nFax: (06) 844 3748",
         "coordinates": [
             -39.5229325,
@@ -960,79 +1034,5 @@
             }
         ],
         "url": "http://www.healthhb.co.nz/our-practices/hastings/totara-health-centre-nelson-street/"
-    },
-    {
-        "address": "Wairoa Integrated Family Health Centre, Kitchener Street, Wairoa",
-        "coordinates": [
-            -39.0430076,
-            177.4189878
-        ],
-        "name": "Health Care Centre",
-        "pho": "Health Hawke's Bay",
-        "phone": "(06) 838 9739",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0
-            },
-            {
-                "age": 6,
-                "price": 11.5
-            },
-            {
-                "age": 18,
-                "price": 17.0
-            },
-            {
-                "age": 25,
-                "price": 0.0
-            },
-            {
-                "age": 45,
-                "price": 16.5
-            },
-            {
-                "age": 65,
-                "price": 21.0
-            }
-        ],
-        "url": "http://www.healthhb.co.nz/our-practices/wairoa/health-care-centre/"
-    },
-    {
-        "address": "Wairoa Integrated Family Health Centre, Kitchener Street, Wairoa Telephone: (06) 838 9728 Fax: (06) 838 9729",
-        "coordinates": [
-            -39.035173,
-            177.4180311
-        ],
-        "name": "Wairoa Medical Centre",
-        "pho": "Health Hawke's Bay",
-        "phone": "None supplied",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0
-            },
-            {
-                "age": 6,
-                "price": 11.5
-            },
-            {
-                "age": 18,
-                "price": 17.0
-            },
-            {
-                "age": 25,
-                "price": 0.0
-            },
-            {
-                "age": 45,
-                "price": 16.5
-            },
-            {
-                "age": 65,
-                "price": 22.0
-            }
-        ],
-        "url": "http://www.healthhb.co.nz/our-practices/wairoa/wairoa-medical-centre/"
     }
 ]

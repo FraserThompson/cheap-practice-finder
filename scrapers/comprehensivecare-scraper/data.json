@@ -1,0 +1,1408 @@
+[
+    {
+        "address": "Corner Unsworth Drive & Upper Harbour Highway",
+        "coordinates": [
+            -36.7525829,
+            174.7171091
+        ],
+        "name": "Albany Basin Accident and Medical",
+        "pho": "Comprehensive Care",
+        "phone": "09 443 7777 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 41.0
+            },
+            {
+                "age": 18.0,
+                "price": 45.0
+            },
+            {
+                "age": 25.0,
+                "price": 54.0
+            },
+            {
+                "age": 45.0,
+                "price": 54.0
+            },
+            {
+                "age": 65.0,
+                "price": 49.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/albany-basin-accident-and-medical/"
+    },
+    {
+        "address": "368 Albany Highway",
+        "coordinates": [
+            -36.743011,
+            174.692466
+        ],
+        "name": "Albany Family Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 415 8959 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 44.0
+            },
+            {
+                "age": 25.0,
+                "price": 51.0
+            },
+            {
+                "age": 45.0,
+                "price": 54.0
+            },
+            {
+                "age": 65.0,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/albany-family-medical-centre/"
+    },
+    {
+        "address": "130 Archers Road",
+        "coordinates": [
+            -36.7846042,
+            174.7340379
+        ],
+        "name": "Archers Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 444 9324  ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 39.0
+            },
+            {
+                "age": 18.0,
+                "price": 47.0
+            },
+            {
+                "age": 25.0,
+                "price": 54.0
+            },
+            {
+                "age": 45.0,
+                "price": 48.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/archers-medical-centre/"
+    },
+    {
+        "address": "330 Rangatira Road",
+        "coordinates": [
+            -36.7933592,
+            174.6876548
+        ],
+        "name": "Beachhaven Medical",
+        "pho": "Comprehensive Care",
+        "phone": "09 483 6422 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 40.0
+            },
+            {
+                "age": 18.0,
+                "price": 48.0
+            },
+            {
+                "age": 25.0,
+                "price": 54.0
+            },
+            {
+                "age": 45.0,
+                "price": 54.0
+            },
+            {
+                "age": 65.0,
+                "price": 54.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/beachhaven-medical/"
+    },
+    {
+        "address": "3 Williamson Avenue",
+        "coordinates": [
+            -36.85848500000001,
+            174.747654
+        ],
+        "name": "Belmont Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 445 1215 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 37.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 48.0
+            },
+            {
+                "age": 45.0,
+                "price": 50.0
+            },
+            {
+                "age": 65.0,
+                "price": 45.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/belmont-medical-centre/"
+    },
+    {
+        "address": "93 Birkdale Road",
+        "coordinates": [
+            -36.7995835,
+            174.7025042
+        ],
+        "name": "Birkdale Family Doctors Ltd",
+        "pho": "Comprehensive Care",
+        "phone": "09 483 7228 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 26.0
+            },
+            {
+                "age": 18.0,
+                "price": 41.0
+            },
+            {
+                "age": 25.0,
+                "price": 41.0
+            },
+            {
+                "age": 45.0,
+                "price": 41.0
+            },
+            {
+                "age": 65.0,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/birkdale-family-doctors-ltd/"
+    },
+    {
+        "address": "4 Rawene Road",
+        "coordinates": [
+            -36.8135292,
+            174.7263806
+        ],
+        "name": "Birkenhead Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 419 1636 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 45.0
+            },
+            {
+                "age": 18.0,
+                "price": 59.5
+            },
+            {
+                "age": 25.0,
+                "price": 59.5
+            },
+            {
+                "age": 45.0,
+                "price": 59.5
+            },
+            {
+                "age": 65.0,
+                "price": 59.5
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/birkenhead-medical-centre/"
+    },
+    {
+        "address": "65 Clyde Road",
+        "coordinates": [
+            -36.7149355,
+            174.7482479
+        ],
+        "name": "Browns Bay Family Doctors",
+        "pho": "Comprehensive Care",
+        "phone": "09 479 4834 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 39.0
+            },
+            {
+                "age": 18.0,
+                "price": 51.0
+            },
+            {
+                "age": 25.0,
+                "price": 51.0
+            },
+            {
+                "age": 45.0,
+                "price": 51.0
+            },
+            {
+                "age": 65.0,
+                "price": 65.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/browns-bay-family-doctors/"
+    },
+    {
+        "address": "32 Anzac Road",
+        "coordinates": [
+            -36.7170484,
+            174.7461076
+        ],
+        "name": "Browns Bay Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 479 5422 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 37.0
+            },
+            {
+                "age": 18.0,
+                "price": 44.0
+            },
+            {
+                "age": 25.0,
+                "price": 51.0
+            },
+            {
+                "age": 45.0,
+                "price": 51.0
+            },
+            {
+                "age": 65.0,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/browns-bay-medical-centre/"
+    },
+    {
+        "address": "2 Byron Avenue",
+        "coordinates": [
+            -36.7906436,
+            174.7725791
+        ],
+        "name": "Byron Medical",
+        "pho": "Comprehensive Care",
+        "phone": "09 486 2122 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 25.0
+            },
+            {
+                "age": 18.0,
+                "price": 47.0
+            },
+            {
+                "age": 25.0,
+                "price": 53.0
+            },
+            {
+                "age": 45.0,
+                "price": 53.0
+            },
+            {
+                "age": 65.0,
+                "price": 43.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/byron-medical/"
+    },
+    {
+        "address": "121 Birkenhead Avenue",
+        "coordinates": [
+            -36.80736419999999,
+            174.7258375
+        ],
+        "name": "Coastcare Birkenhead",
+        "pho": "Comprehensive Care",
+        "phone": "09 419 2180 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 38.5
+            },
+            {
+                "age": 18.0,
+                "price": 46.5
+            },
+            {
+                "age": 25.0,
+                "price": 46.5
+            },
+            {
+                "age": 45.0,
+                "price": 46.5
+            },
+            {
+                "age": 65.0,
+                "price": 46.5
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/coastcare-birkenhead/"
+    },
+    {
+        "address": "31 Chartwell Avenue",
+        "coordinates": [
+            -36.7832449,
+            174.7315888
+        ],
+        "name": "Coastcare Chartwell",
+        "pho": "Comprehensive Care",
+        "phone": "09 444 4610 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 37.5
+            },
+            {
+                "age": 18.0,
+                "price": 41.5
+            },
+            {
+                "age": 25.0,
+                "price": 41.5
+            },
+            {
+                "age": 45.0,
+                "price": 41.5
+            },
+            {
+                "age": 65.0,
+                "price": 41.5
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/coastcare-chartwell/"
+    },
+    {
+        "address": "82 Lake Road",
+        "coordinates": [
+            -36.8129655,
+            174.792624
+        ],
+        "name": "Devonport Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 445 8006 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 40.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 50.0
+            },
+            {
+                "age": 45.0,
+                "price": 52.0
+            },
+            {
+                "age": 65.0,
+                "price": 47.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/devonport-medical-centre/"
+    },
+    {
+        "address": "4 Dodson Avenue",
+        "coordinates": [
+            -36.7739139,
+            174.7665549
+        ],
+        "name": "Dodson Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 486 5482 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 6.0
+            },
+            {
+                "age": 6.0,
+                "price": 40.0
+            },
+            {
+                "age": 18.0,
+                "price": 47.0
+            },
+            {
+                "age": 25.0,
+                "price": 56.0
+            },
+            {
+                "age": 45.0,
+                "price": 56.0
+            },
+            {
+                "age": 65.0,
+                "price": 47.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/dodson-medical-centre/"
+    },
+    {
+        "address": "512 East Coast Road",
+        "coordinates": [
+            -36.740348,
+            174.7418538
+        ],
+        "name": "East Coast Bays Doctors",
+        "pho": "Comprehensive Care",
+        "phone": "09 478 9600  ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 15.0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 50.0
+            },
+            {
+                "age": 25.0,
+                "price": 50.0
+            },
+            {
+                "age": 45.0,
+                "price": 50.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/east-coast-bays-doctors/"
+    },
+    {
+        "address": "29 Birkenhead Avenue",
+        "coordinates": [
+            -36.81152,
+            174.7264104
+        ],
+        "name": "Family Medicine Birkenhead",
+        "pho": "Comprehensive Care",
+        "phone": "09 480 7204 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 302.0
+            },
+            {
+                "age": 18.0,
+                "price": 41.0
+            },
+            {
+                "age": 25.0,
+                "price": 45.0
+            },
+            {
+                "age": 45.0,
+                "price": 47.0
+            },
+            {
+                "age": 65.0,
+                "price": 47.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/family-medicine-birkenhead/"
+    },
+    {
+        "address": "3 Fenwick Avenue",
+        "coordinates": [
+            -36.7733535,
+            174.7639007
+        ],
+        "name": "Fenwick Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 486 3248 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 32.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 43.0
+            },
+            {
+                "age": 45.0,
+                "price": 43.0
+            },
+            {
+                "age": 65.0,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/fenwick-medical-centre/"
+    },
+    {
+        "address": "2 Fred Thomas Drive",
+        "coordinates": [
+            -36.7912102,
+            174.763653
+        ],
+        "name": "Fred Thomas Health Family Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 972 9020 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 46.0
+            },
+            {
+                "age": 18.0,
+                "price": 46.0
+            },
+            {
+                "age": 25.0,
+                "price": 56.0
+            },
+            {
+                "age": 45.0,
+                "price": 56.0
+            },
+            {
+                "age": 65.0,
+                "price": 49.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/fred-thomas-health/"
+    },
+    {
+        "address": "52 Chartwell Avenue",
+        "coordinates": [
+            -36.78266989999999,
+            174.730143
+        ],
+        "name": "Glenfield Doctors on Chartwell",
+        "pho": "Comprehensive Care",
+        "phone": "09 441 2352 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 25.0
+            },
+            {
+                "age": 18.0,
+                "price": 41.0
+            },
+            {
+                "age": 25.0,
+                "price": 41.0
+            },
+            {
+                "age": 45.0,
+                "price": 46.0
+            },
+            {
+                "age": 65.0,
+                "price": 46.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/glenfield-doctors-on-chartwell/"
+    },
+    {
+        "address": "452 Glenfield Road",
+        "coordinates": [
+            -36.7802116,
+            174.7214199
+        ],
+        "name": "Glenfield Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 444 5911 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 34.0
+            },
+            {
+                "age": 18.0,
+                "price": 34.0
+            },
+            {
+                "age": 25.0,
+                "price": 37.0
+            },
+            {
+                "age": 45.0,
+                "price": 37.0
+            },
+            {
+                "age": 65.0,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/glenfield-medical-centre/"
+    },
+    {
+        "address": "Level 2, Student Central; Gate 1, Albany Expressway (SH 17)",
+        "coordinates": [
+            -36.8484597,
+            174.7633315
+        ],
+        "name": "Health+Counselling Centre, Massey University",
+        "pho": "Comprehensive Care",
+        "phone": "09 443 9783; on campus, ext 41400 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 10.0
+            },
+            {
+                "age": 6.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 42.0
+            },
+            {
+                "age": 45.0,
+                "price": 42.0
+            },
+            {
+                "age": 65.0,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/health-counselling-centre-massey-university/"
+    },
+    {
+        "address": "17 Antares Place",
+        "coordinates": [
+            -36.7421613,
+            174.7331282
+        ],
+        "name": "HealthZone",
+        "pho": "Comprehensive Care",
+        "phone": "09 477 2090 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 36.0
+            },
+            {
+                "age": 18.0,
+                "price": 39.0
+            },
+            {
+                "age": 25.0,
+                "price": 50.0
+            },
+            {
+                "age": 45.0,
+                "price": 50.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/healthzone-institute-for-sport-and-health/"
+    },
+    {
+        "address": "511 South Titirangi Road",
+        "coordinates": [
+            -36.938972,
+            174.6549189
+        ],
+        "name": "Integrated Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 817 6772 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 42.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 42.0
+            },
+            {
+                "age": 45.0,
+                "price": 42.0
+            },
+            {
+                "age": 65.0,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/integrated-medical-centre/"
+    },
+    {
+        "address": "174 Kitchener Road",
+        "coordinates": [
+            -36.772678,
+            174.7651052
+        ],
+        "name": "Kitchener Road Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 489 4092 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 31.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 55.0
+            },
+            {
+                "age": 45.0,
+                "price": 55.0
+            },
+            {
+                "age": 65.0,
+                "price": 55.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/kitchener-road-medical-centre/"
+    },
+    {
+        "address": "424 Glenfield Road",
+        "coordinates": [
+            -36.7826583,
+            174.7205315
+        ],
+        "name": "Kowhai Clinic",
+        "pho": "Comprehensive Care",
+        "phone": "09 444 2098 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 44.0
+            },
+            {
+                "age": 45.0,
+                "price": 44.0
+            },
+            {
+                "age": 65.0,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/kowhai-clinic/"
+    },
+    {
+        "address": "327 Lake Road",
+        "coordinates": [
+            -36.7976547,
+            174.7790836
+        ],
+        "name": "MEDPLUS",
+        "pho": "Comprehensive Care",
+        "phone": "09 489 2011 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 35.5
+            },
+            {
+                "age": 15.0,
+                "price": 45.8
+            },
+            {
+                "age": 25.0,
+                "price": 56.0
+            },
+            {
+                "age": 45.0,
+                "price": 56.0
+            },
+            {
+                "age": 65.0,
+                "price": 53.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/medplus-lake-road/"
+    },
+    {
+        "address": "16 / 326 Sunset Road",
+        "coordinates": [
+            -36.7470136,
+            174.7392494
+        ],
+        "name": "North Harbour Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 479 2083 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 7.0,
+                "price": 31.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 43.0
+            },
+            {
+                "age": 45.0,
+                "price": 43.0
+            },
+            {
+                "age": 65.0,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/north-harbour-medical-centre/"
+    },
+    {
+        "address": "73 Onewa Road",
+        "coordinates": [
+            -36.8104457,
+            174.7417506
+        ],
+        "name": "Northcote Point Doctors",
+        "pho": "Comprehensive Care",
+        "phone": "09 480 9309 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 15.0
+            },
+            {
+                "age": 18.0,
+                "price": 31.0
+            },
+            {
+                "age": 25.0,
+                "price": 35.0
+            },
+            {
+                "age": 45.0,
+                "price": 35.0
+            },
+            {
+                "age": 65.0,
+                "price": 31.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/northcote-point-doctors/"
+    },
+    {
+        "address": "225 Onewa Road",
+        "coordinates": [
+            -36.8097745,
+            174.7272158
+        ],
+        "name": "Onewa Doctors",
+        "pho": "Comprehensive Care",
+        "phone": "09 418 3832 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 38.0
+            },
+            {
+                "age": 18.0,
+                "price": 55.0
+            },
+            {
+                "age": 25.0,
+                "price": 59.0
+            },
+            {
+                "age": 45.0,
+                "price": 59.0
+            },
+            {
+                "age": 65.0,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/onewa-doctors/"
+    },
+    {
+        "address": "119 Sunnynook Road",
+        "coordinates": [
+            -36.7604783,
+            174.7406581
+        ],
+        "name": "Sunnynook Medical Centre Ltd",
+        "pho": "Comprehensive Care",
+        "phone": "09 410 5331  ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 45.0
+            },
+            {
+                "age": 18.0,
+                "price": 49.0
+            },
+            {
+                "age": 25.0,
+                "price": 55.0
+            },
+            {
+                "age": 45.0,
+                "price": 55.0
+            },
+            {
+                "age": 65.0,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/sunnynook-medical-centre/"
+    },
+    {
+        "address": "Unit 3/317 Sunset Road",
+        "coordinates": [
+            -36.7470898,
+            174.739815
+        ],
+        "name": "Sunset Road Family Doctors",
+        "pho": "Comprehensive Care",
+        "phone": "09 478 2878 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 37.0
+            },
+            {
+                "age": 18.0,
+                "price": 45.0
+            },
+            {
+                "age": 25.0,
+                "price": 50.0
+            },
+            {
+                "age": 45.0,
+                "price": 54.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/sunset-road-family-doctors/"
+    },
+    {
+        "address": "25 Bracken Avenue",
+        "coordinates": [
+            -36.7919068,
+            174.7712171
+        ],
+        "name": "Takapuna Healthcare",
+        "pho": "Comprehensive Care",
+        "phone": "09 489 5867 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 48.0
+            },
+            {
+                "age": 18.0,
+                "price": 55.0
+            },
+            {
+                "age": 25.0,
+                "price": 55.0
+            },
+            {
+                "age": 45.0,
+                "price": 55.0
+            },
+            {
+                "age": 65.0,
+                "price": 55.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/takapuna-healthcare/"
+    },
+    {
+        "address": "987 Beach Road",
+        "coordinates": [
+            -36.6943784,
+            174.7508016
+        ],
+        "name": "Torbay Community Doctors",
+        "pho": "Comprehensive Care",
+        "phone": "09 473 9594 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 36.0
+            },
+            {
+                "age": 18.0,
+                "price": 45.0
+            },
+            {
+                "age": 25.0,
+                "price": 56.5
+            },
+            {
+                "age": 45.0,
+                "price": 56.5
+            },
+            {
+                "age": 65.0,
+                "price": 56.5
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/torbay-community-doctor/"
+    },
+    {
+        "address": "1042 Beach Road",
+        "coordinates": [
+            -36.6953635,
+            174.751502
+        ],
+        "name": "Torbay Health (Torbay Medical Centre, Torbay Skin Clinic)",
+        "pho": "Comprehensive Care",
+        "phone": "09 477 9000  ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 44.0
+            },
+            {
+                "age": 18.0,
+                "price": 49.0
+            },
+            {
+                "age": 25.0,
+                "price": 49.0
+            },
+            {
+                "age": 45.0,
+                "price": 53.0
+            },
+            {
+                "age": 65.0,
+                "price": 48.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/torbay-medical-centre/"
+    },
+    {
+        "address": "1 Hebron Road",
+        "coordinates": [
+            -36.7083166,
+            174.7476491
+        ],
+        "name": "Waiake Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 478 7660 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 46.0
+            },
+            {
+                "age": 18.0,
+                "price": 47.0
+            },
+            {
+                "age": 25.0,
+                "price": 54.0
+            },
+            {
+                "age": 45.0,
+                "price": 55.0
+            },
+            {
+                "age": 65.0,
+                "price": 51.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/waiake-medical-centre/"
+    },
+    {
+        "address": "55 - 75 Lincoln Road",
+        "coordinates": [
+            -36.8696778,
+            174.6298965
+        ],
+        "name": "Waitakere Union Health",
+        "pho": "Comprehensive Care",
+        "phone": "09 837 3933 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 0.0
+            },
+            {
+                "age": 18.0,
+                "price": 0.0
+            },
+            {
+                "age": 25.0,
+                "price": 0.0
+            },
+            {
+                "age": 45.0,
+                "price": 0.0
+            },
+            {
+                "age": 65.0,
+                "price": 0.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/waitakere-union-health/"
+    },
+    {
+        "address": "86 Oreil Avenue",
+        "coordinates": [
+            -36.8230174,
+            174.6239954
+        ],
+        "name": "West Harbour Medical Centre",
+        "pho": "Comprehensive Care",
+        "phone": "09 416 8315 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 11.0
+            },
+            {
+                "age": 18.0,
+                "price": 17.0
+            },
+            {
+                "age": 25.0,
+                "price": 17.0
+            },
+            {
+                "age": 45.0,
+                "price": 17.0
+            },
+            {
+                "age": 65.0,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/west-harbour-medical-centre/"
+    },
+    {
+        "address": "436-440 Glenfield Road",
+        "coordinates": [
+            -36.7810985,
+            174.72108
+        ],
+        "name": "White Cross Glenfield General Practice",
+        "pho": "Comprehensive Care",
+        "phone": "09 444 4244 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6.0,
+                "price": 28.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.comprehensivecare.co.nz/directory/white-cross-glenfield-general-practice/"
+    }
+]

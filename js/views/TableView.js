@@ -37,6 +37,10 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 	expandRow: function() {
 		var self = this;
 		var time = 0;
+		var position = $(this.el).offset();
+		if (this.expanding){
+			return;
+		}
 		// If it's not expanded, expand it. If it is expanded, collapse it.
 		this.expanded = !this.expanded;
 		// Execute the expanding procedure
@@ -45,12 +49,12 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 			if (app.ExpandedRows.length > 0){
 				app.ExpandedRows[0].$el.toggleClass('hover-glow');
 				app.ExpandedRows[0].expandRow();
-				time = 310;
+				time = 110;
 			}
 			setTimeout(function() {
 				app.ExpandedRows[0] = self;
 				self.expandedView.model = self.model;
-				self.$el.after(self.expandedView.render().el);
+				$('#table-view').after(self.expandedView.render(position).el);
 			}, time);
 		// Execute the collapsing procedure
 		} else {

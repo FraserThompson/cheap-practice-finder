@@ -63,20 +63,26 @@ app.SearchView = Backbone.View.extend({
 		this.address = this.address_input.val();
 		self.address_input.fadeOut(200, function() {
 			self.address_input.val('');
+			coordsFromAddress(self.address, function(coords){
+				self.model.set({coords: coords.lat() + "," + coords.lng()});
+				self.age_input.fadeIn(200).focus()
+			}, function(message) {
+				self.address_input.fadeIn(200).focus();
+				self.searchStatus.html(self.errorTemplate({message: "That address doesn't exist."})).hide().slideDown();
+				return;
+			});
 		});
-		coordsFromAddress(this.address, function(coords){
-			self.model.set({coords: coords.lat() + "," + coords.lng()});
-			self.age_input.fadeIn(200).focus()
-		}, function(message) {
-			self.address_input.fadeIn(200).focus();
-			self.searchStatus.html(self.errorTemplate({message: "That address doesn't exist..."})).hide().slideDown();
-			return;
-		});
+
 	},
 
 	setAge: function(e){
 		if (e.keyCode != 13) return;
 		if (!this.age_input.val()) return;
+		if (!$.isNumeric(this.age_input.val())){
+			this.searchStatus.html(this.errorTemplate({message: "Please enter a valid age."})).hide().slideDown();
+			return;
+		};
+		this.searchStatus.slideUp(100);
 		var self = this;
 		this.model.set({age: this.age_input.val()});
 		this.age_input.fadeOut(800)

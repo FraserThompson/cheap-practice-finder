@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup, Comment
-import sys, codecs
+import sys, codecs, os
 import json
 import re
 
@@ -8,9 +8,10 @@ practices_list = []
 details_dict = {}
 coords_list = []
 failed_list = []
+current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 def normalize(input):
-	return re.sub('[^0-9a-zA-Z ]+', '', input.strip().lower().replace('mt', 'mount'))
+	return re.sub('[^0-9a-zA-Z ]+', '', input.strip().lower().replace('mt', 'mount').replace('st', 'street'))
 
 # Access the URL
 rootURL = 'http://www.aucklandpho.co.nz'
@@ -90,9 +91,13 @@ for row in rows:
 		}
 	practices_list.append(practice)
 
-with open('data.json', 'w') as outFile:
+with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
-print(str(len(failed_list)) +  " practices had errors: ")
-for f in failed_list:
-	print(f)
+if (len(failed_list) > 0):
+	print(str(len(failed_list)) +  " practices had errors: ")
+	failed_file = open(current_dir + '\\failed_list.txt', 'w')
+	for f in failed_list:
+		failed_file.write("%s\n" % f)
+		print(f)
+	failed_file.close()

@@ -7,6 +7,7 @@ select.form-control {
 header, footer {
 	width: 100%;
 	text-align: center;
+	clear: both;
 }
 
 .container {
@@ -16,6 +17,16 @@ header, footer {
 
 #new-search-address {
 	width: 100%;
+	margin: auto;
+}
+
+#search-status {
+	text-align: center;
+}
+
+#search-options{
+	text-align: center;
+	margin: auto;
 }
 
 #new-search-age {
@@ -29,6 +40,15 @@ header, footer {
 
 #expanded-view {
 	background-color: lightblue;
+	width: 350px;
+	height: 500px;
+	padding: 10px;
+}
+
+#map_canvas {
+	height: 330px;
+	margin: auto;
+	background-color:black;
 }
 
 .hover-glow {

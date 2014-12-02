@@ -1,12 +1,17 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from pygeocoder import Geocoder
-import sys, codecs
+import sys, codecs, os
 import json
+import re
+
+def getFirstNumber(string):
+	return float(re.findall('[-+]?\d*\.\d+|\d+', string)[0])
 
 #stupid shit because the windows console can't print stuff properly
 sys.stdout = codecs.getwriter('cp850')(sys.stdout.buffer, 'xmlcharrefreplace')
 sys.stderr = codecs.getwriter('cp850')(sys.stderr.buffer, 'xmlcharrefreplace')
+current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 url = 'http://www.southernpho.health.nz/'
 practices_list = []
@@ -36,32 +41,52 @@ for i in range (1, 7):
 				coord[0] = float(coord[0])
 				coord[1] = float(coord[1])
 		except IndexError:
+			failed_list.append("ERROR " + url + url_suffix + ": No coordinates.")
 			coord = coord
 
 		try:
 			address = practice_info_cells[1].find_all('p')[0].text.split("Location")[1].replace("\n", "").strip()
 		except IndexError:
+			failed_list.append("WARNING " + url + url_suffix + ": No address.")
 			address = "None supplied"
-
 		try:
 			phone = practice_info_cells[1].find_all('p')[1].text.split("Phone: ")[1].strip()
 		except IndexError:
+			failed_list.append("WARNING " + url + url_suffix + ": No phone number.")
 			phone = "None supplied"
 
 		price_rows = practice_info_cells[2].find('table').find_all('tr')
 		first_price = price_rows[0].find_all('td')[1].get_text(strip=True).replace(" ", "")
+
+		# Try get all the prices regardless of formatting lol
+		prices = []
 		if (first_price == ""):
-			continue
-
-		try:
-			first_float = float(price_rows[0].find_all('td')[1].get_text(strip=True).replace(" ", "").replace("$", ""))
-		except ValueError:
-			continue
-		try:
-			second_float = float(price_rows[1].find_all('td')[1].get_text(strip=True).replace(" ", "").replace("$", ""))
-		except ValueError:
-			continue
-
+			failed_list.append("WARNING " + url + url_suffix + ": No price list.")
+		else:
+			prices.append({
+				'age': 0,
+				'price': 0
+			})
+			for i in range(1, 6):
+				cells = price_rows[i].find_all('td')
+				print("working on : " + str(cells))
+				if 'and' not in cells[1].get_text(strip=True) and ',' not in cells[1].get_text(strip=True):
+					prices.append({
+						'age': getFirstNumber(cells[0].get_text(strip=True)),
+						'price': getFirstNumber(cells[1].get_text(strip=True))
+					})
+				else:
+					price_search = re.split('and|,', cells[1].get_text(strip=True))
+					for price_bracket in price_search:
+						price_bracket = price_bracket.split()
+						print("Brackets: " + str(price_bracket))
+						try:
+							prices.append({
+								'age': getFirstNumber(price_bracket[0]),
+								'price': getFirstNumber(price_bracket[len(price_bracket)-1])
+							})
+						except IndexError: 
+							failed_list.append("WARNING " + url + url_suffix + ": Weird price list.")
 		practice = {
 			'name': name,
 			'url': url + url_suffix,
@@ -69,40 +94,19 @@ for i in range (1, 7):
 			'phone': phone,
 			'pho': "Southern PHO",
 			'coordinates': coord,
-			'prices': [
-				{
-				'age': 0,
-				'price': first_float,
-				},
-				{
-				'age': 6,
-				'price': second_float,
-				},
-				{
-				'age': 18,
-				'price': float(price_rows[2].find_all('td')[1].get_text(strip=True).replace(" ", "").replace("$", "")),
-				},
-				{
-				'age': 24,
-				'price': float(price_rows[3].find_all('td')[1].get_text(strip=True).replace(" ", "").replace("$", "")),
-				},
-				{
-				'age': 45,
-				'price': float(price_rows[4].find_all('td')[1].get_text(strip=True).replace(" ", "").replace("$", "")),
-				},
-				{
-				'age': 65,
-				'price': float(price_rows[5].find_all('td')[1].get_text(strip=True).replace(" ", "").replace("$", "")),
-				},
-			] 
+			'prices': prices
 		}
 		
-		print("Appending Practice: rid= " + str(i) + " Address: " + address + " Phone: " + phone)
+		#print("Appending Practice: rid= " + str(i) + " Address: " + address + " Phone: " + phone)
 		practices_list.append(practice)
 
-with open('data.json', 'w') as outFile:
+with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
-print("The following practices were not added: ")
-for f in failed_list:
-	print(f)
+if (len(failed_list) > 0):
+	print(str(len(failed_list)) +  " practices had errors: ")
+	failed_file = open(current_dir + '\\failed_list.txt', 'w')
+	for f in failed_list:
+		failed_file.write("%s\n" % f)
+		print(f)
+	failed_file.close()

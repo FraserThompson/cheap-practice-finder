@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-import sys, codecs
+import sys, codecs, os
 import json
 
 #stupid shit because the windows console can't print stuff properly
@@ -15,6 +15,7 @@ rows = listUrlSouped.find('table', {'class': 'FeesTable'}).find_all('tr')
 
 practices_list = []
 failed_list = []
+current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 print("Iterating table...")
 for row in rows:
@@ -22,6 +23,7 @@ for row in rows:
 	if len(cells) > 0:
 		coord = (0.000, 0.000)
 		practiceURL = cells[0].find('a').get('href')
+		name = cells[0].find('a').get_text()
 		print("Found: " + practiceURL)
 
 		######## FIND IF ENROLLING PATIENTS #########
@@ -30,7 +32,7 @@ for row in rows:
 		openBooksSouped = BeautifulSoup(openBooksURL)
 		notEnrolling = openBooksSouped.find('img', {'id': 'dnn_ctr484_View_PracticeGrid_IsNotEnrollingImage_0'})
 		if notEnrolling:
-			failed_list.append(practiceURL)
+			failed_list.append("ERROR " + practiceURL + " " + name + ": Not enrolling patients.")
 			continue
 
 		######## GOING IN DEEP #######
@@ -40,7 +42,7 @@ for row in rows:
 		phoneElement = practiceUrlSouped.find('span', {"id": "dnn_ctr484_Map_PhoneLabel"})
 
 		if addressElement is None:
-			failed_list.append(practiceURL)
+			failed_list.append("ERROR " + practiceURL + " " + name +": No address.")
 			continue
 
 		#### GOING IN REALLY DEEP ####
@@ -64,7 +66,7 @@ for row in rows:
 
 		# Make the dictionary object
 		practice = {
-			'name': cells[0].find('a').get_text(),
+			'name': name,
 			'url': practiceURL,
 			'address': address,
 			'phone': phone,
@@ -112,6 +114,7 @@ for row in rows:
 	if len(cells) > 0:
 		coord = (0.000, 0.000)
 		practiceURL = cells[0].find('a').get('href')
+		name = cells[0].find('a').get_text()
 		print("Found: " + practiceURL)
 
 		######## FIND IF ENROLLING PATIENTS #########
@@ -120,9 +123,8 @@ for row in rows:
 		openBooksSouped = BeautifulSoup(openBooksURL)
 		notEnrolling = openBooksSouped.find('img', {'id': 'dnn_ctr499_View_PracticeGrid_IsNotEnrollingImage_0'})
 		if notEnrolling:
-			failed_list.append(practiceURL)
+			failed_list.append("ERROR " + practiceURL + " " + name + ": Not enrolling patients.")
 			continue
-
 
 		######## GOING IN DEEP #######
 		practiceUrlOpened = urlopen(practiceURL).read()
@@ -131,7 +133,7 @@ for row in rows:
 		phoneElement = practiceUrlSouped.find('span', {"id": "dnn_ctr499_Map_PhoneLabel"})
 
 		if addressElement is None:
-			failed_list.append(practiceURL)
+			failed_list.append("ERROR " + practiceURL + " " + name + ": No address.")
 			continue
 
 		#### GOING IN REALLY DEEP ####
@@ -148,7 +150,7 @@ for row in rows:
 
 		# Make the dictionary object
 		practice = {
-			'name': cells[0].find('a').get_text(),
+			'name': name,
 			'url': practiceURL,
 			'address': address,
 			'phone': phone,
@@ -184,10 +186,14 @@ for row in rows:
 
 		practices_list.append(practice)
 		
-with open('data.json', 'w') as outFile:
+with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
 
-print("The following practices were not added: ")
-for f in failed_list:
-	print(f)
+if (len(failed_list) > 0):
+	print(str(len(failed_list)) +  " practices had errors: ")
+	failed_file = open(current_dir + '\\failed_list.txt', 'w')
+	for f in failed_list:
+		failed_file.write("%s\n" % f)
+		print(f)
+	failed_file.close()

@@ -1,0 +1,4237 @@
+[
+    {
+        "address": "652 Great South Road, Manukau",
+        "coordinates": [
+            -36.9871424,
+            174.8837072
+        ],
+        "name": "652 Doctors Manukau Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 262 0072",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 23.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 33.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "230 Mt Albert Road, Mt Albert",
+        "coordinates": [
+            -36.895866,
+            174.7318769
+        ],
+        "name": "Alberton Medical Practice",
+        "pho": "Procare Networks",
+        "phone": "(09) 629 2088",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "215 Ponsonby Road, Ponsonby",
+        "coordinates": [
+            -36.8517649,
+            174.7452287
+        ],
+        "name": "All Care Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 376 5580",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "29 Anne Street, Devonport",
+        "coordinates": [
+            -36.8303616,
+            174.7954899
+        ],
+        "name": "Anne Street Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 445 3483",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 49.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "326/28 College Hill Road, Freemans Bay",
+        "coordinates": [
+            -36.8515427,
+            174.7487722
+        ],
+        "name": "Auckland Central Medical & Health Centre Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 360 0250",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 23.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "94 Remuera Road, Remuera",
+        "coordinates": [
+            -36.8729204,
+            174.7815174
+        ],
+        "name": "Auckland Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 524 6249",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 55.0
+            },
+            {
+                "age": 18,
+                "price": 55.0
+            },
+            {
+                "age": 25,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 55.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "820 Mt Eden Road, Mt Eden",
+        "coordinates": [
+            -36.898148,
+            174.7577248
+        ],
+        "name": "Auckland integrative medical centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 0067",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 34.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "39 Layard Street, Avondale",
+        "coordinates": [
+            -36.8981419,
+            174.698908
+        ],
+        "name": "Avondale Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 828 2066",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "655 Dominion Road, Balmoral",
+        "coordinates": [
+            -36.8900627,
+            174.7463515
+        ],
+        "name": "Balmoral Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 3518",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 43.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "17 Patteson Avenue, Mission Bay",
+        "coordinates": [
+            -36.849545,
+            174.8310685
+        ],
+        "name": "Bayside Medical Practice Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 528 6152",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "503 Blockhouse Bay Road, Blockhouse Bay",
+        "coordinates": [
+            -36.9223484,
+            174.7008562
+        ],
+        "name": "Blockhouse Bay Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 627 9176",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "64 Clyde Road, Browns Bay",
+        "coordinates": [
+            -36.7146288,
+            174.7482221
+        ],
+        "name": "Browns Bay Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 479 4456",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "95 Mountain Road, Epsom",
+        "coordinates": [
+            -36.87297,
+            174.7685275
+        ],
+        "name": "Cairnhill Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 9507",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "766 Great South Road, Penrose",
+        "coordinates": [
+            -36.91033729999999,
+            174.8169556
+        ],
+        "name": "Church Street Accident and Medical",
+        "pho": "Procare Networks",
+        "phone": "(09) 525 2364",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 33.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "46 College Hill Road, Ponsonby",
+        "coordinates": [
+            -36.8473223,
+            174.7442273
+        ],
+        "name": "College Hill Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 360 8008",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "790 Manukau Road, Royal Oak",
+        "coordinates": [
+            -36.9115481,
+            174.7762525
+        ],
+        "name": "Cornwall Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 625 3140",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "76 Main Road, Kumeu",
+        "coordinates": [
+            -36.7764113,
+            174.5575693
+        ],
+        "name": "Country Medical Clinic",
+        "pho": "Procare Networks",
+        "phone": "(09) 412 8722",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "337 Dominion Road, Mt Eden",
+        "coordinates": [
+            -36.8790067,
+            174.7497145
+        ],
+        "name": "Dean Campbell Medical Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 631 5305",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "2 Fleet Street, Devonport",
+        "coordinates": [
+            -36.8292808,
+            174.7973013
+        ],
+        "name": "Devonport Family Medicine",
+        "pho": "Procare Networks",
+        "phone": "(09) 445 0528",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 43.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 45.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "8 Donovan Street, Blockhouse Bay",
+        "coordinates": [
+            -36.9224204,
+            174.7017782
+        ],
+        "name": "Donovan Street Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 627 1290",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "130 Great South Road, Remuera",
+        "coordinates": [
+            -36.88098799999999,
+            174.7847095
+        ],
+        "name": "Dr Andrew Tseung",
+        "pho": "Procare Networks",
+        "phone": "(09) 522 8985",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "17 Elstree Avenue, Glen Innes",
+        "coordinates": [
+            -36.8714668,
+            174.8652934
+        ],
+        "name": "Dr DM de Lacey",
+        "pho": "Procare Networks",
+        "phone": "(09) 528 3323",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 25.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "196 Manukau Road, Epsom",
+        "coordinates": [
+            -36.8830393,
+            174.7757976
+        ],
+        "name": "Dr John Tseung",
+        "pho": "Procare Networks",
+        "phone": "(09) 522 0065",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 23.0
+            },
+            {
+                "age": 25,
+                "price": 23.0
+            },
+            {
+                "age": 45,
+                "price": 23.0
+            },
+            {
+                "age": 65,
+                "price": 21.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Three Lamps Plaza, 5/283 Ponsonby Road, Ponsonby",
+        "coordinates": [
+            -36.8482585,
+            174.7443102
+        ],
+        "name": "Dr Li Zhuang & Michael Wah Surgery",
+        "pho": "Procare Networks",
+        "phone": "(09) 376 2760",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 36.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "48 The Drive, Epsom",
+        "coordinates": [
+            -36.8913969,
+            174.7707705
+        ],
+        "name": "Dr Nicholas Cooper",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 9191",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 42.5
+            },
+            {
+                "age": 18,
+                "price": 42.5
+            },
+            {
+                "age": 25,
+                "price": 42.5
+            },
+            {
+                "age": 45,
+                "price": 42.5
+            },
+            {
+                "age": 65,
+                "price": 42.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "491A New North Road, Kingsland",
+        "coordinates": [
+            -36.87219990000001,
+            174.7441669
+        ],
+        "name": "Dr Peter King and Dr James Lowe Medical",
+        "pho": "Procare Networks",
+        "phone": "(09) 846 2296",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "2 / 575 Glenfield North Surgery, Glenfield",
+        "coordinates": [
+            -36.782031,
+            174.720907
+        ],
+        "name": "SerRion s rieve  Dr v ce G ",
+        "pho": "Procare Networks",
+        "phone": "(09) 444 8682",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "431A Mt Eden Road, Mt Eden",
+        "coordinates": [
+            -36.8818484,
+            174.7619065
+        ],
+        "name": "Drs Good + Shanks",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 6987",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 45.0
+            },
+            {
+                "age": 18,
+                "price": 46.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 45.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "78 Jervois Road, Ponsonby",
+        "coordinates": [
+            -36.84596560000001,
+            174.7414857
+        ],
+        "name": "Drs on Jervois",
+        "pho": "Procare Networks",
+        "phone": "(09) 376 4920",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 36.0
+            },
+            {
+                "age": 18,
+                "price": 42.5
+            },
+            {
+                "age": 25,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 49.0
+            },
+            {
+                "age": 65,
+                "price": 42.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "123 Main Highway, Ellerslie",
+        "coordinates": [
+            -36.8983644,
+            174.8095922
+        ],
+        "name": "Ellerslie Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 579 6147",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "321 Manukau Road, Epsom",
+        "coordinates": [
+            -36.8883735,
+            174.774995
+        ],
+        "name": "Epsom Family Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 0074",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "102 Great South Road, Epsom",
+        "coordinates": [
+            -36.8796297,
+            174.7830058
+        ],
+        "name": "Epsom Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 520 5526",
+        "prices": [
+            {
+                "age": 0,
+                "price": 29.0
+            },
+            {
+                "age": 6,
+                "price": 49.0
+            },
+            {
+                "age": 18,
+                "price": 49.0
+            },
+            {
+                "age": 25,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 49.0
+            },
+            {
+                "age": 65,
+                "price": 49.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "5 Mayfair Place, Glen Innes",
+        "coordinates": [
+            -36.8788902,
+            174.8561936
+        ],
+        "name": "ETHC Glen Innes Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 528 9054",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 10.0
+            },
+            {
+                "age": 25,
+                "price": 10.0
+            },
+            {
+                "age": 45,
+                "price": 10.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "15 Station Road, Otahuhu",
+        "coordinates": [
+            -36.9424854,
+            174.8406464
+        ],
+        "name": "ETHC Otahuhu Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 276 3000",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 10.0
+            },
+            {
+                "age": 25,
+                "price": 10.0
+            },
+            {
+                "age": 45,
+                "price": 10.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Level 1, Shop 215, Sylvia Park Mall, Mt Wellington",
+        "coordinates": [
+            -36.923628,
+            174.8362418
+        ],
+        "name": "ETHC Sylvia Park Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 573 1265",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 10.0
+            },
+            {
+                "age": 25,
+                "price": 10.0
+            },
+            {
+                "age": 45,
+                "price": 10.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "10 Wade River Road, Whangaparaoa",
+        "coordinates": [
+            -36.6377254,
+            174.7478179
+        ],
+        "name": "Family Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 424 3001",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Ground Floor, Sovereign House, Smales Farm,, Takapuna",
+        "coordinates": [
+            -36.7879229,
+            174.7688207
+        ],
+        "name": "Family Doctors@Smales",
+        "pho": "Procare Networks",
+        "phone": "(09) 488 3000",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 45.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "437 Swanson Road, Ranui",
+        "coordinates": [
+            -36.8639376,
+            174.6018565
+        ],
+        "name": "Family Practice & Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 833 8223 ",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "1/1 Grenada Ave, Forrest Hill",
+        "coordinates": [
+            -36.7605805,
+            174.7469031
+        ],
+        "name": "Forrest Hill Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 410 5411",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 34.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "728 New North Road, Mt Albert",
+        "coordinates": [
+            -36.87934510000001,
+            174.7275485
+        ],
+        "name": "Four Kauri Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 846 0002",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "100 Wellington Street, Freemans Bay",
+        "coordinates": [
+            -36.8520951,
+            174.7510544
+        ],
+        "name": "Freemans Bay Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 378 6653",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "575 Glenfield North Surgery, Glenfield",
+        "coordinates": [
+            -36.782031,
+            174.720907
+        ],
+        "name": "Glenfield Family Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 444 8575",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 40.5
+            },
+            {
+                "age": 25,
+                "price": 40.5
+            },
+            {
+                "age": 45,
+                "price": 40.5
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "168 Golf Road, Titrangi",
+        "coordinates": [
+            -36.9263723,
+            174.6713698
+        ],
+        "name": "Golf Road Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 817 7453 ",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "70 Godley Road, Green Bay",
+        "coordinates": [
+            -36.9309337,
+            174.6786315
+        ],
+        "name": "Green Bay Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 827 4075 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "4 Auburn Street, Takapuna",
+        "coordinates": [
+            -36.7894679,
+            174.7688818
+        ],
+        "name": "Green Cross Clinic Takapuna",
+        "pho": "Procare Networks",
+        "phone": " (09) 486 1001",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 36.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "22 Greenhithe Road, Greenhithe",
+        "coordinates": [
+            -36.7740759,
+            174.6713432
+        ],
+        "name": "Greenhithe Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 413 8562",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "641 Manukau Road, Epsom",
+        "coordinates": [
+            -36.9060132,
+            174.7742012
+        ],
+        "name": "Greenwood Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 625 6173",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 49.0
+            },
+            {
+                "age": 45,
+                "price": 49.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "543 Great North Road, Grey Lynn",
+        "coordinates": [
+            -36.8648504,
+            174.7376784
+        ],
+        "name": "Grey Lynn Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 378 6827 (24 hours)",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1259 Dominion Road Extension, Mt Roskill",
+        "coordinates": [
+            -36.921166,
+            174.7355256
+        ],
+        "name": "Healthcare Roskill South",
+        "pho": "Procare Networks",
+        "phone": "(09) 620 8573",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "352 Rangatira Road, Beachhaven",
+        "coordinates": [
+            -36.7921664,
+            174.6873677
+        ],
+        "name": "Healthwise Beach Haven",
+        "pho": "Procare Networks",
+        "phone": "(09) 482 0105",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "2 Montel Ave, Henderson",
+        "coordinates": [
+            -36.8809061,
+            174.6377966
+        ],
+        "name": "Henderson Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 837 1110 ",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 33.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "2A Albany Road, Herne Bay",
+        "coordinates": [
+            -36.8458409,
+            174.7349604
+        ],
+        "name": "Herne Bay Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 376 3015",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "165 Hillsborough Road, Hillsborough",
+        "coordinates": [
+            -36.9197338,
+            174.7574083
+        ],
+        "name": "Hillsborough Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 625 7010",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "711 Richardson Road, Hillsborough",
+        "coordinates": [
+            -36.9261124,
+            174.7493035
+        ],
+        "name": "Hillside Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 625 9068",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "42 Suncrest Drive, Hobsonville",
+        "coordinates": [
+            -36.8039012,
+            174.63884
+        ],
+        "name": "Hobsonville Medical Centre",
+        "pho": "Procare Networks",
+        "phone": " (09) 416 8712 ",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "124 Matua Road, Huapai",
+        "coordinates": [
+            -36.7647485,
+            174.5398832
+        ],
+        "name": "Huapai Family Medical Practice",
+        "pho": "Procare Networks",
+        "phone": "(09) 412 9133",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "345 Karangahape Road, Newton",
+        "coordinates": [
+            -36.8578844,
+            174.7572342
+        ],
+        "name": "K' Road Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 373 5041 or (09) 3792740",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "495 New North Road, Kingsland",
+        "coordinates": [
+            -36.8722373,
+            174.7440451
+        ],
+        "name": "Kingsland Family Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 815 1475",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 25,
+                "price": 43.0
+            },
+            {
+                "age": 45,
+                "price": 43.0
+            },
+            {
+                "age": 65,
+                "price": 43.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "92 Main Road, Kumeu",
+        "coordinates": [
+            -36.7757948,
+            174.5555983
+        ],
+        "name": "Kumeu Village Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 412 8446",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 48.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "131 Lincoln Road, Henderson",
+        "coordinates": [
+            -36.8643514,
+            174.6290295
+        ],
+        "name": "Lincoln Rd Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 837 2056 or (09) 837 1431",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "40 Luckens Road, West Harbour",
+        "coordinates": [
+            -36.8177444,
+            174.6290875
+        ],
+        "name": "Luckens Road Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 416 8541",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.5
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1 - 15 The Avenue, Lynfield",
+        "coordinates": [
+            -36.9260278,
+            174.7228301
+        ],
+        "name": "Lynfield Medical Clinic",
+        "pho": "Procare Networks",
+        "phone": "(09) 627 8433",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Lynnmall, 3058 Great North Road, New Lynn",
+        "coordinates": [
+            -36.9078599,
+            174.6852085
+        ],
+        "name": "Lynnmall Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 827 3163",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "2 Penzance Road, Mairangi Bay",
+        "coordinates": [
+            -36.73804,
+            174.7522096
+        ],
+        "name": "Mairangi Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 479 5027",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "58 Rawhiti Road, Manly",
+        "coordinates": [
+            -36.6312103,
+            174.7628532
+        ],
+        "name": "Manly Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 424 9050",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.7
+            },
+            {
+                "age": 18,
+                "price": 39.8
+            },
+            {
+                "age": 25,
+                "price": 39.8
+            },
+            {
+                "age": 45,
+                "price": 39.8
+            },
+            {
+                "age": 65,
+                "price": 39.8
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "785 Mt Eden Road, Mt Eden",
+        "coordinates": [
+            -36.8940543,
+            174.7583197
+        ],
+        "name": "Marsden Medical Practice",
+        "pho": "Procare Networks",
+        "phone": "(09) 638 9200",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "394 Don Buck Road, Massey",
+        "coordinates": [
+            -36.834938,
+            174.6023287
+        ],
+        "name": "Massey Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 831 0170",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 25,
+                "price": 33.0
+            },
+            {
+                "age": 45,
+                "price": 33.0
+            },
+            {
+                "age": 65,
+                "price": 31.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "4 Puriri Avenue, Greenlane",
+        "coordinates": [
+            -36.8921709,
+            174.7950877
+        ],
+        "name": "Maungakiekie Clinic",
+        "pho": "Procare Networks",
+        "phone": "(09) 520 0925",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 43.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Meadowbank Shopping Centre,, Meadowbank",
+        "coordinates": [
+            -36.87011990000001,
+            174.8270457
+        ],
+        "name": "Meadowbank Family Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 528 3446",
+        "prices": [
+            {
+                "age": 0,
+                "price": 22.0
+            },
+            {
+                "age": 6,
+                "price": 48.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 25,
+                "price": 48.0
+            },
+            {
+                "age": 45,
+                "price": 48.0
+            },
+            {
+                "age": 65,
+                "price": 48.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "25 St Johns Road, Meadowbank",
+        "coordinates": [
+            -36.8765486,
+            174.826783
+        ],
+        "name": "Meadowbank General Practice",
+        "pho": "Procare Networks",
+        "phone": "(09) 521 5128",
+        "prices": [
+            {
+                "age": 0,
+                "price": 20.0
+            },
+            {
+                "age": 6,
+                "price": 46.0
+            },
+            {
+                "age": 18,
+                "price": 55.0
+            },
+            {
+                "age": 25,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 52.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "119 Apollo Drive, Albany",
+        "coordinates": [
+            -36.735662,
+            174.727407
+        ],
+        "name": "Medical Centre @ Apollo",
+        "pho": "Procare Networks",
+        "phone": "(09) 477 3700",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 41.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 25,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "50 East Coast Road, Milford",
+        "coordinates": [
+            -36.7690241,
+            174.7588751
+        ],
+        "name": "Milford Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 449 0005",
+        "prices": [
+            {
+                "age": 0,
+                "price": 18.0
+            },
+            {
+                "age": 6,
+                "price": 48.0
+            },
+            {
+                "age": 18,
+                "price": 54.0
+            },
+            {
+                "age": 25,
+                "price": 54.0
+            },
+            {
+                "age": 45,
+                "price": 54.0
+            },
+            {
+                "age": 65,
+                "price": 50.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "10 Marau Crescent, Mission Bay",
+        "coordinates": [
+            -36.84860949999999,
+            174.8304257
+        ],
+        "name": "Mission Bay Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 521 1120",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "575 Mt Eden Road, Mt Eden",
+        "coordinates": [
+            -36.8872325,
+            174.7600193
+        ],
+        "name": "Mt Eden 575 Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 623 4599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 41.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "457 Mt Eden Road, Mt Eden",
+        "coordinates": [
+            -36.8833408,
+            174.7611331
+        ],
+        "name": "Mt Eden Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 638 8718",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 41.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Cnr White Swan Rd & Richardson Road,, Mt Roskill",
+        "coordinates": [
+            -36.9106222,
+            174.7261059
+        ],
+        "name": "Mt Roskill Healthcare Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 627 8552",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "283 Penrose Road, Mt Wellington",
+        "coordinates": [
+            -36.9080291,
+            174.8368786
+        ],
+        "name": "Mt Wellington Family Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 570 2999",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 15.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 30.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "350 Ellerslie Panmure Highway, Mt Wellington",
+        "coordinates": [
+            -36.8965955,
+            174.8310446
+        ],
+        "name": "Mt Wellington Medical Clinic",
+        "pho": "Procare Networks",
+        "phone": "(09) 579 6953",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 23.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "52 Gladstone Road, Parnell",
+        "coordinates": [
+            -36.8533478,
+            174.7863354
+        ],
+        "name": "My Doctor Limited",
+        "pho": "Procare Networks",
+        "phone": "(09) 309 2153",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 48.0
+            },
+            {
+                "age": 25,
+                "price": 48.0
+            },
+            {
+                "age": 45,
+                "price": 48.0
+            },
+            {
+                "age": 65,
+                "price": 48.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "4 Napier Avenue, Takapuna",
+        "coordinates": [
+            -36.7947222,
+            174.7757737
+        ],
+        "name": "Napier Avenue Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 489 4775",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "119 Titirangi Road, New Lynn",
+        "coordinates": [
+            -36.9158791,
+            174.6685484
+        ],
+        "name": "New Lynn Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 827 4127",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "275 New Windsor Road, Avondale",
+        "coordinates": [
+            -36.9111889,
+            174.7170727
+        ],
+        "name": "New Windsor Road Surgery",
+        "pho": "Procare Networks",
+        "phone": "(09) 626 7511",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 36.5
+            },
+            {
+                "age": 18,
+                "price": 36.5
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 35.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "197 Broadway, Newmarket",
+        "coordinates": [
+            -36.86907790000001,
+            174.7776076
+        ],
+        "name": "Newmarket Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 520 1050",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 46.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "353 Karangahape Road, Newton",
+        "coordinates": [
+            -36.8579574,
+            174.7569832
+        ],
+        "name": "Newton Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 309 6871",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 30.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 28.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1 Nile Road, Milford",
+        "coordinates": [
+            -36.7790508,
+            174.7505139
+        ],
+        "name": "Nile Road Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 410 0275",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "122 Remuera Road, Remuera",
+        "coordinates": [
+            -36.8738338,
+            174.7838921
+        ],
+        "name": "Onehealth",
+        "pho": "Procare Networks",
+        "phone": "(09) 522 2800",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 43.0
+            },
+            {
+                "age": 18,
+                "price": 53.0
+            },
+            {
+                "age": 25,
+                "price": 53.0
+            },
+            {
+                "age": 45,
+                "price": 53.0
+            },
+            {
+                "age": 65,
+                "price": 53.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "545 Richardson Road, Mt Roskill, Onehunga",
+        "coordinates": [
+            -36.9191927,
+            174.7342627
+        ],
+        "name": "Onehunga Doctors Limited",
+        "pho": "Procare Networks",
+        "phone": "(09) 636 6155",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "161A Onehunga Mall, Onehunga",
+        "coordinates": [
+            -36.9235475,
+            174.785642
+        ],
+        "name": "Onehunga Family Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 636 6267",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "8d Tamariki Drive, Orewa",
+        "coordinates": [
+            -36.587997,
+            174.695168
+        ],
+        "name": "Orewa Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 426 5437",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 45.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "297 Blockhouse Bay Road, Blockhouse Bay",
+        "coordinates": [
+            -36.9120234,
+            174.7019812
+        ],
+        "name": "Pacific Horizon Healthcare",
+        "pho": "Procare Networks",
+        "phone": "(09) 828 8421",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Shop 8, 138 Sturges Road, Henderson",
+        "coordinates": [
+            -36.8830215,
+            174.6152324
+        ],
+        "name": "Palomino Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 836 4898",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "204 Queens Road, Panmure",
+        "coordinates": [
+            -36.9009175,
+            174.8574874
+        ],
+        "name": "Panmure Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 570 4019",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 36.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "46 Te Koa Road, Panmure",
+        "coordinates": [
+            -36.8997348,
+            174.8562325
+        ],
+        "name": "Panmure Surgery",
+        "pho": "Procare Networks",
+        "phone": "(09) 527 6258",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "41 Birdwood Crescent, Parnell",
+        "coordinates": [
+            -36.8593678,
+            174.7819501
+        ],
+        "name": "Parnell Family Doctor",
+        "pho": "Procare Networks",
+        "phone": "(09) 377 3362",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 55.0
+            },
+            {
+                "age": 25,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 55.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "82b Gladstone Road, Parnell",
+        "coordinates": [
+            -36.8523073,
+            174.786078
+        ],
+        "name": "Parnell Medical Centre Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 377 4427",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 50.0
+            },
+            {
+                "age": 18,
+                "price": 60.0
+            },
+            {
+                "age": 25,
+                "price": 60.0
+            },
+            {
+                "age": 45,
+                "price": 60.0
+            },
+            {
+                "age": 65,
+                "price": 60.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "382 Te Atatu Road, Te Atatu",
+        "coordinates": [
+            -36.8548025,
+            174.6511033
+        ],
+        "name": "Peninsula Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 834 6300",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1181 Great North Road, Point Chevalier",
+        "coordinates": [
+            -36.8699814,
+            174.7109122
+        ],
+        "name": "Point Chevalier Medical & Surgical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 846 6244",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 31.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "1 Vermont Street, Ponsonby",
+        "coordinates": [
+            -36.8530615,
+            174.7446092
+        ],
+        "name": "Ponsonby Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 378 7916",
+        "prices": [
+            {
+                "age": 0,
+                "price": 32.0
+            },
+            {
+                "age": 6,
+                "price": 49.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 61.0
+            },
+            {
+                "age": 45,
+                "price": 61.0
+            },
+            {
+                "age": 65,
+                "price": 52.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "87 Queen Street, CBD",
+        "coordinates": [
+            -39.058684,
+            174.0703941
+        ],
+        "name": "Queen Street Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 373 4055",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "235 Manukau Road, Epsom",
+        "coordinates": [
+            -36.8847688,
+            174.7753021
+        ],
+        "name": "Ranfurly Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 630 8190",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 47.0
+            },
+            {
+                "age": 25,
+                "price": 47.0
+            },
+            {
+                "age": 45,
+                "price": 47.0
+            },
+            {
+                "age": 65,
+                "price": 45.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "482 Swanson Road, Ranui",
+        "coordinates": [
+            -36.8643096,
+            174.6016538
+        ],
+        "name": "Ranui Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 833 6033",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 15.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "77 Lincoln Road, Henderson",
+        "coordinates": [
+            -36.8689656,
+            174.6286461
+        ],
+        "name": "Ratanui Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 837 0740",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "132A Rathgar Road, Henderson",
+        "coordinates": [
+            -36.8617109,
+            174.6214009
+        ],
+        "name": "Rathgar Medical Clinic",
+        "pho": "Procare Networks",
+        "phone": "(09) 838 8361",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "320 Remuera Road, Remuera",
+        "coordinates": [
+            -36.8803576,
+            174.7964725
+        ],
+        "name": "Remuera Doctors Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 524 6504 (24 hours)",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 46.0
+            },
+            {
+                "age": 25,
+                "price": 46.5
+            },
+            {
+                "age": 45,
+                "price": 46.5
+            },
+            {
+                "age": 65,
+                "price": 44.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "377A Remuera Road, Remuera",
+        "coordinates": [
+            -36.8807607,
+            174.7980283
+        ],
+        "name": "Remuera Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 520 1565",
+        "prices": [
+            {
+                "age": 0,
+                "price": 28.0
+            },
+            {
+                "age": 6,
+                "price": 56.0
+            },
+            {
+                "age": 18,
+                "price": 56.0
+            },
+            {
+                "age": 25,
+                "price": 56.0
+            },
+            {
+                "age": 45,
+                "price": 56.0
+            },
+            {
+                "age": 65,
+                "price": 56.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "597 Remuera Road, Remuera",
+        "coordinates": [
+            -36.8803551,
+            174.8127083
+        ],
+        "name": "Remuera Village Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 524 5547",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 42.0
+            },
+            {
+                "age": 18,
+                "price": 57.0
+            },
+            {
+                "age": 25,
+                "price": 57.0
+            },
+            {
+                "age": 45,
+                "price": 57.0
+            },
+            {
+                "age": 65,
+                "price": 57.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "65 Rosebank Road, Avondale",
+        "coordinates": [
+            -36.8943862,
+            174.6968208
+        ],
+        "name": "Rosebank Road Medical Services",
+        "pho": "Procare Networks",
+        "phone": "(09) 828 8237",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 16.5
+            },
+            {
+                "age": 25,
+                "price": 16.5
+            },
+            {
+                "age": 45,
+                "price": 16.5
+            },
+            {
+                "age": 65,
+                "price": 16.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "138 Royal Road, Massey",
+        "coordinates": [
+            -36.8328634,
+            174.6230708
+        ],
+        "name": "Royal Heights Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 833 7347",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "546 Sandringham Road, Sandringham",
+        "coordinates": [
+            -36.8918008,
+            174.7366828
+        ],
+        "name": "Sandringham Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 849 2111",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "307 Kepa Road, Kohimarama",
+        "coordinates": [
+            -36.8604569,
+            174.8367942
+        ],
+        "name": "Selwyn Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 528 9284",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 40.0
+            },
+            {
+                "age": 18,
+                "price": 55.0
+            },
+            {
+                "age": 25,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 55.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "21 Shaftesbury Avenue, Point Chevalier",
+        "coordinates": [
+            -36.8649266,
+            174.6995198
+        ],
+        "name": "Selwyn Village Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 845 0723",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 25,
+                "price": 0.0
+            },
+            {
+                "age": 45,
+                "price": 0.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "9B Polygon Road, St Heliers",
+        "coordinates": [
+            -36.8518205,
+            174.8573554
+        ],
+        "name": "St Heliers Health Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 575 7045",
+        "prices": [
+            {
+                "age": 0,
+                "price": 20.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 55.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "2 Maheke Street, St Heliers",
+        "coordinates": [
+            -36.8508303,
+            174.8568226
+        ],
+        "name": "St Heliers Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 575 9491",
+        "prices": [
+            {
+                "age": 0,
+                "price": 28.0
+            },
+            {
+                "age": 6,
+                "price": 50.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 57.0
+            },
+            {
+                "age": 45,
+                "price": 51.0
+            },
+            {
+                "age": 65,
+                "price": 51.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "223 Stoddard Road, Mt Roskill",
+        "coordinates": [
+            -36.9000168,
+            174.7210406
+        ],
+        "name": "Stoddard Road Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 621 0387",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "26 Surrey Crescent, Grey Lynn",
+        "coordinates": [
+            -36.8636713,
+            174.7368339
+        ],
+        "name": "Surrey Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 376 4658",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "714 Swanson Road, Swanson",
+        "coordinates": [
+            -36.8660651,
+            174.5793061
+        ],
+        "name": "Swanson Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 833 9433",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "296 Te Atatu Road, Te Atatu",
+        "coordinates": [
+            -36.86236510000001,
+            174.6487878
+        ],
+        "name": "T.L. Care Ltd",
+        "pho": "Procare Networks",
+        "phone": "(09) 834 7670",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "259 Te Atatu Road, Te Atatu South",
+        "coordinates": [
+            -36.8634879,
+            174.6488331
+        ],
+        "name": "Te Atatu South Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 834 6600",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 31.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 31.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "58 Akoranga Drive, Northcote",
+        "coordinates": [
+            -36.7951231,
+            174.7550703
+        ],
+        "name": "Te Puna Hauora o te Rakipae Whenua - Health & Social Services",
+        "pho": "Procare Networks",
+        "phone": "(09) 489 3049",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 16.0
+            },
+            {
+                "age": 25,
+                "price": 16.0
+            },
+            {
+                "age": 45,
+                "price": 16.0
+            },
+            {
+                "age": 65,
+                "price": 16.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "402A Titirangi Road, Titirangi",
+        "coordinates": [
+            -36.9378727,
+            174.6571696
+        ],
+        "name": "Titirangi Family Healthcare",
+        "pho": "Procare Networks",
+        "phone": "(09) 817 7657",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "2 Rangiwai Road, Titirangi",
+        "coordinates": [
+            -36.93828999999999,
+            174.6583294
+        ],
+        "name": "Titirangi Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 817 8069",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 42.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Clinic 41, Entrance 3, Carrington Road, Mt Albert",
+        "coordinates": [
+            -36.87594600000001,
+            174.7104005
+        ],
+        "name": "Unitec Student Health",
+        "pho": "Procare Networks",
+        "phone": "(09) 815 4321 ext 8407",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 8.0
+            },
+            {
+                "age": 18,
+                "price": 8.0
+            },
+            {
+                "age": 25,
+                "price": 30.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "393 Hobsonville Road, Hobsonville",
+        "coordinates": [
+            -36.7991877,
+            174.6464309
+        ],
+        "name": "Upper Harbour Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 416 9555",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "149 Henderson Valley Road, Henderson",
+        "coordinates": [
+            -36.8924481,
+            174.6207854
+        ],
+        "name": "Valley Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 837 1230",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "6 Waimauku Station Road, Waimauku",
+        "coordinates": [
+            -36.7687486,
+            174.4927765
+        ],
+        "name": "Waimauku Doctors",
+        "pho": "Procare Networks",
+        "phone": "(09) 411 8094",
+        "prices": [],
+        "url": "None supplied"
+    },
+    {
+        "address": "411 Great North Road, Henderson, Henderson",
+        "coordinates": [
+            -36.8777382,
+            174.6306525
+        ],
+        "name": "West Fono Health Trust",
+        "pho": "Procare Networks",
+        "phone": "(09) 837 1780",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 5.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Westgate Shopping Centre, Fernhill Drive, Massey",
+        "coordinates": [
+            -36.8218994,
+            174.6103788
+        ],
+        "name": "Westgate Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 833 3134",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "146 Garnet Road, Westmere",
+        "coordinates": [
+            -36.8548664,
+            174.7187932
+        ],
+        "name": "Westmere Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 378 6280",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 41.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "Pacific Plaza, Whangaparaoa",
+        "coordinates": [
+            -36.6344443,
+            174.7422302
+        ],
+        "name": "Whangaparaoa Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 424 8618",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "None supplied"
+    },
+    {
+        "address": "51 Corinthian Drive, Albany",
+        "coordinates": [
+            -36.7310749,
+            174.7141599
+        ],
+        "name": "Windsor Medical Centre",
+        "pho": "Procare Networks",
+        "phone": "(09) 415 0888",
+        "prices": [
+            {
+                "age": 0,
+                "price": 10.0
+            },
+            {
+                "age": 6,
+                "price": 36.0
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 25,
+                "price": 43.0
+            },
+            {
+                "age": 45,
+                "price": 43.0
+            },
+            {
+                "age": 65,
+                "price": 40.5
+            }
+        ],
+        "url": "None supplied"
+    }
+]

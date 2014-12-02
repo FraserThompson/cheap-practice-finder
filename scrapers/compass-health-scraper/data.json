@@ -15,7 +15,7 @@
             },
             {
                 "age": 6,
-                "price": 32.0
+                "price": 31.0
             },
             {
                 "age": 18,
@@ -23,11 +23,11 @@
             },
             {
                 "age": 25,
-                "price": 44.0
+                "price": 45.0
             },
             {
                 "age": 45,
-                "price": 44.0
+                "price": 45.0
             },
             {
                 "age": 65,
@@ -463,15 +463,15 @@
             },
             {
                 "age": 18,
-                "price": 48.0
+                "price": 48.5
             },
             {
                 "age": 25,
-                "price": 52.0
+                "price": 53.0
             },
             {
                 "age": 45,
-                "price": 52.0
+                "price": 53.0
             },
             {
                 "age": 65,
@@ -829,23 +829,23 @@
             },
             {
                 "age": 6,
-                "price": 43.0
+                "price": 44.0
             },
             {
                 "age": 18,
-                "price": 51.0
+                "price": 52.0
             },
             {
                 "age": 25,
-                "price": 51.0
+                "price": 52.0
             },
             {
                 "age": 45,
-                "price": 51.0
+                "price": 52.0
             },
             {
                 "age": 65,
-                "price": 51.0
+                "price": 52.0
             }
         ],
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/424/Default.aspx"

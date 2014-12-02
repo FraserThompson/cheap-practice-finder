@@ -11,26 +11,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 31.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 38.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.5
             }
         ],
@@ -48,26 +48,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 26.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 34.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 34.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 34.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 34.5
             }
         ],
@@ -85,26 +85,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 27.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 33.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 33.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 33.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 33.0
             }
         ],
@@ -122,26 +122,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 29.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
@@ -159,26 +159,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 37.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 41.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 41.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 41.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 41.0
             }
         ],
@@ -196,26 +196,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 35.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 41.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 41.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 41.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 41.0
             }
         ],
@@ -233,26 +233,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 30.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.5
             }
         ],
@@ -270,26 +270,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 20.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
@@ -307,26 +307,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 27.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 36.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 36.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 35.0
             }
         ],
@@ -344,26 +344,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 12.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
@@ -381,26 +381,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 33.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 39.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 39.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 39.0
             }
         ],
@@ -418,26 +418,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 10.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 10.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 10.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 10.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 10.0
             }
         ],
@@ -455,26 +455,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 37.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 37.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 38.0
             }
         ],
@@ -492,30 +492,112 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 12.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 32.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 34.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 34.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 34.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=61"
+    },
+    {
+        "address": "117 District Road, PALMERSTON 9430",
+        "coordinates": [
+            -45.4840466,
+            170.7080704
+        ],
+        "name": "East Otago Health",
+        "pho": "Southern PHO",
+        "phone": "03 465 1444",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 20.0
+            },
+            {
+                "age": 11.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=51"
+    },
+    {
+        "address": "76-80 David Street, Caversham, DUNEDIN 9012",
+        "coordinates": [
+            -45.8989731,
+            170.4841919
+        ],
+        "name": "Forbury Corner Health Centre",
+        "pho": "Southern PHO",
+        "phone": "03 455 2721",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 10.0
+            },
+            {
+                "age": 14.0,
+                "price": 20.0
+            },
+            {
+                "age": 18.0,
+                "price": 36.0
+            },
+            {
+                "age": 25.0,
+                "price": 43.0
+            },
+            {
+                "age": 45.0,
+                "price": 43.0
+            },
+            {
+                "age": 65.0,
+                "price": 43.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=46"
     },
     {
         "address": "26 Bank Street, North East Valley, DUNEDIN 9010",
@@ -529,26 +611,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 26.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 44.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 44.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 44.0
             }
         ],
@@ -566,26 +648,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 25.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 29.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 29.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 29.0
             }
         ],
@@ -603,26 +685,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 3.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 41.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 41.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 41.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 41.0
             }
         ],
@@ -640,30 +722,42 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 21.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 32.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 37.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 37.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 36.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=48"
+    },
+    {
+        "address": "",
+        "coordinates": [
+            -45.9021554,
+            170.4302825
+        ],
+        "name": "Green Island Medical Centre - Jenkins Street - refer to Green Island Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "None supplied",
+        "prices": [],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=117"
     },
     {
         "address": "47 George Street, Port Chalmers, DUNEDIN 9023",
@@ -677,26 +771,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 41.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 41.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 41.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 41.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 41.0
             }
         ],
@@ -714,30 +808,42 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 24.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 41.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=64"
+    },
+    {
+        "address": ", , , , Dunedin, , , ,",
+        "coordinates": [
+            -45.8856022,
+            170.52808519999996
+        ],
+        "name": "Larnach Surgery - refer Waverley Health",
+        "pho": "Southern PHO",
+        "phone": "None supplied",
+        "prices": [],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=49"
     },
     {
         "address": "609 Highgate, Maori Hill, DUNEDIN 9010",
@@ -751,26 +857,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 32.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 46.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 46.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 46.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 32.0
             }
         ],
@@ -788,26 +894,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 21.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 38.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 38.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 38.0
             }
         ],
@@ -825,26 +931,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 13.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 38.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 38.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 38.5
             }
         ],
@@ -862,26 +968,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 36.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 36.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 36.0
             }
         ],
@@ -899,26 +1005,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 16.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 43.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 44.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 44.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 37.0
             }
         ],
@@ -936,26 +1042,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 48.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 48.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 48.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 48.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 48.0
             }
         ],
@@ -973,26 +1079,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 37.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 37.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 37.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 37.0
             }
         ],
@@ -1010,26 +1116,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 13.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 43.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 43.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 43.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 43.5
             }
         ],
@@ -1047,26 +1153,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 26.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 40.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 41.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 41.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 40.0
             }
         ],
@@ -1084,30 +1190,239 @@
         "prices": [
             {
                 "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
                 "price": 0.0
             },
             {
-                "age": 6,
+                "age": 18.0,
                 "price": 0.0
             },
             {
-                "age": 18,
+                "age": 25.0,
                 "price": 0.0
             },
             {
-                "age": 24,
+                "age": 45.0,
                 "price": 0.0
             },
             {
-                "age": 45,
-                "price": 0.0
-            },
-            {
-                "age": 65,
+                "age": 65.0,
                 "price": 0.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=69"
+    },
+    {
+        "address": "",
+        "coordinates": [
+            -45.8948787,
+            170.4997221
+        ],
+        "name": "South City Medical Centre - refer Aurora Health Centre",
+        "pho": "Southern PHO",
+        "phone": "None supplied",
+        "prices": [],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=53"
+    },
+    {
+        "address": "97 Larnach Road, Waverley, DUNEDIN 9013",
+        "coordinates": [
+            -45.8856022,
+            170.52808519999996
+        ],
+        "name": "Waverley Health",
+        "pho": "Southern PHO",
+        "phone": "03 454 3001",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 6.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 50.0
+            },
+            {
+                "age": 45.0,
+                "price": 50.0
+            },
+            {
+                "age": 65.0,
+                "price": 45.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=71"
+    },
+    {
+        "address": "93 Tarbert Street, Alexandra 9320",
+        "coordinates": [
+            -45.2530133,
+            169.3946942
+        ],
+        "name": "Alexandra Family Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 440 0295",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 7.0,
+                "price": 15.0
+            },
+            {
+                "age": 18.0,
+                "price": 38.0
+            },
+            {
+                "age": 25.0,
+                "price": 45.0
+            },
+            {
+                "age": 45.0,
+                "price": 45.0
+            },
+            {
+                "age": 65.0,
+                "price": 45.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=99"
+    },
+    {
+        "address": "93 Tarbert Street, Alexandra 9320",
+        "coordinates": [
+            -45.2530133,
+            169.3946942
+        ],
+        "name": "Centennial Health",
+        "pho": "Southern PHO",
+        "phone": "03 440 0290",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 10.0
+            },
+            {
+                "age": 13.0,
+                "price": 29.0
+            },
+            {
+                "age": 18.0,
+                "price": 38.0
+            },
+            {
+                "age": 25.0,
+                "price": 38.0
+            },
+            {
+                "age": 45.0,
+                "price": 38.0
+            },
+            {
+                "age": 65.0,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=75"
+    },
+    {
+        "address": "93 Tarbert Street, Alexandra 9320",
+        "coordinates": [
+            -45.2530133,
+            169.3946942
+        ],
+        "name": "Central Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 440 0295",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 7.0,
+                "price": 15.0
+            },
+            {
+                "age": 11.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 38.0
+            },
+            {
+                "age": 25.0,
+                "price": 45.0
+            },
+            {
+                "age": 45.0,
+                "price": 45.0
+            },
+            {
+                "age": 65.0,
+                "price": 45.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=77"
+    },
+    {
+        "address": "93 Tarbert Street, Alexandra 9320",
+        "coordinates": [
+            -45.2530133,
+            169.3946942
+        ],
+        "name": "Cornerstone Health",
+        "pho": "Southern PHO",
+        "phone": "03 440 0299",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 10.0
+            },
+            {
+                "age": 10.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=78"
     },
     {
         "address": "Unit 3 Cromtrade, 2 McNulty Drive, Cromwell 9310",
@@ -1121,30 +1436,108 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 20.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=177"
+    },
+    {
+        "address": "192 Waenga Drive, CROMWELL 9310",
+        "coordinates": [
+            -45.0376111,
+            169.1968728
+        ],
+        "name": "Cromwell Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 445 1119",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 6.0
+            },
+            {
+                "age": 18.0,
+                "price": 44.0
+            },
+            {
+                "age": 25.0,
+                "price": 44.0
+            },
+            {
+                "age": 45.0,
+                "price": 44.0
+            },
+            {
+                "age": 65.0,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=79"
+    },
+    {
+        "address": "1A Traders Lane, Cromwell 9310",
+        "coordinates": [
+            -45.0345125,
+            169.2016905
+        ],
+        "name": "Junction Health",
+        "pho": "Southern PHO",
+        "phone": "03 445 4688",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 15.0
+            },
+            {
+                "age": 13.0,
+                "price": 25.0
+            },
+            {
+                "age": 18.0,
+                "price": 48.0
+            },
+            {
+                "age": 25.0,
+                "price": 48.0
+            },
+            {
+                "age": 45.0,
+                "price": 48.0
+            },
+            {
+                "age": 65.0,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=82"
     },
     {
         "address": "1 Tyrone Street, Ranfurly 9332",
@@ -1158,26 +1551,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 42.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
@@ -1195,26 +1588,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 34.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 42.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
@@ -1232,26 +1625,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 18.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 42.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 42.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 42.0
             }
         ],
@@ -1269,26 +1662,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 10.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 45.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 45.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 45.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 45.0
             }
         ],
@@ -1306,26 +1699,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 26.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 59.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 59.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 59.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 59.5
             }
         ],
@@ -1343,26 +1736,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 55.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 55.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 55.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 55.0
             }
         ],
@@ -1380,26 +1773,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 31.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 31.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 44.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 44.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 44.0
             }
         ],
@@ -1417,26 +1810,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 34.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 34.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 34.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 34.0
             }
         ],
@@ -1454,26 +1847,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 26.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 38.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 38.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 38.0
             }
         ],
@@ -1491,26 +1884,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 26.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 38.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 38.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 38.0
             }
         ],
@@ -1528,30 +1921,71 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 27.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 35.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 35.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 35.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 34.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=84"
+    },
+    {
+        "address": "7 Eden Street, Milton 9220",
+        "coordinates": [
+            -46.1206875,
+            169.9583307
+        ],
+        "name": "Milton Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 417 8226",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 7.0,
+                "price": 20.0
+            },
+            {
+                "age": 11.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=87"
     },
     {
         "address": "50 Tapanui-Raes Junction , Highway, TAPANUI 9522",
@@ -1565,26 +1999,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 28.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 36.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 36.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 33.5
             }
         ],
@@ -1602,26 +2036,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 11.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 17.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 17.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 17.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 17.5
             }
         ],
@@ -1639,26 +2073,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 29.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 40.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 40.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 40.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 40.0
             }
         ],
@@ -1676,26 +2110,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 38.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 38.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 38.0
             }
         ],
@@ -1713,26 +2147,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 25.2
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 40.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 40.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 40.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 40.0
             }
         ],
@@ -1750,26 +2184,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 35.5
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 35.5
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 35.5
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 35.5
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 35.5
             }
         ],
@@ -1787,26 +2221,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 22.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 36.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 36.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 38.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 36.0
             }
         ],
@@ -1824,26 +2258,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 31.9
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 31.9
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 31.9
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 31.9
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 31.9
             }
         ],
@@ -1861,26 +2295,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 32.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 34.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 34.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 34.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 34.0
             }
         ],
@@ -1898,26 +2332,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 29.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 32.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 32.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 32.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 32.0
             }
         ],
@@ -1935,26 +2369,26 @@
         "prices": [
             {
                 "age": 0,
-                "price": 0.0
+                "price": 0
             },
             {
-                "age": 6,
+                "age": 6.0,
                 "price": 30.0
             },
             {
-                "age": 18,
+                "age": 18.0,
                 "price": 30.0
             },
             {
-                "age": 24,
+                "age": 25.0,
                 "price": 30.0
             },
             {
-                "age": 45,
+                "age": 45.0,
                 "price": 30.0
             },
             {
-                "age": 65,
+                "age": 65.0,
                 "price": 30.0
             }
         ],

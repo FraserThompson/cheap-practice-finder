@@ -1,10 +1,11 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-import sys, codecs
+import sys, codecs, os
 import json
 
 practices_list = []
 failed_list = []
+current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 #stupid shit because the windows console can't print stuff properly
 sys.stdout = codecs.getwriter('cp850')(sys.stdout.buffer, 'xmlcharrefreplace')
@@ -31,6 +32,7 @@ for clinic in clinics:
 	pracURLSouped = BeautifulSoup(pracURL)
 	takingPatients = pracURLSouped.find('div', {'class': 'box-rgt text'}).find('p').get_text()
 	if "is taking new patients" not in takingPatients:
+		failed_list.append("WARNING " + url + ": Is not taking patients.")
 		continue
 	info_lines1 = pracURLSouped.find('div', {'class': 'box-lft text'}).find('p').get_text().splitlines()
 	address = ' '.join(info_lines1[0:2])
@@ -73,7 +75,7 @@ for clinic in clinics:
 				count += 1
 
 	except AttributeError:
-		failed_list.append("ERROR " + clinic_data.get_text() + ": Couldn't get fees.")
+		failed_list.append("ERROR " + url + ": Couldn't get fees.")
 
 	practice = {
 		'name': clinic_data.get_text(),
@@ -86,9 +88,13 @@ for clinic in clinics:
 	}
 	practices_list.append(practice)
 
-with open('data.json', 'w') as outFile:
+with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
-print(str(len(failed_list)) +  " practices had errors: ")
-for f in failed_list:
-	print(f)
+if (len(failed_list) > 0):
+	print(str(len(failed_list)) +  " practices had errors: ")
+	failed_file = open(current_dir + '\\failed_list.txt', 'w')
+	for f in failed_list:
+		failed_file.write("%s\n" % f)
+		print(f)
+	failed_file.close()
