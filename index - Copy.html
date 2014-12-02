@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<div id="app" style="display: none;" class="container">
+	<div id="app" style="display: none" class="container">
 		<header><h1>Cheap Practice Finder</h1></header>
 		<section id="main">
       <div id="search-view">
@@ -25,19 +25,21 @@
 		</section>
 		<footer>
       <div class="footer">
-        <p><strong>Fees apply for enrolled patients only</strong></p>
-        <p><span class="open">About</span></p>
+        <strong>Fees apply for enrolled patients only</strong>
+        <span class="open">more</span>
       </div>
     </footer>
     <div id='modal'></div>
 	</div>
 
   <script type="text/template" id="expanded-template">
-      <h4><a href="<%- url %>"><%- name %></a></h4>
-      <p><strong>PHO:</strong> <%- pho %></p>
-      <p><strong>Phone:</strong> <%- phone %></p>
-      <p><strong>Address:</strong> <%- address %></p>
-      <div id="map_canvas"><p>No map</p></div>
+    <td colspan="3" >
+        <p>PHO: <%- pho %></p>
+        <p>Phone: <%- phone %></p>
+        <p>Address: <%- address %></p>
+        <p><a href="<%- url %>">Website</a></p>
+      <div id="map_canvas" style="height: 500px; background-color:black;"><p>No map</p></div>
+    </td>
   </script>
 
   <script type="text/template" id="search-options-template">
@@ -53,7 +55,7 @@
 
   <script type="text/template" id="search-template">
       <input id="new-search-address" class="form-control" type="text" placeholder="Type your address...">
-      <input id="new-search-age" class="form-control" type="text" placeholder="age" style="display: none" maxlength="3">
+      <input id="new-search-age" class="form-control" type="text" placeholder="age" style="display: none">
   </script>
 
   <script type="text/template" id="error-template">
@@ -97,7 +99,7 @@
           <li>Dannevirke</li>
         </ul>
     </ul>
-    <strong>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients. Some practices may have enrolment restrictions. Only practices which are currently taking patients will be displayed.<strong>
+    <strong>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients. Some practices may have enrolment restrictions. Only practices which are curerntly taking patients will be displayed.<strong>
   </script>
   
   <script type="text/javascript" src="js/lib/jquery.min.js"></script>

@@ -20,19 +20,35 @@ app.ExpandedView = Backbone.View.extend({
 
 	template: _.template($('#expanded-template').html()),
 
-	tagName: 'tr',
-
 	id: 'expanded-view',
 
-	render: function() {
-		var self = this;	
-		$(this.el).html(this.template({pho: this.model.get('pho'), phone: this.model.get('phone'), url: this.model.get('url'), address: this.model.get('address')}));
-		$(this.el).find('p').slideDown(400);
-		$(this.el).find('div').slideDown(400);
-		// Wait until the canvas is visible before trying to render the map 
-		setTimeout(function() { ;
+	render: function(position) {
+		var self = this;
+		if (this.model.get('url') == "None supplied"){
+			var url = "";
+		} else {
+			var url = this.model.get('url');
+		};
+		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
+		var table = $('#backgrid-grid');
+		var popout_height = $(this.el).outerHeight();
+		var table_pos = table.offset()
+		table_pos.top += 28; // to account for the header row
+		var popout_top = position.top - popout_height/2;
+		if (popout_top < table_pos.top){
+			popout_top = table_pos.top;
+		};
+		if (popout_top + popout_height > (table_pos.top - 28) + table.outerHeight()){
+			popout_top = (table_pos.top - 28) + table.outerHeight()-popout_height;
+		};
+		$(this.el).css({
+			position: "absolute",
+			top: popout_top + "px",
+			left: table_pos.left + table.outerWidth() + "px"
+		});
+		$(this.el).fadeIn(100, function() {
 			self.activateMap(self.model);
-		}, 410);
+		});
 		return this;
 	},
 
@@ -61,7 +77,6 @@ app.ExpandedView = Backbone.View.extend({
 					});
 				}
 			});
-			google.maps.event.trigger(this.map, 'resize');
 		}
 		else {
 			domElement.html("<p style='color:white;'>No map</p>");
@@ -70,10 +85,8 @@ app.ExpandedView = Backbone.View.extend({
 
 	unrender: function() {
 		var self = this;
-		$(this.el).find('p').slideUp(300);
-		$(this.el).find('div').slideUp(300);
-		setTimeout(function() {
+		$(this.el).fadeOut(100, function() {
 			$(self.el).remove();
-		}, 300);
+		});
 	}
 });
