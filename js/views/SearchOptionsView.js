@@ -14,6 +14,7 @@ app.SearchOptionsView = Backbone.View.extend({
 
 	setCount: function() {
 		this.$("#count").html(app.Practices.length);
+		this.$("#phocount").html(_.size(app.Practices.getListOfPHOs()));
 	},
 
 	renderError: function(message) {
