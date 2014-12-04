@@ -24,7 +24,6 @@ var PracticesCollection = Backbone.Collection.extend({
 	},
 
 	getDistances: function(addressCoords) {
-		var self = this;
 		this.each (function(model) {
 			model.getDistance(addressCoords);
 		});
@@ -41,6 +40,18 @@ var PracticesCollection = Backbone.Collection.extend({
 			return item.get('distance') < distance;
 		});
 		this.reset(filter);
+	},
+
+	getListOfPHOs: function() {
+		var phoList = {};
+		this.each (function(model) {
+			if (model.get('pho') in phoList) {
+				phoList[model.get('pho')] += 1;
+			} else {
+				phoList[model.get('pho')] = 1;
+			}
+		});;
+		return phoList;
 	}
 });
 

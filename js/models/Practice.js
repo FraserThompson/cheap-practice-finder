@@ -45,5 +45,5 @@ app.PracticeModel = Backbone.DeepModel.extend({
 			console.log("Failed to geocode: " + failed);
 		}
 	return distance_between/1000;
-	}	
+	}
 });

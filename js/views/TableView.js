@@ -22,9 +22,9 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 		"click": "expandRow"
 	},
 
-	expandedView: new app.ExpandedView(),
 
 	initialize: function() {
+		app.Practices.on('change', this.removeExpandedView, this);
 		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
 	},
 
@@ -38,27 +38,31 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 		var self = this;
 		var time = 0;
 		var position = $(this.el).offset();
-		if (this.expanding){
-			return;
-		}
 		// If it's not expanded, expand it. If it is expanded, collapse it.
 		this.expanded = !this.expanded;
 		// Execute the expanding procedure
 		if (this.expanded) {
+			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).offset()})
 			// If there's another row expanded it should  be collapsed and glowed off
 			if (app.ExpandedRows.length > 0){
 				app.ExpandedRows[0].$el.toggleClass('hover-glow');
 				app.ExpandedRows[0].expandRow();
-				time = 110;
+				time = 150;
 			}
 			setTimeout(function() {
 				app.ExpandedRows[0] = self;
 				self.expandedView.model = self.model;
-				$('#table-view').after(self.expandedView.render(position).el);
+				$('#table-view').after(self.expandedView.render().el);
 			}, time);
 		// Execute the collapsing procedure
 		} else {
 			app.ExpandedRows.splice(0, 1);
+			this.expandedView.unrender();
+		}
+	},
+
+	removeExpandedView: function() {
+		if(this.expandedView){
 			this.expandedView.unrender();
 		}
 	}
@@ -119,7 +123,7 @@ app.TableView = Backbone.View.extend({
 	
 	el: $("#table-view"),
 
-	radius: 5,
+	radius: 2,
 
 	events: {
 		'change #radius-select': 'changeRadius'

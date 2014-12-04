@@ -22,30 +22,46 @@ app.ExpandedView = Backbone.View.extend({
 
 	id: 'expanded-view',
 
-	render: function(position) {
-		var self = this;
-		if (this.model.get('url') == "None supplied"){
-			var url = "";
-		} else {
-			var url = this.model.get('url');
-		};
-		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
-		var table = $('#backgrid-grid');
-		var popout_height = $(this.el).outerHeight();
-		var table_pos = table.offset()
+	clickPosition: 0,
+
+	table: $('#backgrid-grid'),
+
+	initialize: function(options) {
+		_.bindAll(this, 'render', 'unrender', 'setCSSPosition', 'activateMap');
+		this.clickPosition = options.clickPosition;
+		$(window).on('resize', this.setCSSPosition);
+	},
+
+	setCSSPosition: function() {
+		//var popout_height = $(this.el).outerHeight();
+		var popout_height = 500 //CHANGE THIS IF YOU CHANGE IT IN THE CSS BECAUSE CHROME 
+		var table_pos = this.table.offset();
+		var table_height = this.table.outerHeight()
+		var table_width = this.table.outerWidth()
 		table_pos.top += 28; // to account for the header row
-		var popout_top = position.top - popout_height/2;
+		var popout_top = this.clickPosition.top - popout_height/2;
 		if (popout_top < table_pos.top){
 			popout_top = table_pos.top;
 		};
-		if (popout_top + popout_height > (table_pos.top - 28) + table.outerHeight()){
-			popout_top = (table_pos.top - 28) + table.outerHeight()-popout_height;
+		if (popout_top + popout_height > (table_pos.top - 28) + table_height){
+			popout_top = (table_pos.top - 28) + table_height-popout_height;
 		};
 		$(this.el).css({
 			position: "absolute",
 			top: popout_top + "px",
-			left: table_pos.left + table.outerWidth() + "px"
+			left: table_pos.left + table_width + "px"
 		});
+	},
+
+	render: function() {
+		var self = this;
+		if (this.model.get('url') != ""){
+			var url = this.model.get('url');
+		} else {
+			var url = "https://www.google.co.nz/#q=" + this.model.get('name');
+		};
+		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
+		this.setCSSPosition();
 		$(this.el).fadeIn(100, function() {
 			self.activateMap(self.model);
 		});
@@ -85,6 +101,7 @@ app.ExpandedView = Backbone.View.extend({
 
 	unrender: function() {
 		var self = this;
+		$(window).off('resize', this.setCSSPosition)
 		$(this.el).fadeOut(100, function() {
 			$(self.el).remove();
 		});

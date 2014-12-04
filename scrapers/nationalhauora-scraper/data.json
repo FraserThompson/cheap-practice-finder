@@ -34,7 +34,7 @@
                 "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/109-doctors/"
     },
     {
         "address": "123D Dominion Road,Mt Eden, Auckland",
@@ -108,7 +108,7 @@
                 "price": 17.5
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/epsom-medical-care/"
     },
     {
         "address": "1492 Dominion Road Extension,Mt Roskill South, Auckland",
@@ -145,7 +145,7 @@
                 "price": 10.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "132 West Tamaki Road,Glen Innes, Auckland",
@@ -182,7 +182,7 @@
                 "price": 15.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "Cnr Church & Selwyn,Onehunga, Auckland",
@@ -256,7 +256,7 @@
                 "price": 17.5
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/onehunga-medical-practice/"
     },
     {
         "address": "6/507 Great South Road,Otahuhu, Auckland",
@@ -293,7 +293,7 @@
                 "price": 5.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "68 Beach Road,Auckland City, Auckland",
@@ -404,7 +404,7 @@
                 "price": 17.5
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/tamaki-family-health-centre/"
     },
     {
         "address": "536 Mt Albert Road,Three Kings, Auckland",
@@ -478,7 +478,7 @@
                 "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "3/100 Alexander Crescent,Otara, Auckland",
@@ -515,7 +515,7 @@
                 "price": 12.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "20 Hunua Road,Papakura, Auckland",
@@ -626,7 +626,7 @@
                 "price": 17.5
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/wiri-family-doctors/"
     },
     {
         "address": "177 Pakuranga Road,Pakuranga, Auckland",
@@ -737,7 +737,7 @@
                 "price": 17.5
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "19 Delta Avenue,New Lynn, Auckland",
@@ -811,7 +811,7 @@
                 "price": 17.5
             }
         ],
-        "url": "None supplied"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/westview-medical-centre/"
     },
     {
         "address": "1 Turenne Street  ,Inner Kaiti, Gisborne 4010",
@@ -848,7 +848,7 @@
                 "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "3 Desmond Road,Te Hapara, Gisborne 4010",
@@ -922,7 +922,7 @@
                 "price": 15.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "11 Galileo Street, Ngaruawahia",
@@ -959,7 +959,7 @@
                 "price": 17.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "10-14 Ward Street, Te Kuiti",
@@ -996,7 +996,7 @@
                 "price": 0.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     },
     {
         "address": "17 Morero Terace, Taumarunui",
@@ -1033,6 +1033,6 @@
                 "price": 15.0
             }
         ],
-        "url": "None supplied"
+        "url": ""
     }
 ]

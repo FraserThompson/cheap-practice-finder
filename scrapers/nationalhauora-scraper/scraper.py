@@ -1,9 +1,13 @@
-from urllib.request import urlopen
+from urllib.request import urlopen, HTTPError, URLError
 from bs4 import BeautifulSoup, Comment
 from pygeocoder import Geocoder
 import sys, codecs, os
 import json
 import re
+
+def toURL(input):
+	normal = re.sub('[^0-9a-zA-Z ]+', '', input.strip())
+	return normal.lower().replace(' ', '-') + "/"
 
 def getFirstNumber(string):
 	return float(re.findall('[-+]?\d*\.\d+|\d+', string)[0])
@@ -37,7 +41,18 @@ for region in regions:
 		if right_panel.find('a'):
 			website = right_panel.find('a').get('href')
 		else:
-			website = "None supplied" 
+			#Try find URL
+			try:
+				website = 'http://www.healthpoint.co.nz/doctors/gp/' + toURL(name)
+				urlopen(website)
+			except HTTPError as e:
+				failed_list.append("WARNING " + name + ": Couldn't find URL: " + str(e.code))
+				website = ""
+			except URLError as e:
+				failed_list.append("WARNING " + name + ": Couldn't find URL: " + str(e.code))
+				website = ""
+			else:
+				print("ok")
 
 		address = right_panel.find_all('p')[1].get_text(strip=True)
 		phone = right_panel.find_all('p')[0].get_text().splitlines()[1].split(':')[1].strip()
@@ -49,6 +64,8 @@ for region in regions:
 		except:
 			failed_list.append("ERROR " + website + ": Couldn't geocode address: " + address)
 			continue
+
+
 
 		fees_table = left_panel.find('table', {'class': 'tbl fees'}).find_all('tr')
 		prices = []

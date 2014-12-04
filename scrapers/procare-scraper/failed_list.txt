@@ -1,28 +1,151 @@
-ERROR Auckland Metro Doctors & Travelcare: Couldn't geocode: 17 Emily Place
-WARNING Avondale Health Centre: Couldn't find fees.
-WARNING Blockhouse Bay Medical Centre: Couldn't find fees.
-WARNING Browns Bay Family Medical Centre: Couldn't find fees.
-ERROR CityMed: Couldn't geocode: Quay West Building, Ground Floor, 8 Albert St
-WARNING Donovan Street Medical Centre: Couldn't find fees.
-WARNING Dr Andrew Tseung: Couldn't find fees.
-WARNING Dr Peter King and Dr James Lowe Medical: Couldn't find fees.
-WARNING SerRion s rieve  Dr v ce G : Couldn't find fees.
-WARNING Family Practice & Medical Centre: Couldn't find fees.
-WARNING Freemans Bay Medical Centre: Couldn't find fees.
-WARNING Golf Road Medical Centre: Couldn't find fees.
-WARNING Hillsborough Medical Centre: Couldn't find fees.
-WARNING Hillside Medical Centre: Couldn't find fees.
-WARNING Hobsonville Medical Centre: Couldn't find fees.
-WARNING Marsden Medical Practice: Couldn't find fees.
-WARNING Mission Bay Doctors: Couldn't find fees.
-WARNING Napier Avenue Medical Centre: Couldn't find fees.
-WARNING New Lynn Medical Centre: Couldn't find fees.
-WARNING Queen Street Doctors: Couldn't find fees.
-WARNING Rathgar Medical Clinic: Couldn't find fees.
-ERROR Royal Oak Mall Medical Centre: Couldn't geocode: 1st Floor Royal Oak Mall, 691 Manukau Rd
-ERROR St Patrick's Square Medical & Dental Centre: Couldn't geocode: Level 2/33 Wyndham Street
-WARNING Titirangi Family Healthcare: Couldn't find fees.
-ERROR University of Auckland Health: Couldn't geocode: Students Common Building, 3rd Floor, 2 Alfred Street
-WARNING Upper Harbour Medical Centre: Couldn't find fees.
-WARNING Valley Medical Centre: Couldn't find fees.
-WARNING Waimauku Doctors: Couldn't find fees.
+======70=====ERROR 168 Medical Centre Ltd: No details.
+ERROR Botany Town Centre Medical Practice: No details.
+ERROR Caliburn Medical Services Auckland: No details.
+ERROR Caliburn Medical Services Manukau: No details.
+ERROR Christian Medical Centre: No details.
+ERROR CityMed Doctors: No details.
+ERROR Clendon Family Health Centre: No details.
+ERROR Clendon Medical Centre: No details.
+ERROR Clevedon Road Medical Centre: No details.
+ERROR Conifer Grove Medical Centre: No details.
+ERROR Dr JA Hanne Family Practice: No details.
+ERROR Dr Kala Magan: No details.
+ERROR Health I-Care Clinic: No details.
+ERROR Dr Upsdell's Surgery: No details.
+ERROR Drury Lane Surgery: No details.
+ERROR Drury Surgery Ltd.: No details.
+ERROR East Med: No details.
+ERROR Family Health Care Medical Centre: No details.
+ERROR Fellbrook Medical Centre: No details.
+ERROR 0.00mans Bay Medical Centre: No details.
+ERROR Greenstone Family Clinic: No details.
+ERROR Hall Avenue Medical Centre: No details.
+ERROR Health New Lynn Ltd: No details.
+ERROR Healthwise Beachhaven: No details.
+ERROR Hillpark Family Medical Centre: No details.
+ERROR Holistic Medical Centre: No details.
+ERROR Howick Health and Medical Centre: No details.
+ERROR Howick Medical Practice: No details.
+ERROR Hunters Corner 26 Medical Centre: No details.
+ERROR Hunters Corner 28 Medical Centre: No details.
+ERROR Johns Lane Surgery: No details.
+ERROR Kaipara Medical Centre: No details.
+ERROR Leabank Health Centre: No details.
+ERROR Mangere Bridge Surgery: No details.
+ERROR Mangere Bridge Village Family Health Centre: No details.
+ERROR Mangere East Medical Centre: No details.
+ERROR Mangere Health Centre: No details.
+ERROR Manukau Family Doctors, Acc & Med: No details.
+ERROR Manukau Medical Associates: No details.
+ERROR Manurewa Family Doctors Ltd: No details.
+ERROR Manurewa Healthcare Medical Group: No details.
+ERROR Manurewa Medical: No details.
+ERROR Manurewa Peoples Centre: No details.
+ERROR MCAM Medical Centre: No details.
+ERROR Otahuhu Family Doctors: No details.
+ERROR Otahuhu Family Medical Centre: No details.
+ERROR Otara Family & Christian Health Centre: No details.
+ERROR Palms Health: No details.
+ERROR Papakura East Medical Clinic: No details.
+ERROR Papakura Family Health Centre: No details.
+ERROR Papakura Family Medical Practice: No details.
+ERROR Papakura Family Medicine Clinic Ltd: No details.
+ERROR Papatoetoe Family Doctors: No details.
+ERROR Papatoetoe Medical Centre: No details.
+ERROR Papatoetoe South Medical Centre: No details.
+ERROR Puhinui Medical Centre: No details.
+ERROR Rangitoto Medical Centre: No details.
+ERROR Residential Healthcare Ltd: No details.
+ERROR Rosehill Christian Medical Centre: No details.
+ERROR Roselands Doctors: No details.
+ERROR Takanini Family Health Care: No details.
+ERROR The Gardens Medical Centre: No details.
+ERROR The Wood Street Doctors: No details.
+ERROR Tiakina Te Ora: No details.
+ERROR Tuakau Health Care: No details.
+ERROR Turuki Health Centre: No details.
+ERROR Service: No details.
+ERROR Westcare Cross New Lynn: No details.
+ERROR White Cross Lunn Ave: No details.
+ERROR Your Health Centre (Peter Cameron): No details.
+======81=====WARNING 168 Medical Centre Ltd: Couldn't find URL: 404
+WARNING 652 Doctors Manukau Ltd: Couldn't find URL: 404
+WARNING All Care Medical Centre - Ponsonby: Couldn't find URL: 404
+WARNING Medical Centre @ Apollo: Couldn't find URL: 404
+WARNING Auckland Central Medical & Health Centre Ltd: Couldn't find URL: 404
+WARNING Auckland Integrative Medical Centre: Couldn't find URL: 404
+WARNING Bayside Medical Practice Ltd: Couldn't find URL: 404
+WARNING Caliburn Medical Services Auckland: Couldn't find URL: 404
+WARNING Caliburn Medical Services Manukau: Couldn't find URL: 404
+WARNING Church Street Accident and Medical: Couldn't find URL: 404
+WARNING Church Street Doctors Ltd: Couldn't find URL: 404
+WARNING CityMed Doctors: Couldn't find URL: 404
+WARNING Clendon Medical Centre: Couldn't find URL: 404
+WARNING Clevedon Road Medical Centre: Couldn't find URL: 404
+WARNING Dean Campbell Medical Ltd: Couldn't find URL: 404
+WARNING Dr DM De Lacey: Couldn't find URL: 404
+WARNING Dr JA Hanne Family Practice: Couldn't find URL: 404
+WARNING Dr John Tseung: Couldn't find URL: 404
+WARNING Dr Kala Magan: Couldn't find URL: 404
+WARNING Dr Li Zhuang and Michael Wah: Couldn't find URL: 404
+WARNING Dr Nicholas Cooper: Couldn't find URL: 404
+WARNING Health I-Care Clinic: Couldn't find URL: 404
+WARNING Drs Good and Shanks: Couldn't find URL: 404
+WARNING Drs on Jervois: Couldn't find URL: 404
+WARNING East Med: Couldn't find URL: 404
+WARNING ETHC Glen Innes Ltd: Couldn't find URL: 404
+WARNING ETHC Otahuhu Ltd: Couldn't find URL: 404
+WARNING ETHC Sylvia Park Ltd: Couldn't find URL: 404
+WARNING Family Doctors -Whangaparaoa: Couldn't find URL: 404
+WARNING Four Kauri Family Medical Centre: Couldn't find URL: 404
+WARNING 0.00mans Bay Medical Centre: Couldn't find URL: 404
+WARNING Green Cross Takapuna: Couldn't find URL: 404
+WARNING Hall Avenue Medical Centre: Couldn't find URL: 404
+WARNING Health New Lynn Ltd: Couldn't find URL: 404
+WARNING Healthcare Roskill South: Couldn't find URL: 404
+WARNING Healthwise Beachhaven: Couldn't find URL: 404
+WARNING Henderson Medical Centre: Couldn't find URL: 404
+WARNING Hunters Corner 26 Medical Centre: Couldn't find URL: 404
+WARNING Hunters Corner 28 Medical Centre: Couldn't find URL: 404
+WARNING Johns Lane Surgery: Couldn't find URL: 404
+WARNING Lincoln Rd Medical Centre: Couldn't find URL: 404
+WARNING Lynnmall Medical Centre: Couldn't find URL: 404
+WARNING Manukau Family Doctors, Acc & Med: Couldn't find URL: 404
+WARNING Manurewa Family Doctors Ltd: Couldn't find URL: 404
+WARNING Manurewa Healthcare Medical Group: Couldn't find URL: 404
+WARNING Manurewa Medical: Couldn't find URL: 404
+WARNING Maungakiekie Clinic: Couldn't find URL: 404
+WARNING MCAM Medical Centre: Couldn't find URL: 404
+WARNING Mt Roskill Healthcare Ltd: Couldn't find URL: 404
+WARNING My Doctor Ltd: Couldn't find URL: 404
+WARNING New Windsor Road Surgery: Couldn't find URL: 404
+WARNING Nile Road Family Medical Centre: Couldn't find URL: 404
+WARNING Onehealth: Couldn't find URL: 404
+WARNING Otara Family & Christian Health Centre: Couldn't find URL: 404
+WARNING Palms Health: Couldn't find URL: 404
+WARNING Panmure Surgery: Couldn't find URL: 404
+WARNING Papakura East Medical Clinic: Couldn't find URL: 404
+WARNING Papakura Family Medical Practice: Couldn't find URL: 404
+WARNING Papakura Family Medicine Clinic Ltd: Couldn't find URL: 404
+WARNING Parnell Family Doctor: Couldn't find URL: 404
+WARNING Parnell Medical Centre Ltd: Couldn't find URL: 404
+WARNING Pacific Horizon Limited Partnership: Couldn't find URL: 404
+WARNING Ponsonby Medical Centre: Couldn't find URL: 404
+WARNING Point Chevalier Medical and Surgical Centre: Couldn't find URL: 404
+WARNING Rangitoto Medical Centre: Couldn't find URL: 404
+WARNING Residential Healthcare Ltd: Couldn't find URL: 404
+WARNING Rosebank Road Medical Services: Couldn't find URL: 404
+WARNING Royal Oak Mall Medical Centre: Couldn't find URL: 404
+WARNING St Patrick's Medical & Dental Centre: Couldn't find URL: 404
+WARNING Stoddard Road Medical: Couldn't find URL: 404
+WARNING Te Puna Hauora: Couldn't find URL: 404
+WARNING Titirangi Medical Centre: Couldn't find URL: 404
+WARNING Tuakau Health Care: Couldn't find URL: 404
+WARNING Turuki Health Centre: Couldn't find URL: 404
+WARNING Unitec Student Health Centre: Couldn't find URL: 404
+WARNING Service: Couldn't find URL: 404
+WARNING Westcare Cross New Lynn: Couldn't find URL: 404
+WARNING Westgate Medical Centre: Couldn't find URL: 404
+WARNING White Cross Lunn Ave: Couldn't find URL: 404
+WARNING Windsor Medical Centre: Couldn't find URL: 404
+WARNING Your Health Centre (Peter Cameron): Couldn't find URL: 404
