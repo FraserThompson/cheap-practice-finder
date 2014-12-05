@@ -1,4 +1,6 @@
-WARNING http://www.alliancehealth.org.nz/clinics/25/greenstone-family-clinic/: Is not taking patients.
-WARNING http://www.alliancehealth.org.nz/clinics/17/pukekohe-family-doctors/: Is not taking patients.
-WARNING http://www.alliancehealth.org.nz/clinics/23/rosebank-road-medical-services-ltd/: Is not taking patients.
+============4===========
+ERROR http://www.alliancehealth.org.nz/clinics/25/greenstone-family-clinic/: Is not taking patients.
+ERROR http://www.alliancehealth.org.nz/clinics/17/pukekohe-family-doctors/: Is not taking patients.
+ERROR http://www.alliancehealth.org.nz/clinics/23/rosebank-road-medical-services-ltd/: Is not taking patients.
 ERROR http://www.alliancehealth.org.nz/clinics/27/southpoint-family-doctors/: Couldn't get fees.
+============0===========

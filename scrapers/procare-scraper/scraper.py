@@ -1,9 +1,11 @@
-from urllib.request import urlopen, HTTPError, URLError, Request
-from bs4 import BeautifulSoup
 import csv, json
-import os, sys
+import os, sys, codecs
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '\\..\\')
 import scrapers
+
+#stupid shit because the windows console can't print stuff properly
+sys.stdout = codecs.getwriter('cp850')(sys.stdout.buffer, 'xmlcharrefreplace')
+sys.stderr = codecs.getwriter('cp850')(sys.stderr.buffer, 'xmlcharrefreplace')
 
 current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 practices_list = []
@@ -11,7 +13,7 @@ error_list = []
 warning_list = []
 details_dict = {}
 count = 0
-
+print("Started scraping.")
 with open('practices 2013.csv', 'r') as prac_file:
 	prac_reader = csv.reader(prac_file)
 	for row in prac_reader:
@@ -28,11 +30,16 @@ with open('fees.csv', 'r') as fees_file:
 		url = scrapers.getHealthpointURL(name)
 
 		if len(details) != 3:
-			details = scrapers.scrapeHealthpointDetails(url)
-			#error_list.append(name + ": No details.")
-			#continue
+			if url != '':
+				details = scrapers.scrapeHealthpointDetails(url)
+				if details == 0:
+					error_list.append(name + ": No details.")
+					continue
+			else:
+				error_list.append(name + ": No details.")
+				continue
 
-		if details[2][0] == 0:
+		if details[2][0] == 0 or details[2][0] == "":
 			details[2] = scrapers.geolocate(details[0] + ", Auckland")
 			if details[2][0] == 0:
 				address_components = details[0].split(' ')

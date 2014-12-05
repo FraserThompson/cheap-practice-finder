@@ -1,7 +1,13 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
+import json
+import requests
 from urllib.request import urlopen, Request
 import re
+import codecs
 from pygeocoder import Geocoder
+
+def getFirstNumber(string):
+	return float(re.findall('[-+]?\d*\.\d+|\d+', string)[0])
 
 def partial_match(string, dictin):
 	result = []
@@ -18,21 +24,36 @@ def partial_match(string, dictin):
 	return result
 
 def getHealthpointURL(name):
-	url = 'http://www.faroo.com/api?q=site:www.healthpoint.co.nz+' + scrapers.toPlusURL(name) + '&start=1&length=5&l=en&src=web&i=false&f=json'
-	req = Request(url, None, headers={'User-Agent': 'Practice Scraper'})
-	opened = urlopen(req).read()
-	return opened.results[0].url
+	print('Trying to get healthpoint url: ' + name)
+	url = 'https://api.datamarket.azure.com/Bing/Search/v1/Web?Query=%27site%3Ahealthpoint.co.nz%20' + urlify(name) + '%27&$format=json'
+	req = requests.get(url, auth=('iltXKGGVYlV3VSnhXT8jbNZe97rvjDRkdte68cM7fJU', 'iltXKGGVYlV3VSnhXT8jbNZe97rvjDRkdte68cM7fJU'))
+	if req.status_code != 200:
+		return ''
+	results = req.json()['d']['results']
+	if len(results) == 0:
+		return ''
+	else:
+		return results[0]['Url']
 
 def scrapeHealthpointDetails(url):
-	soup = scrapers.openAndSoup(url)
-	phone = soup.find('ul', {'class':'contact-list'}).find('p').get_text()
-	map_div = soup.find('section', {'class':'service-map'}).find('div', {'class':'map'})
-	address = map_div.find('p').get_text()
-	coord = map_div.get('data-position').split(', ')
+	print("trying to scrape from: " + url)
+	soup = openAndSoup(url)
+	try:
+		address = soup.find('ul', {'class':'contact-list'}).find('p').get_text()
+		map_div = soup.find('section', {'class':'service-map'}).find('div', {'class':'map'})
+		phone = map_div.find('p').get_text()
+		coord = map_div.get('data-position').split(', ')
+		if coord[0] != '' and coord[0] != 0:
+			coord = [float(string) for string in coord]
+		else:
+			return 0
+	except AttributeError:
+		return 0
 	return [phone, address, coord]
 
 def openAndSoup(url):
-	req = urllib.Request(url, None, headers={'User-Agent': 'Mozilla/5.0'})
+	print("Accessing URL: " + url)
+	req = Request(url, None, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36'})
 	return BeautifulSoup(urlopen(req).read())
 
 def dealWithFailure(error_list, warning_list, current_dir):
@@ -51,7 +72,7 @@ def dealWithFailure(error_list, warning_list, current_dir):
 		failed_file.close()
 
 def normalize(input):
-	return re.sub('[^0-9a-zA-Z ]+', '', input.strip().lower().replace('mt', 'mount'))
+	return re.sub('[^0-9a-zA-Z ]+', '', input.strip().lower().replace('mt ', 'mount '))
 
 	
 def geolocate(address):
@@ -64,13 +85,16 @@ def geolocate(address):
 		return [0, 0]
 	return coord
 
-def toDashURL(input):
+def replaceSpacesWithDashes(input):
 	normal = re.sub('[^0-9a-zA-Z ]+', '', input.strip())
 	return normal.lower().replace(' ', '-') + "/"
 
-def toPlusURL(input):
+def replaceSpacesWithPluses(input):
 	normal = re.sub('[^0-9a-zA-Z ]+', '', input.strip())
 	return normal.lower().replace(' ', '+')
+
+def urlify(input):
+	return input.replace("'", '%27').replace('"', '%27').replace('+', '%2b').replace(' ', '%20').replace(':', '%3a')
 
 def getFirstNumber(string):
 	return float(re.findall('[-+]?\d*\.\d+|\d+', string)[0])

@@ -1,20 +1,20 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
 import sys, codecs, os
 import json
-
-practices_list = []
-failed_list = []
-current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '\\..\\')
+import scrapers
 
 #stupid shit because the windows console can't print stuff properly
 sys.stdout = codecs.getwriter('cp850')(sys.stdout.buffer, 'xmlcharrefreplace')
 sys.stderr = codecs.getwriter('cp850')(sys.stderr.buffer, 'xmlcharrefreplace')
 
+practices_list = []
+error_list = []
+warning_list = []
+current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
+
 # Access the URL
 root = 'http://www.alliancehealth.org.nz'
-listUrl = urlopen(root + '/clinics/').read()
-listUrlSouped = BeautifulSoup(listUrl)
+listUrlSouped = scrapers.openAndSoup(root + '/clinics')
 clinics = listUrlSouped.find('div', {'id': 'clinics-left'}).find('ul').find_all('li')
 
 for clinic in clinics:
@@ -28,11 +28,10 @@ for clinic in clinics:
 	url = root + clinic_data.get('href')
 
 	# Information
-	pracURL = urlopen(url).read()
-	pracURLSouped = BeautifulSoup(pracURL)
+	pracURLSouped = scrapers.openAndSoup(url)
 	takingPatients = pracURLSouped.find('div', {'class': 'box-rgt text'}).find('p').get_text()
 	if "is taking new patients" not in takingPatients:
-		failed_list.append("WARNING " + url + ": Is not taking patients.")
+		error_list.append(url + ": Is not taking patients.")
 		continue
 	info_lines1 = pracURLSouped.find('div', {'class': 'box-lft text'}).find('p').get_text().splitlines()
 	address = ' '.join(info_lines1[0:2])
@@ -75,7 +74,7 @@ for clinic in clinics:
 				count += 1
 
 	except AttributeError:
-		failed_list.append("ERROR " + url + ": Couldn't get fees.")
+		error_list.append(url + ": Couldn't get fees.")
 
 	practice = {
 		'name': clinic_data.get_text(),
@@ -91,10 +90,4 @@ for clinic in clinics:
 with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
-if (len(failed_list) > 0):
-	print(str(len(failed_list)) +  " practices had errors: ")
-	failed_file = open(current_dir + '\\failed_list.txt', 'w')
-	for f in failed_list:
-		failed_file.write("%s\n" % f)
-		print(f)
-	failed_file.close()
+scrapers.dealWithFailure(error_list, warning_list, current_dir)

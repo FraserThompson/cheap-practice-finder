@@ -1,29 +1,26 @@
-from urllib.request import urlopen
 from bs4 import BeautifulSoup, Comment
 import sys, codecs, os
 import json
 import re
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '\\..\\')
+import scrapers
 
 practices_list = []
 details_dict = {}
 coords_list = []
-failed_list = []
+error_list = []
+warning_list = []
 current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 def normalize(input):
-	return re.sub('[^0-9a-zA-Z ]+', '', input.strip().lower().replace('mt', 'mount').replace('st', 'street'))
+	return scrapers.normalize(input).replace(' st', 'street')
 
 # Access the URL
 rootURL = 'http://www.aucklandpho.co.nz'
-print("Accessing URL...")
-listUrl = urlopen(rootURL + '/fees/').read()
-print("Done. Souping it...")
-listUrlSouped = BeautifulSoup(listUrl)
+listUrlSouped = scrapers.openAndSoup(rootURL + '/fees/')
 rows = listUrlSouped.find('table', {'id': 'feestable'}).find_all('tr')[1:]
 
-print("Done. Making list of details...")
-pracURL = urlopen(rootURL + '/practices/practice-locations/').read()
-pracURLSouped = BeautifulSoup(pracURL)
+pracURLSouped = scrapers.openAndSoup(rootURL + '/practices/practice-locations/')
 coord_list = pracURLSouped.find_all('div', {'class': 'cggm_marker'})
 for item in coord_list:
 	comments = item.find_all(text=lambda text:isinstance(text, Comment))
@@ -47,8 +44,9 @@ for row in rows:
 	phone = "None"
 
 	prac_details = [v for k,v in details_dict.items() if k.startswith(' '.join(normal_name[:2]))]
-	if len(prac_details) == 0:
-		failed_list.append("WARNING " + name + ": Could not find details.")
+	if len(prac_details) == 0 or len(prac_details[0]) < 4:
+		error_list.append(name + ": Could not find details.")
+		continue
 	else:
 		address = prac_details[0][0]
 		website = prac_details[0][1]
@@ -94,10 +92,4 @@ for row in rows:
 with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
-if (len(failed_list) > 0):
-	print(str(len(failed_list)) +  " practices had errors: ")
-	failed_file = open(current_dir + '\\failed_list.txt', 'w')
-	for f in failed_list:
-		failed_file.write("%s\n" % f)
-		print(f)
-	failed_file.close()
+scrapers.dealWithFailure(error_list, warning_list, current_dir)

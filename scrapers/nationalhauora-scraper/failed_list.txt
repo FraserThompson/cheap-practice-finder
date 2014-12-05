@@ -1,13 +1,10 @@
-WARNING Hauora o Puketapapa - Roskill Union: Couldn't find URL: 404
-WARNING Health Star Medical Centre: Couldn't find URL: 404
-WARNING Otahuhu Health Clinic: Couldn't find URL: 404
-WARNING Mahia Road Surgery (Dr Wong): Couldn't find URL: 404
-WARNING Otara Union Health Service: Couldn't find URL: 404
-WARNING Third Age Health Counties Manukau: Is not taking patients
-WARNING McLaren Park Medical: Couldn't find URL: 404
-WARNING De Lautour Medical: Couldn't find URL: 404
-WARNING Dr Spry: Couldn't find URL: 404
-WARNING Ngaruawahia Medical Centre: Couldn't find URL: 404
-WARNING Te Kuiti Family Health: Couldn't find URL: 404
-WARNING The Family Clinic Taumarunui Kokiri: Couldn't find URL: 404
-WARNING Third Age Health Waikato: Is not taking patients
+============2===========
+ERROR Third Age Health Counties Manukau: Is not taking patients
+ERROR Third Age Health Waikato: Is not taking patients
+============6===========
+WARNING Mahia Road Surgery (Dr Wong): Couldn't find website.
+WARNING De Lautour Medical: Couldn't find website.
+WARNING Dr Spry: Couldn't find website.
+WARNING Ngaruawahia Medical Centre: Couldn't find website.
+WARNING Te Kuiti Family Health: Couldn't find website.
+WARNING The Family Clinic Taumarunui Kokiri: Couldn't find website.

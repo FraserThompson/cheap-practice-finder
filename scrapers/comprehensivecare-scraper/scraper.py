@@ -1,24 +1,18 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup, Comment
-from pygeocoder import Geocoder
 import sys, codecs, os
 import json
 import re
-
-def getFirstNumber(string):
-	return float(re.findall('[-+]?\d*\.\d+|\d+', string)[0])
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '\\..\\')
+import scrapers
 
 practices_list = []
 details_dict = {}
 coords_list = []
-failed_list = []
+error_list = []
+warning_list = []
 current_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 # Access the URL
-print("Accessing URL...")
-listUrl = urlopen('http://www.comprehensivecare.co.nz/category/region/auckland/').read()
-print("Done. Souping it...")
-listUrlSouped = BeautifulSoup(listUrl)
+listUrlSouped = scrapers.openAndSoup('http://www.comprehensivecare.co.nz/category/region/auckland/')
 rows = listUrlSouped.find_all('article', {'class': 'post type-post status-publish format-standard hentry category-post-formats has_thumbnail post-teaser'})
 
 print("Done. Iterating rows...")
@@ -30,16 +24,13 @@ for row in rows:
 	phone = row.find('div').find('span', {'class': 'address2'}).get_text()
 
 	# Try find the coordinates of the address for Google Maps to display
-	try:
-		result_array = Geocoder.geocode(address + ", Auckland, New Zealand")
-		coord = result_array[0].coordinates
-	except:
-		failed_list.append("ERROR " + website + ": Couldn't geocode address: " + address)
+	coord = scrapers.geolocate(address + ', Auckland')
+	if coord[0] == 0:
+		error_list.append(website + ": Couldn't geocode address: " + address)
 		continue
 
 	# Go deeper
-	pracUrl = urlopen(website).read()
-	pracUrlSouped = BeautifulSoup(pracUrl)
+	pracUrlSouped = scrapers.openAndSoup(website)
 	fees_list = pracUrlSouped.find_all('div', {'class': 'wpb_wrapper'})[2].get_text().splitlines()
 	prices = []
 	count = 0
@@ -54,12 +45,12 @@ for row in rows:
 		fee = re.split('yrs|years', fee)
 		try:
 			prices.append({
-				'age': getFirstNumber(fee[0]) if count != 2 else 0,
-				'price': getFirstNumber(fee[1].replace("Free", "0"))
+				'age': scrapers.getFirstNumber(fee[0]) if count != 2 else 0,
+				'price': scrapers.getFirstNumber(fee[1].replace("Free", "0"))
 			})
 		except IndexError:
 			print("================================WTF====================")
-			failed_list.append("WARNING " + website + ": Couldn't get all the prices?")
+			warning_list.append(website + ": Couldn't get all the prices?")
 
 	practice = {
 		'name': name,
@@ -75,10 +66,4 @@ for row in rows:
 with open(current_dir + '\\data.json', 'w') as outFile:
 	json.dump(practices_list, outFile, ensure_ascii=False, sort_keys=True, indent=4)
 
-if (len(failed_list) > 0):
-	print(str(len(failed_list)) +  " practices had errors: ")
-	failed_file = open(current_dir + '\\failed_list.txt', 'w')
-	for f in failed_list:
-		failed_file.write("%s\n" % f)
-		print(f)
-	failed_file.close()
+scrapers.dealWithFailure(error_list, warning_list, current_dir)

@@ -577,24 +577,24 @@
                 "price": 10.0
             },
             {
-                "age": 14.0,
+                "age": 15.0,
                 "price": 20.0
             },
             {
                 "age": 18.0,
-                "price": 36.0
+                "price": 37.0
             },
             {
                 "age": 25.0,
-                "price": 43.0
+                "price": 44.0
             },
             {
                 "age": 45.0,
-                "price": 43.0
+                "price": 44.0
             },
             {
                 "age": 65.0,
-                "price": 43.0
+                "price": 44.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=46"
@@ -631,7 +631,7 @@
             },
             {
                 "age": 65.0,
-                "price": 44.0
+                "price": 40.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=47"

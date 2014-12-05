@@ -25,6 +25,7 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 
 	initialize: function() {
 		app.Practices.on('change', this.removeExpandedView, this);
+		app.Practices.on('backgrid:refresh', this.removeExpandedView, this);
 		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
 	},
 
@@ -47,6 +48,7 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 			if (app.ExpandedRows.length > 0){
 				app.ExpandedRows[0].$el.toggleClass('hover-glow');
 				app.ExpandedRows[0].expandRow();
+
 				time = 150;
 			}
 			setTimeout(function() {
@@ -138,7 +140,8 @@ app.TableView = Backbone.View.extend({
 		app.BackgridGrid = new Backgrid.Grid({
 			columns: BackgridColumns,
 			row: BackgridExpandableRow,
-			collection: app.Practices
+			collection: app.Practices,
+			emptyText: "None found."
 		});
 		this.searchOptionsView = new app.SearchOptionsView();
 		this.render();

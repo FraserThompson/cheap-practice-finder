@@ -1,3 +1,4 @@
+============33===========
 ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3799/Default.aspx: Isn't enrolling patients.
 ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3681/Default.aspx: Isn't enrolling patients.
 ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3698/Default.aspx: Isn't enrolling patients.
@@ -31,3 +32,4 @@ ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/c
 ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/5411/Default.aspx: Isn't enrolling patients.
 ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3808/Default.aspx: Isn't enrolling patients.
 ERROR http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3820/Default.aspx: Isn't enrolling patients.
+============0===========
