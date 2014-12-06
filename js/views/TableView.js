@@ -24,8 +24,8 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 
 
 	initialize: function() {
-		app.Practices.on('change', this.removeExpandedView, this);
-		app.Practices.on('backgrid:refresh', this.removeExpandedView, this);
+		this.listenTo(app.Practices, 'change', this.removeExpandedView, this);
+		this.listenTo(app.Practices, 'backgrid:refresh', this.removeExpandedView, this);
 		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
 	},
 
