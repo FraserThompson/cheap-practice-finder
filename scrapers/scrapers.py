@@ -35,6 +35,17 @@ def getHealthpointURL(name):
 	else:
 		return results[0]['Url']
 
+def checkOpenBooks(url):
+	soup = openAndSoup(url)
+	books = soup.find('div', {'id': 'section-books'})
+	if books == None:
+		print("NO BOOKS")
+		return 1
+	elif (books.find('h4').get_text() == 'Closed'):
+			return 0
+	else:
+		return 1
+
 def scrapeHealthpointDetails(url):
 	print("trying to scrape from: " + url)
 	soup = openAndSoup(url)
@@ -54,7 +65,7 @@ def scrapeHealthpointDetails(url):
 def openAndSoup(url):
 	print("Accessing URL: " + url)
 	req = Request(url, None, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36'})
-	return BeautifulSoup(urlopen(req).read())
+	return BeautifulSoup(urlopen(req).read().decode('utf-8', 'ignore'))
 
 def dealWithFailure(error_list, warning_list, current_dir):
 	if (len(error_list) > 0):

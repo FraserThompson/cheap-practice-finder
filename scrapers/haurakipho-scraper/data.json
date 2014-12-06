@@ -1,0 +1,290 @@
+[
+    {
+        "address": "2299 Colville Road, RD4, Colville, Coromandel",
+        "coordinates": [
+            -36.761287,
+            175.4981278
+        ],
+        "name": "Colville Community Health Centre",
+        "pho": "Hauraki PHO",
+        "phone": "Fax: 07 866 6619",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "58 Albert Street, WHITIANGA",
+        "coordinates": [
+            -36.834916,
+            175.7047174
+        ],
+        "name": "Doctors Surgery Whitianga",
+        "pho": "Hauraki PHO",
+        "phone": "07 866 4621",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "Pohlen Hospital Complex, 56 Rawhiti Ave, Matamata, Waikato",
+        "coordinates": [
+            -37.809169,
+            175.7784745
+        ],
+        "name": "Matamata Medical Centre",
+        "pho": "Hauraki PHO",
+        "phone": "07 881 9102 or 07 881 9104",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "15 Princes Street, Paeroa",
+        "coordinates": [
+            -37.3816869,
+            175.6706433
+        ],
+        "name": "Paeroa Medical Centre",
+        "pho": "Hauraki PHO",
+        "phone": "07 862 8755     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "8 Duke Street, Putaruru 3411",
+        "coordinates": [
+            -38.0525716,
+            175.7783268
+        ],
+        "name": "Putaruru-Tirau Family Doctors",
+        "pho": "Hauraki PHO",
+        "phone": "Phone - 07 883 3965",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "31 Hukanui Road, Chartwell, HAMILTON",
+        "coordinates": [
+            -37.7618481,
+            175.2871472
+        ],
+        "name": "Radius Medical Centre - Davies Corner, Chartwell",
+        "pho": "Hauraki PHO",
+        "phone": "",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "960 Victoria St, Hamilton",
+        "coordinates": [
+            -37.7793877,
+            175.2762593
+        ],
+        "name": "Radius Medical Centre - Head Office",
+        "pho": "Hauraki PHO",
+        "phone": "07 903 2071",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "183 Main Street, HUNTLY",
+        "coordinates": [
+            -37.5606016,
+            175.1588122
+        ],
+        "name": "Radius Medical Centre - Huntly East",
+        "pho": "Hauraki PHO",
+        "phone": "",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "960 Victoria Street, HAMILTON",
+        "coordinates": [
+            -37.7793877,
+            175.2762593
+        ],
+        "name": "Radius Medical Centre - K'Aute",
+        "pho": "Hauraki PHO",
+        "phone": "",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "Rototuna Shopping Centre, Corner Horsham Downs Road & Thomas Road, Rototuna, HAMILTON",
+        "coordinates": [
+            -37.7306575,
+            175.2735689
+        ],
+        "name": "Radius Medical Centre - Rototuna",
+        "pho": "Hauraki PHO",
+        "phone": "",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "26 Bryant Road, Te Rapa, HAMILTON",
+        "coordinates": [
+            -37.7576428,
+            175.2468989
+        ],
+        "name": "Radius Medical Centre - St Andrews, Te Rapa",
+        "pho": "Hauraki PHO",
+        "phone": "",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "66 Tennyson Rd, Fairfield, Hamilton",
+        "coordinates": [
+            -37.7676684,
+            175.2940211
+        ],
+        "name": "Raukura Hauora O Tainui - Enderley",
+        "pho": "Hauraki PHO",
+        "phone": "07 853 3370     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "64 Avalon Drive, Hamilton",
+        "coordinates": [
+            -37.7751858,
+            175.2454446
+        ],
+        "name": "Raukura Hauora O Tainui - Nawton",
+        "pho": "Hauraki PHO",
+        "phone": "07 847 2383     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "29a River Rd, Ngaruawahia",
+        "coordinates": [
+            -37.6628112,
+            175.1542428
+        ],
+        "name": "Raukura Hauora O Tainui - Nga Miro",
+        "pho": "Hauraki PHO",
+        "phone": "07 824 8393     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "35 C owley Drive, Hamilton",
+        "coordinates": [
+            -37.8202985,
+            175.2220152
+        ],
+        "name": "Raukura Hauora O Tainui - Temple View",
+        "pho": "Hauraki PHO",
+        "phone": "07 847 1220     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "Parry St, Huntly",
+        "coordinates": [
+            -37.5586671,
+            175.15364
+        ],
+        "name": "Raukura Hauora O Tainui - Waahi",
+        "pho": "Hauraki PHO",
+        "phone": "07 828 9256     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "State Highway 27, Waharoa, MATAMATA",
+        "coordinates": [
+            -37.6246217,
+            175.5979996
+        ],
+        "name": "Raungaiti Marae Health Clinic",
+        "pho": "Hauraki PHO",
+        "phone": "Phone - 07 881 9102",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "180 Dey Street, Hamilton East, Hamilton",
+        "coordinates": [
+            -37.7937612,
+            175.3073469
+        ],
+        "name": "Te Kohao Health",
+        "pho": "Hauraki PHO",
+        "phone": "07 856 1211     Fax",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "Coromandel Town",
+        "coordinates": [
+            -36.761287,
+            175.4981278
+        ],
+        "name": "Te Korowai Hauora o Hauraki – Coromandel",
+        "pho": "Hauraki PHO",
+        "phone": "07 866 8084",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "43 Belmont Road, Paeroa 3600",
+        "coordinates": [
+            -37.3795618,
+            175.6695125
+        ],
+        "name": "Te Korowai Hauora o Hauraki – Paeroa",
+        "pho": "Hauraki PHO",
+        "phone": "Phone - 07 862 9284",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "221 Whittaker Street, Te Aroha 3320",
+        "coordinates": [
+            -37.5410964,
+            175.7103543
+        ],
+        "name": "Te Korowai Hauora o Hauraki – Te Aroha",
+        "pho": "Hauraki PHO",
+        "phone": "Phone - 07 884 9208",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "210 Richmond Street, Thames 3420",
+        "coordinates": [
+            -37.1416528,
+            175.5445145
+        ],
+        "name": "Te Korowai Hauora o Hauraki – Thames (Head Office)",
+        "pho": "Hauraki PHO",
+        "phone": "Phone - 07 868 0033",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "15 Coghill Street, Whitianga 3510",
+        "coordinates": [
+            -36.8351084,
+            175.7036855
+        ],
+        "name": "Te Korowai Hauora o Hauraki – Whitianga",
+        "pho": "Hauraki PHO",
+        "phone": "Ph - 07 869  5244",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    },
+    {
+        "address": "71 Kenny St, Waihi",
+        "coordinates": [
+            -37.3914956,
+            175.8434615
+        ],
+        "name": "Waihi Family Doctors",
+        "pho": "Hauraki PHO",
+        "phone": "Practice Manager-Raewyn Norman 078632112, 0211661718  orThis email address is being protected from spambots. You need JavaScript enabled to view it.//<!--\n document.getElementById('cloak12503').innerHTML = '';\n var prefix = '&#109;a' + 'i&#108;' + '&#116;o';\n var path = 'hr' + 'ef' + '=';\n var addy12503 = 'pm' + '&#64;';\n addy12503 = addy12503 + 'w&#97;&#105;h&#105;f&#97;m&#105;lyd&#111;ct&#111;rs' + '&#46;' + 'c&#111;' + '&#46;' + 'nz';\n var addy_text12503 = 'pm' + '&#64;' + 'w&#97;&#105;h&#105;f&#97;m&#105;lyd&#111;ct&#111;rs' + '&#46;' + 'c&#111;' + '&#46;' + 'nz';\n document.getElementById('cloak12503').innerHTML += '<a ' + path + '\\'' + prefix + ':' + addy12503 + '\\'>'+addy_text12503+'<\\/a>';\n //-->",
+        "prices": [],
+        "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
+    }
+]

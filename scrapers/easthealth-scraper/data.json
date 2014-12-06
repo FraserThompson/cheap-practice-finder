@@ -1,0 +1,754 @@
+[
+    {
+        "address": "44 Wakelin Road Beachlands",
+        "coordinates": [
+            -36.8820007,
+            174.9967435
+        ],
+        "name": "Beachlands Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/4/35/Beachlands-Medical-Centre/"
+    },
+    {
+        "address": "Botany Town Centre, 588 Chapel Road, East Tamaki",
+        "coordinates": [
+            -36.9334658,
+            174.914932
+        ],
+        "name": "Botany Doctor Medical Practice",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/21/35/Botany-Doctor-Medical-Practice/"
+    },
+    {
+        "address": "110 Michael Jones Drive, Flat Bush",
+        "coordinates": [
+            -36.9650376,
+            174.9034228
+        ],
+        "name": "Botany Junction Medical Ltd",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/1/35/Botany-Junction-Medical-Ltd/"
+    },
+    {
+        "address": "301/F Botany Road, Botany Downs",
+        "coordinates": [
+            -36.9247487,
+            174.912804
+        ],
+        "name": "Botany Terrace Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 14.0
+            },
+            {
+                "age": 18,
+                "price": 19.0
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 37.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/2/35/Botany-Terrace-Medical-Centre/"
+    },
+    {
+        "address": "18 Papakura-Clevedon Road, Clevedon",
+        "coordinates": [
+            -36.9929388,
+            175.0373945
+        ],
+        "name": "Clevedon Village Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 25.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/6/35/Clevedon-Village-Medical-Centre/"
+    },
+    {
+        "address": "4 Picton Street, Howick",
+        "coordinates": [
+            -36.8919603,
+            174.9292905
+        ],
+        "name": "Crawford Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 45.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/7/35/Crawford-Medical-Centre/"
+    },
+    {
+        "address": "Unit L 17 Aviemore Drive, Highland Park",
+        "coordinates": [
+            -36.9009519,
+            174.905201
+        ],
+        "name": "Eastern Family Doctors",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 20.0
+            },
+            {
+                "age": 25,
+                "price": 20.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/8/35/Eastern-Family-Doctors/"
+    },
+    {
+        "address": "98 Ti Rakau Drive  Pakuranga",
+        "coordinates": [
+            -36.9181432,
+            174.8747104
+        ],
+        "name": "Eastside Family Doctors",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 21.0
+            },
+            {
+                "age": 18,
+                "price": 27.9
+            },
+            {
+                "age": 25,
+                "price": 33.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/3/35/Eastside-Family-Doctors/"
+    },
+    {
+        "address": "139 Millhouse Drive, Howick",
+        "coordinates": [
+            -36.919638,
+            174.9152109
+        ],
+        "name": "Highgate Surgery",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/9/35/Highgate-Surgery/"
+    },
+    {
+        "address": "14 Highland Park Drive, Highland Park, Auckland",
+        "coordinates": [
+            -36.8999386,
+            174.9088455
+        ],
+        "name": "Highland Park Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.5
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 42.5
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/10/35/Highland-Park-Medical-Centre/"
+    },
+    {
+        "address": "43 Moore Street, Howick",
+        "coordinates": [
+            -36.895779,
+            174.9311783
+        ],
+        "name": "Howick House Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 35.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 47.0
+            },
+            {
+                "age": 45,
+                "price": 48.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/11/35/Howick-House-Medical-Centre/"
+    },
+    {
+        "address": "59 Juliet Ave, Howick",
+        "coordinates": [
+            -36.8949973,
+            174.9170706
+        ],
+        "name": "Juliet Avenue Surgery",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 37.0
+            },
+            {
+                "age": 45,
+                "price": 37.5
+            },
+            {
+                "age": 65,
+                "price": 35.5
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/12/35/Juliet-Avenue-Surgery/"
+    },
+    {
+        "address": "Level 1, Compass Building, The Marina, Half Moon Bay, Auckland",
+        "coordinates": [
+            -36.880881,
+            174.899136
+        ],
+        "name": "Marina Medical",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 43.0
+            },
+            {
+                "age": 18,
+                "price": 50.0
+            },
+            {
+                "age": 25,
+                "price": 50.0
+            },
+            {
+                "age": 45,
+                "price": 50.0
+            },
+            {
+                "age": 65,
+                "price": 47.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/14/35/Marina-Medical/"
+    },
+    {
+        "address": "128 Millhouse Drive, Howick",
+        "coordinates": [
+            -36.9188388,
+            174.9179795
+        ],
+        "name": "Millhouse Integrative Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.5
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 36.3
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/15/35/Millhouse-Integrative-Medical-Centre/"
+    },
+    {
+        "address": "Gate 9, S Block, South Campus, Otara Road, Otara, Auckland",
+        "coordinates": [
+            -36.9558879,
+            174.8714247
+        ],
+        "name": "MIT Health and Counselling Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [],
+        "url": "http://www.easthealth.co.nz/companies/13/35/MIT-Health-and-Counselling-Centre/"
+    },
+    {
+        "address": "17 William Roberts Road Pakuranga",
+        "coordinates": [
+            -36.9126158,
+            174.8736784
+        ],
+        "name": "Pakuranga Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/5/35/Pakuranga-Medical-Centre/"
+    },
+    {
+        "address": "12 Picton Street, Howick",
+        "coordinates": [
+            -36.8924573,
+            174.929825
+        ],
+        "name": "Picton Street Surgery",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 42.5
+            },
+            {
+                "age": 45,
+                "price": 42.5
+            },
+            {
+                "age": 65,
+                "price": 39.5
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/16/35/Picton-Street-Surgery/"
+    },
+    {
+        "address": "46 Wellington Street, Howick",
+        "coordinates": [
+            -36.8946147,
+            174.9297545
+        ],
+        "name": "Selwyn House Medical Centre",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/17/35/Selwyn-House-Medical-Centre/"
+    },
+    {
+        "address": "E3 119 Meadowlands Drive, Howick",
+        "coordinates": [
+            -36.9126333,
+            174.9293587
+        ],
+        "name": "Sommerville Surgery",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 4100.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/18/35/Sommerville-Surgery/"
+    },
+    {
+        "address": "316 Ti Rakau Drive, East Tamaki",
+        "coordinates": [
+            -36.9267916,
+            174.8979247
+        ],
+        "name": "The Doctors",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 23.0
+            },
+            {
+                "age": 18,
+                "price": 33.0
+            },
+            {
+                "age": 25,
+                "price": 35.0
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/19/35/The-Doctors/"
+    },
+    {
+        "address": "80 A Vincent Street, Howick",
+        "coordinates": [
+            -36.9022639,
+            174.9258613
+        ],
+        "name": "Vincent Street Family Doctors",
+        "pho": "East Health Trust",
+        "phone": "+64 09 538 0599",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 15.0
+            },
+            {
+                "age": 18,
+                "price": 25.0
+            },
+            {
+                "age": 25,
+                "price": 30.0
+            },
+            {
+                "age": 45,
+                "price": 30.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "http://www.easthealth.co.nz/companies/20/35/Vincent-Street-Family-Doctors/"
+    }
+]

@@ -28,6 +28,9 @@ with open('fees.csv', 'r') as fees_file:
 		fees = fees_row[1:]
 		details = scrapers.partial_match(scrapers.normalize(name), details_dict)
 		url = scrapers.getHealthpointURL(name)
+		if url != '' and scrapers.checkOpenBooks(url) == 0:
+			error_list.append(name + ": Not taking patients." )
+			continue
 
 		if len(details) != 3:
 			if url != '':

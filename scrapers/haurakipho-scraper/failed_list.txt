@@ -1,0 +1,8 @@
+============1===========
+ERROR Tokoroa Family Health: Cannot geolocate address: Ward 4, Tokoroa Hospital
+============5===========
+WARNING Radius Medical Centre - Davies Corner, Chartwell: Cannot find phone.
+WARNING Radius Medical Centre - Huntly East: Cannot find phone.
+WARNING Radius Medical Centre - K'Aute: Cannot find phone.
+WARNING Radius Medical Centre - Rototuna: Cannot find phone.
+WARNING Radius Medical Centre - St Andrews, Te Rapa: Cannot find phone.

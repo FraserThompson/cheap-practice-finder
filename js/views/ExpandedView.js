@@ -28,6 +28,7 @@ app.ExpandedView = Backbone.View.extend({
 
 	initialize: function(options) {
 		_.bindAll(this, 'render', 'unrender', 'setCSSPosition', 'activateMap');
+		this.listenTo(app.Practices, 'backgrid:refresh', this.unrender, this);
 		this.clickPosition = options.clickPosition;
 		$(window).on('resize', this.setCSSPosition);
 	},
