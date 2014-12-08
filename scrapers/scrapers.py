@@ -27,9 +27,12 @@ def getHealthpointURL(name):
 	print('Trying to get healthpoint url: ' + name)
 	url = 'https://api.datamarket.azure.com/Bing/Search/v1/Web?Query=%27site%3Ahealthpoint.co.nz%20' + urlify(name) + '%27&$format=json'
 	req = requests.get(url, auth=('iltXKGGVYlV3VSnhXT8jbNZe97rvjDRkdte68cM7fJU', 'iltXKGGVYlV3VSnhXT8jbNZe97rvjDRkdte68cM7fJU'))
+	# url = 'http://www.faroo.com/api?q=site%3Ahealthpoint.co.nz%3A' + urlify(name) + '&start=1&length=4&l=en&src=web&i=false&f=json&key=x8mhOnLIHIwo9ZfLavfKO1zrf2o_'
+	# req = requests.get(url)
 	if req.status_code != 200:
 		return ''
 	results = req.json()['d']['results']
+	#results = req.json()['results']
 	if len(results) == 0:
 		return ''
 	else:
