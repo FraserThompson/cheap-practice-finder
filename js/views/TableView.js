@@ -36,19 +36,18 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 	},
 
 	expandRow: function() {
-		var self = this;
-		var time = 0;
-		var position = $(this.el).offset();
 		// If it's not expanded, expand it. If it is expanded, collapse it.
 		this.expanded = !this.expanded;
+		var self = this;
+		var time = 0;
 		// Execute the expanding procedure
 		if (this.expanded) {
+			this.$el.addClass('hover-glow');
 			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).offset()})
 			// If there's another row expanded it should  be collapsed and glowed off
 			if (app.ExpandedRows.length > 0){
 				app.ExpandedRows[0].$el.toggleClass('hover-glow');
 				app.ExpandedRows[0].expandRow();
-
 				time = 150;
 			}
 			setTimeout(function() {

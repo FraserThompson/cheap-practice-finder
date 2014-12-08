@@ -22,6 +22,12 @@ footer {
 	height: 50px;
 }
 
+ul {
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+}
+
 .container {
 	height: 100%;
 	margin:0 auto 50px;
@@ -55,7 +61,7 @@ footer {
 #expanded-view {
 	background-color: lightblue;
 	width: 350px;
-	height: 500px;
+	height: 520px;
 	padding: 10px;
 }
 
