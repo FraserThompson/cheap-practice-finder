@@ -12,7 +12,7 @@ app.Router = Backbone.Router.extend({
 
 	routes: {
 		'': 'index',
-		'search/:address/:age': 'search'
+		'search?address=:address&age=:age': 'search'
 	},
 
 	search: function(address, age){	
