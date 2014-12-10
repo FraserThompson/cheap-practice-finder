@@ -4882,6 +4882,228 @@
         "url": "http://www.comprehensivecare.co.nz/directory/white-cross-glenfield-general-practice/"
     },
     {
+        "address": "11 james Street,  WHAKATANE, new zealand",
+        "coordinates": [
+            -37.961367,
+            176.98122
+        ],
+        "name": "Kopeopeo Health Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "/index.php?option=com_content&view=article&id=15&Itemid=149"
+    },
+    {
+        "address": "Phoenix House, Pyne Street, WHAKATANE",
+        "coordinates": [
+            -37.954401,
+            176.989145
+        ],
+        "name": "Phoenix Health Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "/index.php?option=com_content&view=article&id=18&Itemid=157"
+    },
+    {
+        "address": "26 Islington St, Kawerau 3127",
+        "coordinates": [
+            -38.0861347,
+            176.7031613
+        ],
+        "name": "Kawerau Medical Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "/index.php?option=com_content&view=article&id=13&Itemid=140"
+    },
+    {
+        "address": "riverslea mall, college road, edgecumbe, new zealand",
+        "coordinates": [
+            -37.974769,
+            176.827033
+        ],
+        "name": "Riverslea Medical Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "/index.php?option=com_content&view=article&id=21&Itemid=162"
+    },
+    {
+        "address": "262 Pohutukawa Avenue, OHOPE, new zealand",
+        "coordinates": [
+            -37.972039,
+            177.058335
+        ],
+        "name": "Ohope Beach Medical Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "/index.php?option=com_content&view=article&id=19&Itemid=158"
+    },
+    {
+        "address": "94 Church Street, OPOTIKI, new zealand",
+        "coordinates": [
+            -38.006925,
+            177.284685
+        ],
+        "name": "Church St Surgery",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "/index.php?option=com_content&view=article&id=11&Itemid=138"
+    },
+    {
         "address": "44 Wakelin Road Beachlands",
         "coordinates": [
             -36.8820007,
@@ -16381,5 +16603,634 @@
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=10"
+    },
+    {
+        "address": "76 Bureta Rd Tauranga",
+        "coordinates": [
+            -37.6710978,
+            176.1526212
+        ],
+        "name": "Brookfield Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5767912",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://2cu.co.nz/bay-of-plenty/listings/25000-broo"
+    },
+    {
+        "address": "434 Devonport Road Tauranga",
+        "coordinates": [
+            -37.7038952,
+            176.1582922
+        ],
+        "name": "CentralMed",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "07 928 8000",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.centralmedhealth.co.nz/"
+    },
+    {
+        "address": "120 Chadwick Rd, PO Box 3042 Greerton, Tauranga",
+        "coordinates": [
+            -37.7280481,
+            176.1357911
+        ],
+        "name": "Chadwick Healthcare",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "579 0144",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.chadhealth.co.nz/"
+    },
+    {
+        "address": "4 Dee Street Mt Maunganui",
+        "coordinates": [
+            -37.6562537,
+            176.2017953
+        ],
+        "name": "Dee Street Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5754057",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.deestreet.co.nz/"
+    },
+    {
+        "address": "83 Girven Road Mt Maunganui",
+        "coordinates": [
+            -37.6725261,
+            176.2313242
+        ],
+        "name": "Girven Road Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5755009",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.deestreet.co.nz/"
+    },
+    {
+        "address": "14 Queen Street (P  O Box 242 Te Puke) Te Puke",
+        "coordinates": [
+            -37.7861649,
+            176.3254445
+        ],
+        "name": "Te Puke Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5739511",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.tepukemedicalcentre.co.nz/"
+    },
+    {
+        "address": "2 Awanui Place Tauranga",
+        "coordinates": [
+            -37.7268374,
+            176.1744655
+        ],
+        "name": "Welcome Bay Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "07 928 0962",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.tepukemedicalcentre.co.nz/"
+    },
+    {
+        "address": "50 Jellicoe Street Te Puke",
+        "coordinates": [
+            -37.7850463,
+            176.3290351
+        ],
+        "name": "NKF Family Health Services",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "07 573 0660",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.ngakakano.org.nz"
+    },
+    {
+        "address": "19 2nd avenue Tauranga",
+        "coordinates": [
+            -37.8783672,
+            176.2485973
+        ],
+        "name": "City Centre Medical",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5788089",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://whitepages.co.nz/w/city-centre-medical-tauranga/"
+    },
+    {
+        "address": "257 Maunganui Road Mt Maunganui",
+        "coordinates": [
+            -37.6411737,
+            176.1850497
+        ],
+        "name": "Mount Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5753073",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.mtmedical.co.nz"
+    },
+    {
+        "address": "506 Otumoetai Road Tauranga",
+        "coordinates": [
+            -37.6666236,
+            176.1394904
+        ],
+        "name": "Otumoetai Doctors",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "07 576 2321",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.ohcdoctor.co.nz"
+    },
+    {
+        "address": "53 Domain Road, Papamoa Tauranga",
+        "coordinates": [
+            -37.7041706,
+            176.2850888
+        ],
+        "name": "Papamoa Pines Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5422450",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.tauranga.co.nz/papamoapines"
+    },
+    {
+        "address": "3 Palm Springs Boulevard Papamoa",
+        "coordinates": [
+            -37.7142158,
+            176.3316207
+        ],
+        "name": "Palm Springs Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5421104",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.tauranga.co.nz/papamoapines"
+    },
+    {
+        "address": "4 Clive Road Katikati",
+        "coordinates": [
+            -37.55271380000001,
+            175.9268089
+        ],
+        "name": "Katikati Medical Centre",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "07 549 0411",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.katimed.co.nz"
+    },
+    {
+        "address": "109 Chadwick Road Tauranga",
+        "coordinates": [
+            -37.727996,
+            176.1362679
+        ],
+        "name": "Greerton Health",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5783906",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.greertonhealth.co.nz"
+    },
+    {
+        "address": "42 Girven Road Mt Maunganui",
+        "coordinates": [
+            -37.6741198,
+            176.2282599
+        ],
+        "name": "BayMed",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5726800",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.baymed.co.nz"
+    },
+    {
+        "address": "14 Elder Lane Tauranga",
+        "coordinates": [
+            -37.704217,
+            176.1129878
+        ],
+        "name": "Bethlehem Family Doctors",
+        "pho": "Western Bay of Plenty PHO",
+        "phone": "5791248",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 36.0
+            },
+            {
+                "age": 25,
+                "price": 36.0
+            },
+            {
+                "age": 45,
+                "price": 36.0
+            },
+            {
+                "age": 65,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.baymed.co.nz"
     }
 ]
