@@ -21,14 +21,24 @@ app.Router = Backbone.Router.extend({
 		if (!app.footerView){
 			app.footerView = new app.FooterView();
 		}
-		app.searchView = new app.SearchView();
-		app.searchView.startLoading();
+		if (!app.searchView){
+			app.searchView = new app.SearchView();
+			app.searchView.startLoading();
+		} else {
+			app.searchView.render();
+		}
 		app.Practices.fetch({
 			reset: true,
 			success: function() {
 				app.searchView.finishLoading(function() {
 					var searchQuery = new app.SearchQueryModel({age: age, coords: address.split(",")});
-					app.tableView = new app.TableView({model: searchQuery});
+					if (!app.tableView){
+						app.tableView = new app.TableView({model: searchQuery});
+					} else {
+						app.tableView.model = searchQuery;
+						app.tableView.radius = 2;
+						app.tableView.refresh();
+					};
 				});
 			},
 			error: function() {
