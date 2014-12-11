@@ -169,7 +169,7 @@ app.TableView = Backbone.View.extend({
 		var self = this;
 		this.radius = this.$('#radius-select').val()
 		app.Practices.fetch({
-			reset: false,
+			reset: true,
 			success: function() {
 				app.Practices.initializeModels(self.model.get('age'), self.model.get('coords'), self.radius);
 				self.searchOptionsView.setCount();
