@@ -146,6 +146,11 @@ app.TableView = Backbone.View.extend({
 		this.render();
 	},
 
+	refresh: function() {
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.radius);
+		this.render();
+	},
+
 	render: function() {
 		var self = this;
 		app.BackgridGrid.render().sort('price', 'ascending');
