@@ -146,6 +146,11 @@ app.TableView = Backbone.View.extend({
 		this.render();
 	},
 
+	refresh: function() {
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.radius);
+		this.render();
+	},
+
 	render: function() {
 		var self = this;
 		app.BackgridGrid.render().sort('price', 'ascending');
@@ -169,7 +174,7 @@ app.TableView = Backbone.View.extend({
 		var self = this;
 		this.radius = this.$('#radius-select').val()
 		app.Practices.fetch({
-			reset: false,
+			reset: true,
 			success: function() {
 				app.Practices.initializeModels(self.model.get('age'), self.model.get('coords'), self.radius);
 				self.searchOptionsView.setCount();
