@@ -133,8 +133,8 @@ app.TableView = Backbone.View.extend({
 	initialize: function() {
 		_.bindAll(this, 'render', 'unrender', 'changeRadius');
 		this.$el.hide(); //hide everything while we're doing stuff
-		this.searchOptions = this.$('#search-options');
-		this.backgridGrid = this.$('#backgrid-grid');
+		this.searchOptionsElement = this.$('#search-options');
+		this.backgridGridElement = this.$('#backgrid-grid');
 		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.radius);
 		app.BackgridGrid = new Backgrid.Grid({
 			columns: BackgridColumns,
@@ -156,8 +156,8 @@ app.TableView = Backbone.View.extend({
 		app.BackgridGrid.render().sort('price', 'ascending');
 		var address = addressFromCoords(this.model.get('coords'), function(address) {
 			self.searchOptionsView.address = address;
-			self.searchOptions.html(self.searchOptionsView.render().el);
-			self.backgridGrid.html(app.BackgridGrid.render().el);
+			self.searchOptionsView.setElement(self.searchOptionsElement).render();
+			self.backgridGridElement.html(app.BackgridGrid.render().el);
 			self.$el.slideDown();
 		}, function(message){
 			self.searchOptions.html(self.searchOptionsView.renderError(message).el);
