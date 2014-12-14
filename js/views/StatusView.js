@@ -9,7 +9,7 @@ app.StatusView = Backbone.View.extend({
 	},
 
 	startLoading: function() {
-		$(this.el).html('<h4>Loading...</h4>').show();
+		$(this.el).html('<h4>Loading...</h4>');
 	},
 
 	clear: function() {

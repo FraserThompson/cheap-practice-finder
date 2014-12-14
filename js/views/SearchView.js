@@ -36,10 +36,11 @@ app.SearchView = Backbone.View.extend({
 
 	render: function(){
 		var self = this;
+		var statusView = new app.StatusView();
 		$(this.el).html(this.template());
+		statusView.setElement($('#search-status')).render();
 		this.address_input = this.$('#new-search-address');
 		this.age_input = this.$('#new-search-age');
-		this.address_input.focus();
 		var autocomplete = new google.maps.places.Autocomplete(document.getElementById('new-search-address'), {
 			types: ['geocode'],
 			componentRestrictions: {country: 'nz'}
@@ -82,7 +83,7 @@ app.SearchView = Backbone.View.extend({
 		this.age_input.fadeOut(800)
 		this.age_input.val('');
 		app.ActualRouter.navigate(
-          '/search?address=' + this.model.get('coords') + '&age=' +  this.model.get('age'),
+          'search/coords=' + this.model.get('coords') + '&age=' +  this.model.get('age') + '&rad=2',
           {trigger: true });
 	}
 });

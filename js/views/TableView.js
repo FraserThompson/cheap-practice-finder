@@ -124,8 +124,6 @@ app.TableView = Backbone.View.extend({
 	
 	el: $("#table-view"),
 
-	radius: 2,
-
 	events: {
 		'change #radius-select': 'changeRadius'
 	},
@@ -135,19 +133,20 @@ app.TableView = Backbone.View.extend({
 		this.$el.hide(); //hide everything while we're doing stuff
 		this.searchOptionsElement = this.$('#search-options');
 		this.backgridGridElement = this.$('#backgrid-grid');
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.radius);
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.model.get('radius'));
 		app.BackgridGrid = new Backgrid.Grid({
 			columns: BackgridColumns,
 			row: BackgridExpandableRow,
 			collection: app.Practices,
 			emptyText: "None found."
 		});
+		console.log(this.model.get('radius'));
 		this.searchOptionsView = new app.SearchOptionsView();
 		this.render();
 	},
 
 	refresh: function() {
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.radius);
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.model.get('radius'));
 		this.render();
 	},
 
@@ -157,6 +156,7 @@ app.TableView = Backbone.View.extend({
 		var address = addressFromCoords(this.model.get('coords'), function(address) {
 			self.searchOptionsView.address = address;
 			self.searchOptionsView.setElement(self.searchOptionsElement).render();
+			self.searchOptionsView.setRadius(self.model.get('radius'));
 			self.backgridGridElement.html(app.BackgridGrid.render().el);
 			self.$el.slideDown();
 		}, function(message){
@@ -172,13 +172,18 @@ app.TableView = Backbone.View.extend({
 
 	changeRadius: function(e) {
 		var self = this;
-		this.radius = this.$('#radius-select').val()
+		this.model.set({'radius': this.$('#radius-select').val()});
+		app.trigger('status:loading');
 		app.Practices.fetch({
 			reset: true,
 			success: function() {
-				app.Practices.initializeModels(self.model.get('age'), self.model.get('coords'), self.radius);
+				app.Practices.initializeModels(self.model.get('age'), self.model.get('coords'), self.model.get('radius'));
 				self.searchOptionsView.setCount();
 				app.BackgridGrid.render().sort("price", "ascending");
+				app.ActualRouter.navigate(
+		          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
+		          {trigger: false });
+				app.trigger('status:clear');
 			},
 			error: function() {
 				console.log("Error fetching practices from JSON file.");
