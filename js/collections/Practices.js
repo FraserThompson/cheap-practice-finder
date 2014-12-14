@@ -5,7 +5,7 @@ var PracticesCollection = Backbone.Collection.extend({
 	url: "data.json",
 
 	initialize: function() {
-		_.bindAll(this, 'getDistances', 'getPrices', 'filterByDistance', 'initializeModels');
+		_.bindAll(this, 'initializeModels');
 		this.sort_key = 'price';
 	},
 
@@ -18,41 +18,28 @@ var PracticesCollection = Backbone.Collection.extend({
 	},
 
 	initializeModels: function(age, addressCoords, distance) {
-		this.getPrices(age);
-		this.getDistances(addressCoords);
-		this.filterByDistance(distance);
-	},
-
-	getDistances: function(addressCoords) {
+		var remove = [];
 		this.each (function(model) {
-			model.getDistance(addressCoords);
-		});
-	},
-
-	getPrices: function(age) {
-		this.each (function(model) {
-			model.getPrice(age);
-		});
-	},
-
-	filterByDistance: function(distance) {
-		var filter = _.filter(this.models, function(item) {
-			return item.get('distance') < distance;
-		});
-		this.reset(filter);
-	},
-
-	getListOfPHOs: function() {
-		var phoList = {};
-		this.each (function(model) {
-			if (model.get('pho') in phoList) {
-				phoList[model.get('pho')] += 1;
+			if (model.getDistance(addressCoords) > distance){
+				remove.push(model);
 			} else {
-				phoList[model.get('pho')] = 1;
+				model.getPrice(age);
 			}
-		});;
-		return phoList;
+		});
+		this.remove(remove);
 	}
+
+	// getListOfPHOs: function() {
+	// 	var phoList = {};
+	// 	this.each (function(model) {
+	// 		if (model.get('pho') in phoList) {
+	// 			phoList[model.get('pho')] += 1;
+	// 		} else {
+	// 			phoList[model.get('pho')] = 1;
+	// 		}
+	// 	});;
+	// 	return phoList;
+	// }
 });
 
 app.Practices = new PracticesCollection();

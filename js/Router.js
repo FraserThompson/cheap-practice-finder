@@ -26,7 +26,7 @@ app.Router = Backbone.Router.extend({
 				app.trigger('status:clear');
 				app.searchView.setElement($('#search-box')).render();
 				var searchQuery = new app.SearchQueryModel({age: age, coords: address.split(","), radius: rad});
-				if (!app.tableView){
+				if (!app.tablVeneiew){
 					app.tableView = new app.TableView({model: searchQuery});
 				} else {
 					app.tableView.model = searchQuery;

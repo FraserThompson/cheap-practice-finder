@@ -140,7 +140,6 @@ app.TableView = Backbone.View.extend({
 			collection: app.Practices,
 			emptyText: "None found."
 		});
-		console.log(this.model.get('radius'));
 		this.searchOptionsView = new app.SearchOptionsView();
 		this.render();
 	},
