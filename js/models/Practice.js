@@ -4,6 +4,7 @@ var failed = 0;
 app.directionsService = new google.maps.DirectionsService();
 
 app.PracticeModel = Backbone.DeepModel.extend({
+	idAttribute: 'name',
 	defaults: {
 		name: "default",
 		url: "default",

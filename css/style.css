@@ -1,5 +1,6 @@
 html {
 	position: relative;
+	overflow-y: scroll;
 	min-height: 100%;
 }
 
@@ -34,6 +35,16 @@ ul {
 	width: 600px;
 }
 
+#table-view {
+	padding: 15px;
+	height: 100%;
+	width: 100%;
+}
+
+#search-view {
+	min-height: 40px;
+}
+
 #new-search-address {
 	width: 100%;
 	margin: auto;
@@ -53,11 +64,7 @@ ul {
 	width: 50px;
 }
 
-#table-view {
-	padding: 15px;
-	height: 100%;
-	width: 100%;
-}
+
 
 #expanded-view {
 	background-color: lightblue;

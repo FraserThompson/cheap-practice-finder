@@ -129,11 +129,12 @@ app.TableView = Backbone.View.extend({
 	},
 
 	initialize: function() {
-		_.bindAll(this, 'render', 'unrender', 'changeRadius');
+		_.bindAll(this, 'render', 'unrender', 'changeRadius', 'refresh');
 		this.$el.hide(); //hide everything while we're doing stuff
 		this.searchOptionsElement = this.$('#search-options');
 		this.backgridGridElement = this.$('#backgrid-grid');
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.model.get('radius'));
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'));
+		app.Practices.changeRadius(this.model.get('radius'));
 		app.BackgridGrid = new Backgrid.Grid({
 			columns: BackgridColumns,
 			row: BackgridExpandableRow,
@@ -141,11 +142,6 @@ app.TableView = Backbone.View.extend({
 			emptyText: "None found."
 		});
 		this.searchOptionsView = new app.SearchOptionsView();
-		this.render();
-	},
-
-	refresh: function() {
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), this.model.get('radius'));
 		this.render();
 	},
 
@@ -159,10 +155,16 @@ app.TableView = Backbone.View.extend({
 			self.backgridGridElement.html(app.BackgridGrid.render().el);
 			self.$el.slideDown();
 		}, function(message){
-			self.searchOptions.html(self.searchOptionsView.renderError(message).el);
+			app.trigger('status:error', {errorMessage: message})
 			self.$el.slideDown();
 		});
 		return this;
+	},
+
+	refresh: function() {
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'));
+		app.Practices.changeRadius(this.model.get('radius'));
+		this.render();
 	},
 
 	unrender: function() {
@@ -172,21 +174,10 @@ app.TableView = Backbone.View.extend({
 	changeRadius: function(e) {
 		var self = this;
 		this.model.set({'radius': this.$('#radius-select').val()});
-		app.trigger('status:loading');
-		app.Practices.fetch({
-			reset: true,
-			success: function() {
-				app.Practices.initializeModels(self.model.get('age'), self.model.get('coords'), self.model.get('radius'));
-				self.searchOptionsView.setCount();
-				app.BackgridGrid.render().sort("price", "ascending");
-				app.ActualRouter.navigate(
-		          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
-		          {trigger: false });
-				app.trigger('status:clear');
-			},
-			error: function() {
-				console.log("Error fetching practices from JSON file.");
-			}
-		});
+		app.Practices.changeRadius(self.model.get('radius'));
+		app.BackgridGrid.render().sort("price", "ascending");
+		app.ActualRouter.navigate(
+          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
+          {trigger: false });
 	}
 });

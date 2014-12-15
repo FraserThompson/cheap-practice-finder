@@ -6,6 +6,10 @@ app.SearchOptionsView = Backbone.View.extend({
 
 	address: "error!",
 
+	initialize: function() {
+		this.listenTo(app.Practices, 'add remove reset', this.setCount);
+	},
+
 	render: function() {
 		$(this.el).html(this.template({address: this.address}));
 		if (this.address.split(' ')[this.address.split(' ').length - 1] == 'Christchurch'){

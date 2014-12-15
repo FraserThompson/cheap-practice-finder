@@ -5,8 +5,9 @@ var PracticesCollection = Backbone.Collection.extend({
 	url: "data.json",
 
 	initialize: function() {
-		_.bindAll(this, 'initializeModels');
+		_.bindAll(this, 'initializeModels', 'changeRadius');
 		this.sort_key = 'price';
+		this.removed = [];
 	},
 
 	comparator: function(a, b){
@@ -17,10 +18,28 @@ var PracticesCollection = Backbone.Collection.extend({
 			: 0; 
 	},
 
-	initializeModels: function(age, addressCoords, distance) {
+	changeRadius: function(distance) {
+		var self = this;
+		// There's most likely a better way to do all this...
+		if (this.removed.length != 0){
+			this.removed.forEach(function(model) {
+				self.push(model);
+			})
+		}
+		var remove_these = [];
+		this.each (function(model) {
+			if (model.get('distance') > distance){
+				remove_these.push(model);
+			}
+		});
+		this.removed = JSON.parse(JSON.stringify(remove_these));
+		this.remove(remove_these);
+	},
+
+	initializeModels: function(age, addressCoords) {
 		var remove = [];
 		this.each (function(model) {
-			if (model.getDistance(addressCoords) > distance){
+			if (model.getDistance(addressCoords) > 15){
 				remove.push(model);
 			} else {
 				model.getPrice(age);
