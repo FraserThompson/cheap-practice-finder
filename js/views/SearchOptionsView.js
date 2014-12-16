@@ -2,11 +2,14 @@ var app = app || {};
 
 app.SearchOptionsView = Backbone.View.extend({
 
+	el: this.$('#search-options'),
+
 	template: _.template($('#search-options-template').html()),
 
 	address: "error!",
 
 	initialize: function() {
+		_.bindAll(this, 'setRadius', 'setCount', 'render');
 		this.listenTo(app.Practices, 'add remove reset', this.setCount);
 	},
 

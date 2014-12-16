@@ -36,7 +36,7 @@ var PracticesCollection = Backbone.Collection.extend({
 		this.remove(remove_these);
 	},
 
-	initializeModels: function(age, addressCoords) {
+	initializeModels: function(age, addressCoords, callback) {
 		var remove = [];
 		this.each (function(model) {
 			if (model.getDistance(addressCoords) > 15){
@@ -46,6 +46,7 @@ var PracticesCollection = Backbone.Collection.extend({
 			}
 		});
 		this.remove(remove);
+		callback();
 	}
 
 	// getListOfPHOs: function() {

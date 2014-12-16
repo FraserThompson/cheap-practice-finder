@@ -22,7 +22,7 @@ app.Router = Backbone.Router.extend({
 		app.searchView || (app.searchView = new app.SearchView());
 		app.trigger('status:loading');
 		app.Practices.fetch({
-			reset: true,
+			reset: false,
 			success: function() {
 				app.searchView.setElement($('#search-box')).render();
 				var searchQuery = new app.SearchQueryModel({age: age, coords: address.split(","), radius: rad});
@@ -32,18 +32,19 @@ app.Router = Backbone.Router.extend({
 					app.tableView.model = searchQuery;
 					app.tableView.refresh();
 				};
-				app.trigger('status:clear');
 			},
 			error: function() {
 				console.log("Error fetching Practices from JSON file.");
 			}
 		});
+		app.trigger('status:clear');
 	},
 
 	index: function() {
 		app.statusView = new app.StatusView();
 		app.searchView = new app.SearchView();
 		app.footerView = new app.FooterView();
+		app.trigger('status:clear');
 		app.searchView.setElement($('#search-box')).render();
 		$('#new-search-address').focus();
 		$('#app').fadeIn(800);

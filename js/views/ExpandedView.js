@@ -35,12 +35,13 @@ app.ExpandedView = Backbone.View.extend({
 
 	setCSSPosition: function() {
 		var popout_height = 520 //CHANGE THIS IF YOU CHANGE IT IN THE CSS BECAUSE CHROME 
-		var table_pos = this.table.offset();
+		var table_pos = this.table.position();
 		var table_height = this.table.outerHeight()
 		var table_width = this.table.outerWidth()
 		table_pos.top += 28; // to account for the header row
 		var popout_top = this.clickPosition.top - popout_height/2;
-		if (popout_top < table_pos.top){
+		console.log(popout_top + " " + table_pos.top);
+		if (popout_top - 56 < table_pos.top){
 			popout_top = table_pos.top;
 		}
 		else if (popout_top + popout_height > (table_pos.top - 28) + table_height){

@@ -17,15 +17,14 @@ function addressFromCoords(coords, successCallback, failCallback) {
 
 var BackgridExpandableRow = Backgrid.Row.extend({
 	events: {
-		"mouseenter": "glowToggle",
-		"mouseleave": "glowToggle",
-		"click": "expandRow"
+		'mouseenter': 'glowToggle',
+		'mouseleave': 'glowToggle',
+		'click': 'expandRow'
 	},
 
-
 	initialize: function() {
-		this.listenTo(app.Practices, 'change', this.removeExpandedView, this);
-		this.listenTo(app.Practices, 'backgrid:refresh', this.removeExpandedView, this);
+		_.bindAll(this, 'glowToggle', 'expandRow', 'removeExpandedView');
+		this.listenTo(app.Practices, 'change backgrid:refresh', this.removeExpandedView, this);
 		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
 	},
 
@@ -43,7 +42,7 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 		// Execute the expanding procedure
 		if (this.expanded) {
 			this.$el.addClass('hover-glow');
-			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).offset()})
+			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
 			// If there's another row expanded it should  be collapsed and glowed off
 			if (app.ExpandedRows.length > 0){
 				app.ExpandedRows[0].$el.toggleClass('hover-glow');
@@ -86,8 +85,7 @@ var BackgridColumns = [
 	sortType: "toggle",
 	cell: Backgrid.NumberCell.extend({
 		render: function() {
-				this.$el.empty();
-
+			this.$el.empty();
 			if (this.model.get(this.column.get('name')) != 1000){
 				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
 			} else {
@@ -129,30 +127,32 @@ app.TableView = Backbone.View.extend({
 	},
 
 	initialize: function() {
-		_.bindAll(this, 'render', 'unrender', 'changeRadius', 'refresh');
-		this.$el.hide(); //hide everything while we're doing stuff
+		_.bindAll(this, 'render', 'changeRadius', 'refresh');
+		var self = this;
+		this.$el.hide();
 		this.searchOptionsElement = this.$('#search-options');
 		this.backgridGridElement = this.$('#backgrid-grid');
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'));
-		app.Practices.changeRadius(this.model.get('radius'));
-		app.BackgridGrid = new Backgrid.Grid({
-			columns: BackgridColumns,
-			row: BackgridExpandableRow,
-			collection: app.Practices,
-			emptyText: "None found."
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
+			app.Practices.changeRadius(self.model.get('radius'));
+			self.BackgridGrid = new Backgrid.Grid({
+				columns: BackgridColumns,
+				row: BackgridExpandableRow,
+				collection: app.Practices,
+				emptyText: "None found."
+			});
+			self.searchOptionsView = new app.SearchOptionsView();
+			self.render();
 		});
-		this.searchOptionsView = new app.SearchOptionsView();
-		this.render();
 	},
 
 	render: function() {
 		var self = this;
-		app.BackgridGrid.render().sort('price', 'ascending');
+		this.BackgridGrid.render().sort('price', 'ascending');
 		var address = addressFromCoords(this.model.get('coords'), function(address) {
 			self.searchOptionsView.address = address;
-			self.searchOptionsView.setElement(self.searchOptionsElement).render();
+			self.searchOptionsView.render();
 			self.searchOptionsView.setRadius(self.model.get('radius'));
-			self.backgridGridElement.html(app.BackgridGrid.render().el);
+			self.backgridGridElement.html(self.BackgridGrid.render().el);
 			self.$el.slideDown();
 		}, function(message){
 			app.trigger('status:error', {errorMessage: message})
@@ -162,20 +162,18 @@ app.TableView = Backbone.View.extend({
 	},
 
 	refresh: function() {
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'));
-		app.Practices.changeRadius(this.model.get('radius'));
-		this.render();
-	},
-
-	unrender: function() {
-		this.$el.empty();
+		var self = this;
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
+			app.Practices.changeRadius(self.model.get('radius'));
+			self.render();
+		});
 	},
 
 	changeRadius: function(e) {
 		var self = this;
 		this.model.set({'radius': this.$('#radius-select').val()});
 		app.Practices.changeRadius(self.model.get('radius'));
-		app.BackgridGrid.render().sort("price", "ascending");
+		this.BackgridGrid.render().sort('price', 'ascending');
 		app.ActualRouter.navigate(
           'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
           {trigger: false });
