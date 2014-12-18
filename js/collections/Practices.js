@@ -18,7 +18,7 @@ var PracticesCollection = Backbone.Collection.extend({
 			: 0; 
 	},
 
-	changeRadius: function(distance) {
+	changeRadius: function(distance, callback) {
 		var self = this;
 		// There's most likely a better way to do all this...
 		if (this.removed.length != 0){
@@ -34,6 +34,7 @@ var PracticesCollection = Backbone.Collection.extend({
 		});
 		this.removed = JSON.parse(JSON.stringify(remove_these));
 		this.remove(remove_these);
+		callback();
 	},
 
 	initializeModels: function(age, addressCoords, callback) {

@@ -23,7 +23,7 @@ app.PracticeModel = Backbone.DeepModel.extend({
 	},
 
 	getPrice: function(age) {
-		if (this.prices.length == 0){
+		if (!this.prices || this.prices.length == 0){
 			this.set({price: 1000});
 			return;
 		}

@@ -22,6 +22,8 @@ function coordsFromAddress(address, successCallback, failCallback) {
 
 app.SearchView = Backbone.View.extend({
 
+	model: new app.SearchQueryModel(),
+
 	template: _.template($('#search-template').html()),
 	
 	events: {
@@ -31,7 +33,6 @@ app.SearchView = Backbone.View.extend({
 
 	initialize: function(){
 		_.bindAll(this, 'render', 'setAddress', 'setAge');
-		this.model = new app.SearchQueryModel();
 	},
 
 	render: function(){
@@ -40,7 +41,7 @@ app.SearchView = Backbone.View.extend({
 		this.address_input = this.$('#new-search-address');
 		this.age_input = this.$('#new-search-age');
 		var autocomplete = new google.maps.places.Autocomplete(document.getElementById('new-search-address'), {
-			types: ['geocode'],
+		types: ['geocode'],
 			componentRestrictions: {country: 'nz'}
 		});
 		google.maps.event.addListener(autocomplete, 'place_changed', function() {
@@ -57,7 +58,7 @@ app.SearchView = Backbone.View.extend({
 		self.address_input.fadeOut(200, function() {
 			self.address_input.val('');
 			coordsFromAddress(self.address, function(coords){
-				self.model.set({coords: coords.lat() + "," + coords.lng()});
+				self.model.set({coords: [coords.lat(), coords.lng()]});
 				self.age_input.fadeIn(200).focus()
 			}, function(message) {
 				self.address_input.fadeIn(200).focus();
@@ -78,10 +79,13 @@ app.SearchView = Backbone.View.extend({
 		};
 		var self = this;
 		this.model.set({age: this.age_input.val()});
-		this.age_input.fadeOut(800)
 		this.age_input.val('');
-		app.ActualRouter.navigate(
-          'search/coords=' + this.model.get('coords') + '&age=' +  this.model.get('age') + '&rad=2',
-          {trigger: true });
+		this.age_input.fadeOut(400, function() {
+			app.trigger('status:loading');
+			app.Controller.search(self.model);
+			app.ActualRouter.navigate(
+	          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=2',
+	          {trigger: false });
+		})
 	}
 });
