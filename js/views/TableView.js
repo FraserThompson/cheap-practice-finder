@@ -127,7 +127,6 @@ app.TableView = Backbone.View.extend({
 	initialize: function() {
 		this.$el.hide();
 		_.bindAll(this, 'render', 'changeRadius', 'refresh');
-		//this.listenTo(this.model, 'change:coords', this.refresh);
 		this.searchOptionsElement = this.$('#search-options');
 		this.backgridGridElement = this.$('#backgrid-grid');
 		this.BackgridGrid = new Backgrid.Grid({
@@ -136,7 +135,7 @@ app.TableView = Backbone.View.extend({
 			collection: app.Practices,
 			emptyText: "None found."
 		});
-		this.backgridGridElement.html(this.BackgridGrid.render().sort('price', 'ascending').el);
+		this.backgridGridElement.html(this.BackgridGrid.render().el);
 		this.searchOptionsView = new app.SearchOptionsView();
 	},
 
@@ -146,6 +145,7 @@ app.TableView = Backbone.View.extend({
 			self.searchOptionsView.address = address;
 			self.searchOptionsView.render();
 			self.searchOptionsView.setRadius(self.model.get('radius'));
+			self.BackgridGrid.render().sort('price', 'ascending');
 			self.$el.slideDown();
 		}, function(message){
 			app.trigger('status:error', {errorMessage: message})
@@ -173,6 +173,7 @@ app.TableView = Backbone.View.extend({
 		var self = this;
 		this.model.set({'radius': this.$('#radius-select').val()});
 		app.Practices.changeRadius(self.model.get('radius'), function() {
+			self.BackgridGrid.render().sort('price', 'ascending');
 			app.ActualRouter.navigate(
 	          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
 	          {trigger: false });
