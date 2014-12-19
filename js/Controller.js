@@ -3,27 +3,28 @@ var app = app || {};
 app.Controller = {
 
 	createViews: function() {
-		app.searchView = new app.SearchView();
-		app.statusView = new app.StatusView();
-		app.tableView = new app.TableView();
-		app.footerView = new app.FooterView();
+		this.searchView = new app.SearchView();
+		this.statusView = new app.StatusView();
+		this.tableView = new app.TableView();
+		this.footerView = new app.FooterView();
 	},
 
 	index: function() {
-		app.searchView.setElement($('#search-box')).render();
+		this.searchView.setElement($('#search-box')).render();
 		$('#new-search-address').focus();
 		$('#app').fadeIn(800);
 	},
 
 	search: function(model) {
+		var self = this;
 		app.trigger('status:loading');
-		app.tableView.unrender(function() {
+		this.tableView.unrender(function() {
 			app.Practices.fetch({
 				reset: true,
 				success: function() {
-					app.searchView.setElement($('#search-box')).render();
-					app.tableView.model.set(model.toJSON());
-					app.tableView.refresh();
+					self.searchView.setElement($('#search-box')).render();
+					self.tableView.model.set(model.toJSON());
+					self.tableView.refresh();
 					app.trigger('status:clear');
 				},
 				error: function() {
