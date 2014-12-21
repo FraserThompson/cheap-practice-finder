@@ -1,5 +1,3 @@
-var app = app || {};
-
 function SouthNorthOrAuckland(coords){
 	var northIslandCoords = [
 		new google.maps.LatLng(-41.689322259970425, 175.3857421875),
@@ -54,40 +52,35 @@ function SouthNorthOrAuckland(coords){
 	}
 }
 
-app.Controller = {
+$.getJSON('data.json', function(data) {
+	var south = [];
+	var north = [];
+	var auckland = [];
+	$.each(data, function(key, val) {
+		var result = SouthNorthOrAuckland(val['coordinates']);
+		if (result == 0){
+			south.push(val);
+		} else if (result == 1) {
+			north.push(val);
+		} else if (result == 3) {
+			auckland.push(val);
+		}
+	});
 
-	createViews: function() {
-		this.searchView = new app.SearchView();
-		this.statusView = new app.StatusView();
-		this.tableView = new app.TableView();
-		this.footerView = new app.FooterView();
-	},
-
-	index: function() {
-		this.searchView.setElement($('#search-box')).render();
-		$('#new-search-address').focus();
-		$('#app').fadeIn(800);
-	},
-
-	search: function(model) {
-		var self = this;
-		app.trigger('status:loading');
-		app.Practices.setURL(SouthNorthOrAuckland(model.get('coords')));
-		this.tableView.unrender(function() {
-			app.Practices.fetch({
-				reset: true,
-				success: function() {
-					self.searchView.setElement($('#search-box')).render();
-					self.tableView.model.set(model.toJSON());
-					self.tableView.refresh();
-					app.trigger('status:clear');
-				},
-				error: function() {
-					console.log("Error fetching Practices from JSON file.");
-				}
-			});
-		});
-	}
-};
-
-
+	var southJSON = JSON.stringify(south);
+	var northJSON = JSON.stringify(north);
+	var aucklandJSON = JSON.stringify(auckland);
+	var southURL = 'data:text/json;charset=utf8, ' + encodeURIComponent(southJSON);
+	var northURL = 'data:text/json;charset=utf8, ' + encodeURIComponent(northJSON);
+	var aucklandURL = 'data:text/json;charset=utf8, ' + encodeURIComponent(aucklandJSON);
+	$('body').append('<a id="south" href="#">South</a><a id="north" href="#">North</a><a id="auckland" href="#">Auckland</a>');
+	$('#south').click(function() {
+		window.open(southURL, '_blank')
+	});
+	$('#north').click(function() {
+		window.open(northURL, '_blank')
+	});
+	$('#auckland').click(function() {
+		window.open(aucklandURL, '_blank')
+	});
+});

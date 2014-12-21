@@ -7,6 +7,7 @@ function addressFromCoords(coords, successCallback, failCallback) {
 	var coordsObj = new google.maps.LatLng(coords[0], coords[1])
 	var geocoderProper = geocoder.geocode({'latLng': coordsObj}, function (results, status) {
 		if (status == google.maps.GeocoderStatus.OK) {
+			console.log(results[0].address_components[4].long_name);
 			successCallback(results[0].address_components[0].long_name +" "+ results[0].address_components[1].long_name +", "+ results[0].address_components[2].long_name + ", "+results[0].address_components[3].long_name);
 		} else {
 			console.log("Error geocoding input address from coords: " + status);
@@ -84,7 +85,7 @@ var BackgridColumns = [
 			this.$el.empty();
 			if (this.model.get(this.column.get('name')) != 1000){
 				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
-			} else {
+			} else if (this.model.get(this.column.get('name')) == 1000{
 				this.$el.html("Unknown");
 			}
 			this.delegateEvents();

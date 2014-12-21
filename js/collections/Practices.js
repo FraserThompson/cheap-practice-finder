@@ -2,12 +2,25 @@ var app = app || {};
 
 var PracticesCollection = Backbone.Collection.extend({
 	model: app.PracticeModel,
-	url: "data.json",
+	url: 'data.json',
 
 	initialize: function() {
 		_.bindAll(this, 'initializeModels', 'changeRadius');
 		this.sort_key = 'price';
 		this.removed = [];
+	},
+
+	setURL: function(SouthNorthOrAuckland) {
+		if(SouthNorthOrAuckland == 0){
+			this.url = 'si.json';
+			console.log('south island data');
+		} else if (SouthNorthOrAuckland == 1){
+			this.url = 'ni.json';
+			console.log('north island data');
+		} else {
+			this.url = 'auckland.json';
+			console.log('auckland data');
+		}
 	},
 
 	comparator: function(a, b){
