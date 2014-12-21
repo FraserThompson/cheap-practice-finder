@@ -85,7 +85,7 @@ var BackgridColumns = [
 			this.$el.empty();
 			if (this.model.get(this.column.get('name')) != 1000){
 				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
-			} else if (this.model.get(this.column.get('name')) == 1000{
+			} else if (this.model.get(this.column.get('name')) == 1000){
 				this.$el.html("Unknown");
 			}
 			this.delegateEvents();
