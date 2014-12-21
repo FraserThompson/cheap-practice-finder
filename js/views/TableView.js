@@ -25,42 +25,38 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 
 	initialize: function() {
 		_.bindAll(this, 'glowToggle', 'expandRow', 'removeExpandedView');
-		this.listenTo(app.Practices, 'change', this.removeExpandedView, this);
+		this.listenTo(Backbone, 'backgrid:refresh', this.removeExpandedView);
+		this.listenTo(app, 'expand', this.removeExpandedView);
 		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
 	},
 
 	glowToggle: function() {
-		if (!this.expanded) {
+		if (!this.expandedView) {
 			this.$el.toggleClass('hover-glow');
 		}
 	},
 
 	expandRow: function() {
-		this.expanded = !this.expanded;
 		var self = this;
-		var time = 0;
-		if (this.expanded) {
+		if (!this.expandedView) {
+			app.trigger('expand');
 			this.$el.addClass('hover-glow');
 			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
-			if (app.ExpandedRows.length > 0){
-				app.ExpandedRows[0].$el.toggleClass('hover-glow');
-				app.ExpandedRows[0].expandRow();
-				time = 150;
-			}
-			setTimeout(function() {
-				app.ExpandedRows[0] = self;
-				self.expandedView.model = self.model;
-				$('#table-view').after(self.expandedView.render().el);
-			}, time);
+			self.expandedView.model = self.model;
+			$('#table-view').after(self.expandedView.render().el);
 		} else {
-			app.ExpandedRows.splice(0, 1);
 			this.expandedView.unrender();
+			this.expandedView.remove();
+			this.expandedView = 0;
 		}
 	},
 
 	removeExpandedView: function() {
 		if(this.expandedView){
 			this.expandedView.unrender();
+			this.expandedView.remove();
+			this.$el.toggleClass('hover-glow');
+			this.expandedView = 0;
 		}
 	}
 });
