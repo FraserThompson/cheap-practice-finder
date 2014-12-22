@@ -42,7 +42,7 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 			this.$el.addClass('hover-glow');
 			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
 			self.expandedView.model = self.model;
-			$('#table-view').after(self.expandedView.render().el);
+			self.$el.after(self.expandedView.render().el);
 		} else {
 			this.expandedView.unrender();
 			this.expandedView = 0;
@@ -121,6 +121,7 @@ app.TableView = Backbone.View.extend({
 	initialize: function() {
 		this.$el.hide();
 		_.bindAll(this, 'render', 'changeRadius', 'refresh');
+		app.isMobile = window.matchMedia("only screen and (max-width: 760px)");
 		this.searchOptionsElement = this.$('#search-options');
 		this.backgridGridElement = this.$('#backgrid-grid');
 		this.BackgridGrid = new Backgrid.Grid({

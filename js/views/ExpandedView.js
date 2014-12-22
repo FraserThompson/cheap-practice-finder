@@ -22,6 +22,14 @@ app.ExpandedView = Backbone.View.extend({
 
 	id: 'expanded-view',
 
+	tagName: function() {
+		if (app.isMobile.matches) {
+			return 'tr';
+		} else {
+			return 'div';
+		}
+	},
+
 	clickPosition: 0,
 
 	table: $('#backgrid-grid'),
@@ -29,28 +37,36 @@ app.ExpandedView = Backbone.View.extend({
 	initialize: function(options) {
 		_.bindAll(this, 'render', 'unrender', 'setCSSPosition', 'activateMap');
 		this.listenTo(app.Practices, 'backgrid:refresh', this.unrender);
+		if (app.isMobile.matches) {
+			this.mobile = 1;
+	        this.template = _.template($('#expanded-template-mobile').html());
+	    };
 		this.clickPosition = options.clickPosition;
 		$(window).on('resize', this.setCSSPosition);
 	},
 
 	setCSSPosition: function() {
-		var popout_height = 520 + 28 //CHANGE THIS IF YOU CHANGE IT IN THE CSS BECAUSE CHROME 
-		var table_pos = this.table.position();
-		var table_height = this.table.outerHeight()
-		var table_width = this.table.outerWidth()
-		table_pos.top += 28; // to account for the header row
-		var popout_top = this.clickPosition.top - popout_height/2;
-		if (popout_top < table_pos.top) {
-			popout_top = table_pos.top;
+		if (!this.mobile){
+			var popout_height = 520 + 28 //CHANGE THIS IF YOU CHANGE IT IN THE CSS BECAUSE CHROME 
+			var table_pos = this.table.position();
+			var table_height = this.table.outerHeight()
+			var table_width = this.table.outerWidth()
+			table_pos.top += 28; // to account for the header row
+			var popout_top = this.clickPosition.top - popout_height/2;
+			if (popout_top < table_pos.top) {
+				popout_top = table_pos.top;
+			}
+			else if (popout_top + popout_height > (table_pos.top - 28) + table_height){
+				popout_top = (table_pos.top - 28) + table_height-popout_height;
+			};
+			$(this.el).css({
+				position: "absolute",
+				top: popout_top + "px",
+				left: table_pos.left + table_width + "px"
+			});
+		} else {
+			return;
 		}
-		else if (popout_top + popout_height > (table_pos.top - 28) + table_height){
-			popout_top = (table_pos.top - 28) + table_height-popout_height;
-		};
-		$(this.el).css({
-			position: "absolute",
-			top: popout_top + "px",
-			left: table_pos.left + table_width + "px"
-		});
 	},
 
 	render: function() {
@@ -62,9 +78,17 @@ app.ExpandedView = Backbone.View.extend({
 		};
 		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
 		this.setCSSPosition();
-		$(this.el).fadeIn(100, function() {
-			self.activateMap(self.model);
-		});
+		if (!this.mobile){
+			$(this.el).fadeIn(100, function() {
+				self.activateMap(self.model);
+			});
+		} else {
+			$(this.el).find('p').slideDown(200);
+			$(this.el).find('div').slideDown(200);
+			setTimeout(function() {
+				self.activateMap(self.model);
+			}, 210);
+		}
 		return this;
 	},
 
