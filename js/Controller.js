@@ -73,7 +73,7 @@ app.Controller = {
 		var self = this;
 		app.trigger('status:loading');
 		app.Practices.setURL(SouthNorthOrAuckland(model.get('coords')));
-		this.tableView.unrender(function() {
+		self.tableView.unrender(function() {
 			app.Practices.fetch({
 				reset: true,
 				success: function() {
