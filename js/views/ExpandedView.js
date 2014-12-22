@@ -78,17 +78,9 @@ app.ExpandedView = Backbone.View.extend({
 		};
 		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
 		this.setCSSPosition();
-		if (!this.mobile){
-			$(this.el).fadeIn(100, function() {
-				self.activateMap(self.model);
-			});
-		} else {
-			$(this.el).find('p').slideDown(200);
-			$(this.el).find('div').slideDown(200);
-			setTimeout(function() {
-				self.activateMap(self.model);
-			}, 210);
-		}
+		$(this.el).fadeIn(100, function() {
+			self.activateMap(self.model);
+		});
 		return this;
 	},
 
