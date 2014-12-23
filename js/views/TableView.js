@@ -65,7 +65,7 @@ var BackgridColumns = [
 	label: "Name",
 	editable: false,
 	sortable: false,
-	cell: "string",
+	cell: "string"
 },
 {
 	name: "price",
