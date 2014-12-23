@@ -24,6 +24,7 @@ app.ExpandedView = Backbone.View.extend({
 
 	tagName: function() {
 		if (app.isMobile.matches) {
+
 			return 'tr';
 		} else {
 			return 'div';
@@ -78,9 +79,20 @@ app.ExpandedView = Backbone.View.extend({
 		};
 		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
 		this.setCSSPosition();
-		$(this.el).fadeIn(100, function() {
-			self.activateMap(self.model);
-		});
+		if (!this.mobile){
+			$(this.el).fadeIn(100, function() {
+				self.activateMap(self.model);
+			});
+		} else {
+			this.$el.css({
+				'height': 'auto',
+				'padding': '0px'
+			});
+			$(this.el).find('p').slideDown(400);
+			$(this.el).find('div').slideDown(400, function() {
+				self.activateMap(self.model);
+			});
+		}
 		return this;
 	},
 
