@@ -79,7 +79,7 @@ app.ExpandedView = Backbone.View.extend({
 		};
 		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
 		this.setCSSPosition();
-		if (!this.mobile){
+		if (this.mobile){
 			this.$el.css({
 				'height': 'auto',
 				'padding': '0px'
