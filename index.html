@@ -41,10 +41,10 @@
 
    <script type="text/template" id="expanded-template-mobile">
 		<td colspan="3" >
-	      <p><strong><a href="<%- url %>">Go to website</a></strong></p>
 	      <p><strong>PHO:</strong> <%- pho %></p>
 	      <p><strong>Phone:</strong> <%- phone %></p>
 	      <p><strong>Address:</strong> <%- address %></p>
+	      <p><strong><a href="<%- url %>">Go to website</a></strong></p>
 	      <div id="map_canvas"><p>No map</p></div>
 		</td>
 	</script>
@@ -74,7 +74,7 @@
 
   <script type="text/template" id="info-template">
     <h4>Searching over 500 practices from the following PHOs</h4>
-    <ul>
+    <ul id='pho-list'>
       <li><a href="http://www.alliancehealth.org.nz/">Alliance Health Plus</a></li>
       <li><a href="http://www.aucklandpho.co.nz/">Auckland PHO</a></li>
       <li><a href="http://www.centralpho.org.nz/">Central PHO</a></li>
@@ -91,9 +91,13 @@
       <li><a href="http://www.wboppho.org.nz/">WBOP PHO</a></li>
     </ul>
     <h4>Important Information</h4>
-    <p>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients.</p>
-    <p>Some practices may have enrolment restrictions.</p>
-    <p>Only practices which are currently taking patients will be displayed.</p>
+    <ul>
+	    <li>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients.</li>
+	    <li>Some practices may have enrolment restrictions.</li>
+	    <li>Only practices which are currently taking patients will be displayed.</li>
+    </ul>
+    <h4>Bugs/Feedback</h4>
+    <p>Email: <a href="mailto:doctorpricernz@gmail.com">doctorpricernz@gmail.com</a></p>
   </script>
 
   <script type="text/javascript" src="js/lib/jquery.min.js"></script>
