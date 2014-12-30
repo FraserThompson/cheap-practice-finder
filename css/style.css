@@ -32,7 +32,7 @@ footer {
 .container {
 	height: 100%;
 	margin:0 auto 50px;
-	width: 600px;
+	width: 580px;
 }
 
 #table-view {
@@ -78,7 +78,8 @@ footer {
 }
 
 .hover-glow {
-	background-color: lightblue;
+	background-color: lightblue !important;
+	transition: background .2s ease-in;
 }
 
 .open {

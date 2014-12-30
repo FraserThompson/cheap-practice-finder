@@ -23,20 +23,20 @@ var PracticesCollection = Backbone.Collection.extend({
 		}
 	},
 
-	trimJSON: function(location, callback) {
-		var self = this;
-		var trimmed = [];
-		$.getJSON(this.url, function(data) {
-			$.each(data, function(key, val) {
-				var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(location[0], location[1]));
-				if ((distance_between/1000) < 15){
-					trimmed.push(val);
-				}
-			});
-			self.reset(trimmed);
-			callback();
-		});
-	},
+	// trimJSON: function(location, callback) {
+	// 	var self = this;
+	// 	var trimmed = [];
+	// 	$.getJSON(this.url, function(data) {
+	// 		$.each(data, function(key, val) {
+	// 			var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(location[0], location[1]));
+	// 			if ((distance_between/1000) < 15){
+	// 				trimmed.push(val);
+	// 			}
+	// 		});
+	// 		self.reset(trimmed);
+	// 		callback();
+	// 	});
+	// },
 
 	comparator: function(a, b){
 		a = a.get(this.sort_key);

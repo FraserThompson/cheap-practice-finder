@@ -17,35 +17,25 @@ function addressFromCoords(coords, successCallback, failCallback) {
 
 var BackgridExpandableRow = Backgrid.Row.extend({
 	events: {
-		'mouseenter': 'glowToggle',
-		'mouseleave': 'glowToggle',
 		'click': 'expandRow'
 	},
 
 	initialize: function() {
-		_.bindAll(this, 'glowToggle', 'expandRow', 'removeExpandedView');
-		this.listenTo(Backbone, 'backgrid:refresh', this.removeExpandedView);
-		this.listenTo(app, 'expand', this.removeExpandedView);
+		_.bindAll(this, 'expandRow', 'removeExpandedView');
+		this.listenTo(Backbone, 'backgrid:refresh backgrid:expand', this.removeExpandedView);
 		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
-	},
-
-	glowToggle: function() {
-		if (!this.expandedView) {
-			this.$el.toggleClass('hover-glow');
-		}
 	},
 
 	expandRow: function() {
 		var self = this;
 		if (!this.expandedView) {
-			app.trigger('expand');
-			this.$el.addClass('hover-glow');
+			Backbone.trigger('backgrid:expand');
 			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
 			self.expandedView.model = self.model;
+			this.$el.addClass('hover-glow');
 			self.$el.after(self.expandedView.render().el);
 		} else {
-			this.expandedView.unrender();
-			this.expandedView = 0;
+			this.removeExpandedView();
 		}
 	},
 
@@ -128,7 +118,8 @@ app.TableView = Backbone.View.extend({
 			columns: BackgridColumns,
 			row: BackgridExpandableRow,
 			collection: app.Practices,
-			emptyText: "None found."
+			emptyText: "None found.",
+			className: 'backgrid table-hover'
 		});
 		this.backgridGridElement.html(this.BackgridGrid.render().el);
 		this.searchOptionsView = new app.SearchOptionsView();

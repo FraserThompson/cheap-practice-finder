@@ -24,7 +24,6 @@ app.ExpandedView = Backbone.View.extend({
 
 	tagName: function() {
 		if (app.isMobile.matches) {
-
 			return 'tr';
 		} else {
 			return 'div';
@@ -124,8 +123,9 @@ app.ExpandedView = Backbone.View.extend({
 
 	unrender: function() {
 		var self = this;
+		this.$("#map_canvas").remove();
 		$(window).off('resize', this.setCSSPosition)
-		$(this.el).fadeOut(100, function() {
+		$(this.el).fadeOut(200, function() {
 			$(self.el).remove();
 			this.remove();
 		});
