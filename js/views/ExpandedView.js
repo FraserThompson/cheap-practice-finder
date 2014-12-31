@@ -123,7 +123,6 @@ app.ExpandedView = Backbone.View.extend({
 
 	unrender: function() {
 		var self = this;
-		this.$("#map_canvas").remove();
 		$(window).off('resize', this.setCSSPosition)
 		$(this.el).fadeOut(200, function() {
 			$(self.el).remove();
