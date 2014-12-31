@@ -28,7 +28,7 @@ app.SearchView = Backbone.View.extend({
 	
 	events: {
 		'keypress #new-search-address': 'setAddress',
-		'keypress #new-search-age': 'setAge',
+		'keypress #new-search-age': 'setAge'
 	},
 
 	initialize: function(){

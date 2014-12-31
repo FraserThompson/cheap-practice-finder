@@ -16,7 +16,7 @@ app.FooterView = Backbone.View.extend({
 	el: $('.footer'),
 
 	events: {
-		'click .open': 'renderModal',
+		'click .open': 'renderModal'
 	},
 
 	renderModal: function(e) {
