@@ -57,12 +57,16 @@ app.SearchView = Backbone.View.extend({
 		this.address = this.address_input.val();
 		self.address_input.fadeOut(200, function() {
 			self.address_input.val('');
+			self.waiting = setTimeout(function() {
+				app.trigger('status:info', {infoMessage: 'Just a moment...'});
+			}, 500);
 			coordsFromAddress(self.address, function(coords){
+				clearTimeout(self.waiting);
 				self.model.set({coords: [coords.lat(), coords.lng()]});
 				self.age_input.fadeIn(200).focus()
 			}, function(message) {
 				self.address_input.fadeIn(200).focus();
-				app.trigger('status:error', {errorMessage: 'Invalid address.'})
+				app.trigger('status:error', {errorMessage: 'Invalid address.'});
 				return;
 			});
 		});
