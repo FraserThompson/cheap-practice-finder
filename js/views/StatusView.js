@@ -10,7 +10,6 @@ app.StatusView = Backbone.View.extend({
 		this.listenTo(app, 'status:loading', this.startLoading);
 		this.listenTo(app, 'status:clear', this.empty);
 		this.listenTo(app, 'status:error', this.displayError);
-		this.listenTo(app, 'status:info', this.displayInfo);
 	},
 
 	startLoading: function() {
@@ -19,17 +18,13 @@ app.StatusView = Backbone.View.extend({
 	},
 
 	empty: function() {
-		$(this.el).slideUp(400).empty();
+		var self = this;
+		$(this.el).slideUp(400, function() {
+			$(self.el).empty();
+		})
 	},
 
 	displayError: function(e) {
 		$(this.el).html(this.errorTemplate({message: e.errorMessage})).hide().slideDown();
-	},
-
-	displayInfo: function(e) {
-		var self = this;
-		$(this.el).html(this.infoTemplate({message: e.infoMessage})).hide().slideDown(function() {
-			self.empty();
-		});
 	}
 });
