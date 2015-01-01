@@ -83,6 +83,7 @@ app.Controller = {
 					app.trigger('status:clear');
 				},
 				error: function() {
+					app.trigger('status:error', {errorMessage: 'Completely unexpected error fetching practices!'})
 					console.log("Error fetching Practices from JSON file.");
 				}
 			});
