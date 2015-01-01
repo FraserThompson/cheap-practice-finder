@@ -23,10 +23,12 @@ app.Controller = {
 				location: model.get('coords'),
 				reset: true,
 				success: function() {
-					self.searchView.setElement($('#search-box')).render();
-					self.tableView.model.set(model.toJSON());
-					self.tableView.refresh();
 					app.trigger('status:clear');
+					setTimeout(function() {
+						self.searchView.setElement($('#search-box')).render();
+						self.tableView.model.set(model.toJSON());
+						self.tableView.refresh();
+					}, 400);
 				},
 				error: function() {
 					app.trigger('status:error', {errorMessage: 'Completely unexpected error fetching practices!'})
