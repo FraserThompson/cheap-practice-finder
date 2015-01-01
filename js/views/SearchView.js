@@ -55,14 +55,14 @@ app.SearchView = Backbone.View.extend({
 		if (!this.address_input.val()) return;
 		var self = this;
 		this.address = this.address_input.val();
-
-		this.address_input.fadeOut(200, function() {
-			self.address_input.val('');
+		this.address_input.addClass('animated fadeOut');
+		this.address_input.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+			self.address_input.val('').removeClass('animated fadeOut').hide();
 			coordsFromAddress(self.address, function(coords){
 				self.model.set({coords: [coords.lat(), coords.lng()]});
-				self.age_input.fadeIn(200).focus()
+				self.age_input.addClass('animated fadeIn').show().focus();
 			}, function(message) {
-				self.address_input.fadeIn(200).focus();
+				self.address_input.addClass('animated fadeIn').show().focus();
 				app.trigger('status:error', {errorMessage: 'Invalid address.'});
 				return;
 			});
@@ -80,9 +80,10 @@ app.SearchView = Backbone.View.extend({
 		};
 		var self = this;
 		this.model.set({age: this.age_input.val()});
-		this.age_input.val('');
-		this.age_input.fadeOut(400, function() {
+		this.age_input.val('').addClass('animated fadeOut');
+		this.age_input.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
 			app.trigger('status:loading');
+			self.age_input.removeClass('animated fadeOut').hide();
 			app.Controller.search(self.model);
 			app.ActualRouter.navigate(
 	          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=2',

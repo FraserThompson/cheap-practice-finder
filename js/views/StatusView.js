@@ -13,7 +13,7 @@ app.StatusView = Backbone.View.extend({
 	},
 
 	startLoading: function() {
-		$(this.el).html('<h4>Loading...</h4>').fadeIn();
+		$(this.el).html('<h4>Loading...</h4>').addClass('animated fadeIn').show();
 		return this;
 	},
 

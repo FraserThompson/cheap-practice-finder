@@ -33,6 +33,8 @@ footer {
 	height: 100%;
 	margin:0 auto 50px;
 	width: 580px;
+	-webkit-animation-duration: 0.8s;
+  	-moz-animation-duration: 0.8s;
 }
 
 #table-view {
@@ -62,6 +64,13 @@ footer {
 #new-search-age {
 	margin: auto;
 	width: 50px;
+	-webkit-animation-duration: 0.4s;
+  	-moz-animation-duration: 0.4s;
+}
+
+#new-search-address {
+	-webkit-animation-duration: 0.4s;
+  	-moz-animation-duration: 0.4s;
 }
 
 #expanded-view {
@@ -69,6 +78,8 @@ footer {
 	width: 350px;
 	height: auto;
 	padding: 10px;
+  	-webkit-animation-duration: 0.4s;
+  	-moz-animation-duration: 0.4s;
 }
 
 #map_canvas {

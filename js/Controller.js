@@ -12,7 +12,7 @@ app.Controller = {
 	index: function() {
 		this.searchView.setElement($('#search-box')).render();
 		$('#new-search-address').focus();
-		$('#app').fadeIn(800);
+		$('#app').addClass('animated fadeIn').show();
 	},
 
 	search: function(model) {

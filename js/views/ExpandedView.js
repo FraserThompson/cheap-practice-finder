@@ -83,7 +83,9 @@ app.ExpandedView = Backbone.View.extend({
 				'padding': '0px'
 			});
 		}
-		$(this.el).fadeIn(200, function() {
+		$(this.el).addClass('animated fadeIn');
+		$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+			$(this.el).removeClass('animated fadeIn');
 			self.activateMap(self.model);
 		});
 		return this;
@@ -123,9 +125,11 @@ app.ExpandedView = Backbone.View.extend({
 	unrender: function() {
 		var self = this;
 		$(window).off('resize', this.setCSSPosition)
-		$(this.el).fadeOut(200, function() {
+		$(this.el).addClass('animated fadeOut');
+		$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+			$(this.el).removeClass('animated fadeOut');
 			$(self.el).remove();
-			this.remove();
+			self.remove();
 		});
 	}
 });
