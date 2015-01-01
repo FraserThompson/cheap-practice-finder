@@ -1,49 +1,33 @@
 var app = app || {};
 
 var PracticesCollection = Backbone.Collection.extend({
+
 	model: app.PracticeModel,
 	url: 'data.json',
 
 	initialize: function() {
-		_.bindAll(this, 'initializeModels', 'changeRadius', 'setURL');
-		this.sort_key = 'price';
+		_.bindAll(this, 'initializeModels', 'changeRadius', 'fetch', 'parse');;
 		this.removed = [];
 	},
 
-	setURL: function(SouthNorthOrAuckland) {
-		if(SouthNorthOrAuckland == 0){
-			this.url = 'si.json';
-			console.log('south island data');
-		} else if (SouthNorthOrAuckland == 1){
-			this.url = 'ni.json';
-			console.log('north island data');
-		} else {
-			this.url = 'auckland.json';
-			console.log('auckland data');
-		}
+	parse: function() {
+		return this.data;
 	},
 
-	// trimJSON: function(location, callback) {
-	// 	var self = this;
-	// 	var trimmed = [];
-	// 	$.getJSON(this.url, function(data) {
-	// 		$.each(data, function(key, val) {
-	// 			var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(location[0], location[1]));
-	// 			if ((distance_between/1000) < 15){
-	// 				trimmed.push(val);
-	// 			}
-	// 		});
-	// 		self.reset(trimmed);
-	// 		callback();
-	// 	});
-	// },
-
-	comparator: function(a, b){
-		a = a.get(this.sort_key);
-		b = b.get(this.sort_key);
-		return a > b ? 1
-			: a < b ? -1
-			: 0; 
+	fetch: function(options) {
+		var self = this;
+		var trimmed = [];
+		this.removed = [];
+		$.getJSON(this.url, function(data) {
+			$.each(data, function(key, val) {
+				var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(options.location[0], options.location[1]));
+				if ((distance_between/1000) <= 15){
+					trimmed.push(val);
+				}
+			});
+			self.data = trimmed;
+		});
+		return Backbone.Collection.prototype.fetch.call(this, options)
 	},
 
 	changeRadius: function(distance, callback) {
@@ -56,7 +40,7 @@ var PracticesCollection = Backbone.Collection.extend({
 		}
 		var remove_these = [];
 		this.each (function(model) {
-			if (model.get('distance') > distance){
+			if (model.get('distance') >= distance){
 				remove_these.push(model);
 			}
 		});
@@ -68,11 +52,8 @@ var PracticesCollection = Backbone.Collection.extend({
 	initializeModels: function(age, addressCoords, callback) {
 		var remove = [];
 		this.each (function(model) {
-			if (model.getDistance(addressCoords) > 15){
-				remove.push(model);
-			} else {
-				model.getPrice(age);
-			}
+			model.getDistance(addressCoords);
+			model.getPrice(age);
 		});
 		this.remove(remove);
 		callback();

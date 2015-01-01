@@ -72,9 +72,9 @@ app.Controller = {
 	search: function(model) {
 		var self = this;
 		app.trigger('status:loading');
-		app.Practices.setURL(SouthNorthOrAuckland(model.get('coords')));
 		self.tableView.unrender(function() {
 			app.Practices.fetch({
+				location: model.get('coords'),
 				reset: true,
 				success: function() {
 					self.searchView.setElement($('#search-box')).render();
