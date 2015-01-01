@@ -124,11 +124,16 @@ app.ExpandedView = Backbone.View.extend({
 	unrender: function() {
 		var self = this;
 		$(window).off('resize', this.setCSSPosition)
-		$(this.el).addClass('animated fadeOut');
-		$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
-			$(self.el).removeClass('animated fadeOut');
+		if (!this.mobile){
+			$(this.el).addClass('animated fadeOut');
+			$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+				$(self.el).removeClass('animated fadeOut');
+				$(self.el).remove();
+				self.remove();
+			});
+		} else {
 			$(self.el).remove();
 			self.remove();
-		});
+		};
 	}
 });
