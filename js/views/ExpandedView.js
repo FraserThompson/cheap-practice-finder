@@ -42,27 +42,27 @@ app.ExpandedView = Backbone.View.extend({
 	        this.template = _.template($('#expanded-template-mobile').html());
 	    };
 		this.clickPosition = options.clickPosition;
+		this.table_height = this.table.outerHeight();
+		this.table_width = this.table.outerWidth();
 		$(window).on('resize', this.setCSSPosition);
 	},
 
 	setCSSPosition: function() {
 		if (!this.mobile){
-			var popout_height = 520 + 28 //CHANGE THIS IF YOU CHANGE IT IN THE CSS BECAUSE CHROME 
+			var popout_height = this.$el.outerHeight();
 			var table_pos = this.table.position();
-			var table_height = this.table.outerHeight()
-			var table_width = this.table.outerWidth()
-			table_pos.top += 28; // to account for the header row
 			var popout_top = this.clickPosition.top - popout_height/2;
-			if (popout_top < table_pos.top) {
-				popout_top = table_pos.top;
-			}
-			else if (popout_top + popout_height > (table_pos.top - 28) + table_height){
-				popout_top = (table_pos.top - 28) + table_height-popout_height;
+			if ((popout_top + popout_height) > (table_pos.top + this.table_height)){
+				console.log('below bottom');
+				popout_top = (table_pos.top) + this.table_height-popout_height;
+			} else if (popout_top < 10) {
+				console.log('under top');
+				popout_top = 10;
 			};
 			$(this.el).css({
 				position: "absolute",
 				top: popout_top + "px",
-				left: table_pos.left + table_width + "px"
+				left: table_pos.left + this.table_width + "px"
 			});
 		} else {
 			return;
@@ -77,7 +77,6 @@ app.ExpandedView = Backbone.View.extend({
 			var url = "https://www.google.co.nz/#q=" + this.model.get('name');
 		};
 		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
-		this.setCSSPosition();
 		if (this.mobile){
 			this.$el.css({
 				'height': 'auto',

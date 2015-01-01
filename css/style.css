@@ -67,7 +67,7 @@ footer {
 #expanded-view {
 	background-color: lightblue;
 	width: 350px;
-	height: 520px;
+	height: auto;
 	padding: 10px;
 }
 
