@@ -59,9 +59,10 @@ app.SearchView = Backbone.View.extend({
 			self.address_input.val('');
 			self.waiting = setTimeout(function() {
 				app.trigger('status:info', {infoMessage: 'Just a moment...'});
-			}, 500);
+			}, 300);
 			coordsFromAddress(self.address, function(coords){
 				clearTimeout(self.waiting);
+				app.trigger('status:clear');
 				self.model.set({coords: [coords.lat(), coords.lng()]});
 				self.age_input.fadeIn(200).focus()
 			}, function(message) {
