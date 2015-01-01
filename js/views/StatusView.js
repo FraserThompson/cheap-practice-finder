@@ -27,6 +27,9 @@ app.StatusView = Backbone.View.extend({
 	},
 
 	displayInfo: function(e) {
-		$(this.el).html(this.infoTemplate({message: e.infoMessage})).hide().slideDown();
+		var self = this;
+		$(this.el).html(this.infoTemplate({message: e.infoMessage})).hide().slideDown(function() {
+			self.empty();
+		});
 	}
 });
