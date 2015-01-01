@@ -11,6 +11,7 @@ function calculateRoute(start, end, callback){
 		if (status == google.maps.DirectionsStatus.OK){
 			callback(response);
 		} else {
+			app.trigger('status:error', {errorMessage: 'Something went horribly wrong!'})
 			console.log("Failed to calculate route: " + status);
 		}
 	});
@@ -53,10 +54,8 @@ app.ExpandedView = Backbone.View.extend({
 			var table_pos = this.table.position();
 			var popout_top = this.clickPosition.top - popout_height/2;
 			if (popout_top < 10) {
-				console.log('under top');
 				popout_top = 10;
 			} else if ((popout_top + popout_height) > (table_pos.top + this.table_height)){
-				console.log('below bottom');
 				popout_top = (table_pos.top) + this.table_height-popout_height;
 			};
 			$(this.el).css({
@@ -82,7 +81,7 @@ app.ExpandedView = Backbone.View.extend({
 				'height': 'auto',
 				'padding': '0px'
 			});
-		}
+		} 
 		$(this.el).addClass('animated fadeIn');
 		$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
 			$(this.el).removeClass('animated fadeIn');
@@ -127,7 +126,7 @@ app.ExpandedView = Backbone.View.extend({
 		$(window).off('resize', this.setCSSPosition)
 		$(this.el).addClass('animated fadeOut');
 		$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
-			$(this.el).removeClass('animated fadeOut');
+			$(self.el).removeClass('animated fadeOut');
 			$(self.el).remove();
 			self.remove();
 		});

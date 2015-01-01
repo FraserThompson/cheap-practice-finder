@@ -126,7 +126,7 @@ app.TableView = Backbone.View.extend({
 		this.searchOptionsView = new app.SearchOptionsView();
 	},
 
-	render: function() {
+	render: function(callback) {
 		var self = this;
 		var address = addressFromCoords(this.model.get('coords'), function(address) {
 			self.searchOptionsView.address = address;
@@ -134,9 +134,11 @@ app.TableView = Backbone.View.extend({
 			self.searchOptionsView.setRadius(self.model.get('radius'));
 			self.BackgridGrid.render().sort('price', 'ascending');
 			self.$el.slideDown();
+			callback();
 		}, function(message){
 			app.trigger('status:error', {errorMessage: message})
 			self.$el.slideDown();
+			callback();
 		});
 		return this;
 	},
@@ -147,11 +149,13 @@ app.TableView = Backbone.View.extend({
 		});
 	},
 
-	refresh: function() {
+	refresh: function(callback) {
 		var self = this;
 		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
 			app.Practices.changeRadius(self.model.get('radius'), function() {
-				self.render();
+				self.render(function() {
+					callback();
+				});
 			});
 		});
 	},

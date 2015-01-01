@@ -37,7 +37,7 @@ app.SearchView = Backbone.View.extend({
 
 	render: function(){
 		var self = this;
-		$(this.el).html(this.template());
+		$(this.el).html(this.template()).addClass('animated fadeIn');
 		this.address_input = this.$('#new-search-address');
 		this.age_input = this.$('#new-search-age');
 		var autocomplete = new google.maps.places.Autocomplete(document.getElementById('new-search-address'), {

@@ -24,11 +24,10 @@ app.Controller = {
 				reset: true,
 				success: function() {
 					app.trigger('status:clear');
-					setTimeout(function() {
+					self.tableView.model.set(model.toJSON());
+					self.tableView.refresh(function() {
 						self.searchView.setElement($('#search-box')).render();
-						self.tableView.model.set(model.toJSON());
-						self.tableView.refresh();
-					}, 400);
+					});
 				},
 				error: function() {
 					app.trigger('status:error', {errorMessage: 'Completely unexpected error fetching practices!'})

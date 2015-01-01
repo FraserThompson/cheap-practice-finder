@@ -64,13 +64,13 @@ footer {
 #new-search-age {
 	margin: auto;
 	width: 50px;
-	-webkit-animation-duration: 0.4s;
-  	-moz-animation-duration: 0.4s;
+	-webkit-animation-duration: 0.2s;
+  	-moz-animation-duration: 0.2s;
 }
 
 #new-search-address {
-	-webkit-animation-duration: 0.4s;
-  	-moz-animation-duration: 0.4s;
+	-webkit-animation-duration: 0.2s;
+  	-moz-animation-duration: 0.2s;
 }
 
 #expanded-view {
@@ -90,7 +90,7 @@ footer {
 
 .hover-glow {
 	background-color: lightblue !important;
-	transition: background .2s ease-in;
+	transition: background .4s ease-in;
 }
 
 .open {
