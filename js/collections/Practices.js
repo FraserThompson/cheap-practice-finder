@@ -94,18 +94,16 @@ var PracticesCollection = Backbone.Collection.extend({
 				remove_these.push(model);
 			}
 		});
-		this.removed = JSON.parse(JSON.stringify(remove_these));
+		this.removed = remove_these;
 		this.remove(remove_these);
 		callback();
 	},
 
 	initializeModels: function(age, addressCoords, callback) {
-		var remove = [];
 		this.each (function(model) {
 			model.getDistance(addressCoords);
 			model.getPrice(age);
 		});
-		this.remove(remove);
 		callback();
 	}
 
