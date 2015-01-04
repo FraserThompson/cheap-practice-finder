@@ -11,7 +11,7 @@ function calculateRoute(start, end, callback){
 		if (status == google.maps.DirectionsStatus.OK){
 			callback(response);
 		} else {
-			app.trigger('status:error', {errorMessage: 'Something went horribly wrong!'})
+			app.trigger('status:error', {errorMessage: "Couldn't get the route, you might be clicking too fast."})
 			console.log("Failed to calculate route: " + status);
 		}
 	});
@@ -38,6 +38,7 @@ app.ExpandedView = Backbone.View.extend({
 	initialize: function(options) {
 		_.bindAll(this, 'render', 'unrender', 'setCSSPosition', 'activateMap');
 		this.listenTo(app.Practices, 'backgrid:refresh', this.unrender);
+		app.trigger('status:clear');
 		if (app.isMobile.matches) {
 			this.mobile = 1;
 	        this.template = _.template($('#expanded-template-mobile').html());
