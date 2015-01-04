@@ -23,6 +23,9 @@ footer {
 	height: 50px;
 }
 
+table {
+	table-layout: fixed !important;
+}
 #pho-list {
 	columns: 2;
 	-webkit-columns: 2;
