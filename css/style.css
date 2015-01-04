@@ -1,5 +1,9 @@
 html {
 	position: relative;
+<<<<<<< HEAD
+=======
+	overflow-y: scroll;
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	min-height: 100%;
 }
 
@@ -22,7 +26,11 @@ footer {
 	height: 50px;
 }
 
+<<<<<<< HEAD
 ul {
+=======
+#pho-list {
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	columns: 2;
 	-webkit-columns: 2;
 	-moz-columns: 2;
@@ -31,7 +39,23 @@ ul {
 .container {
 	height: 100%;
 	margin:0 auto 50px;
+<<<<<<< HEAD
 	width: 600px;
+=======
+	width: 580px;
+	-webkit-animation-duration: 0.8s;
+  	-moz-animation-duration: 0.8s;
+}
+
+#table-view {
+	padding: 15px;
+	height: 100%;
+	width: 100%;
+}
+
+#search-view {
+	min-height: 40px;
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 }
 
 #new-search-address {
@@ -51,19 +75,36 @@ ul {
 #new-search-age {
 	margin: auto;
 	width: 50px;
+<<<<<<< HEAD
 }
 
 #table-view {
 	padding: 15px;
 	height: 100%;
 	width: 100%;
+=======
+	-webkit-animation-duration: 0.2s;
+  	-moz-animation-duration: 0.2s;
+}
+
+#new-search-address {
+	-webkit-animation-duration: 0.2s;
+  	-moz-animation-duration: 0.2s;
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 }
 
 #expanded-view {
 	background-color: lightblue;
 	width: 350px;
+<<<<<<< HEAD
 	height: 520px;
 	padding: 10px;
+=======
+	height: auto;
+	padding: 10px;
+  	-webkit-animation-duration: 0.4s;
+  	-moz-animation-duration: 0.4s;
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 }
 
 #map_canvas {
@@ -73,7 +114,12 @@ ul {
 }
 
 .hover-glow {
+<<<<<<< HEAD
 	background-color: lightblue;
+=======
+	background-color: lightblue !important;
+	transition: background .4s ease-in;
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 }
 
 .open {
