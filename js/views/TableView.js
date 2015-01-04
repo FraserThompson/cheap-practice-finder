@@ -83,7 +83,8 @@ var BackgridColumns = [
 	editable: false,
 	sortable: true,
 	sortType: "toggle",
-	cell: Backgrid.IntegerCell.extend({
+	cell: Backgrid.NumberCell.extend({
+		decimals: 1,
 		render: function() {
 			this.$el.empty();
 			if (this.model.get(this.column.get('name'))){
@@ -151,13 +152,13 @@ app.TableView = Backbone.View.extend({
 
 	refresh: function(callback) {
 		var self = this;
-		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
+		// app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
 			app.Practices.changeRadius(self.model.get('radius'), function() {
 				self.render(function() {
 					callback();
 				});
 			});
-		});
+		// });
 	},
 
 	changeRadius: function(e) {

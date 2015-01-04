@@ -53,11 +53,12 @@ app.ExpandedView = Backbone.View.extend({
 			var popout_height = this.$el.outerHeight();
 			var table_pos = this.table.position();
 			var popout_top = this.clickPosition.top - popout_height/2;
-			if (popout_top < 10) {
-				popout_top = 10;
-			} else if ((popout_top + popout_height) > (table_pos.top + this.table_height)){
+			if ((popout_top + popout_height) > (table_pos.top + this.table_height)){
 				popout_top = (table_pos.top) + this.table_height-popout_height;
-			};
+			}
+			if (popout_top < 20) {
+				popout_top = 20;
+			} 
 			$(this.el).css({
 				position: "absolute",
 				top: popout_top + "px",
@@ -102,7 +103,6 @@ app.ExpandedView = Backbone.View.extend({
 	        
 	        app.directions = new google.maps.DirectionsRenderer();
 			app.map = new google.maps.Map(domElement[0], mapOptions);
-			
 			calculateRoute(model.get("start"), model.get("end"), function(response) {
 				if (response) {
 					app.directions.setMap(app.map);
