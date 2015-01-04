@@ -1,7 +1,0 @@
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=117: No phone number.
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=117: No price list.
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=49: No phone number.
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=49: No price list.
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=53: No phone number.
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=53: No price list.
-WARNING http://www.southernpho.health.nz/info.php?pg=det&pid=99: Weird price list.

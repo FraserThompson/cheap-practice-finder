@@ -1,5 +1,0 @@
-============1===========
-ERROR CPIT Health Centre: Cannot geolocate address: HS Block, Williams St, Madras Street Campus
-============2===========
-WARNING WARNING http://www.chchpho.org.nz/provider-riccarton.php: Couldn't get any prices.
-WARNING WARNING http://www.chchpho.org.nz/provider-298.php: Couldn't get any prices.

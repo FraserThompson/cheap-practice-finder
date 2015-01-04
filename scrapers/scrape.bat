@@ -1,1 +1,0 @@
-for /r %%f in (scraper.py) do python "%%f"

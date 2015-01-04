@@ -1,60 +1,4 @@
 var app = app || {};
-<<<<<<< HEAD
-
-var PracticesCollection = Backbone.Collection.extend({
-	model: app.PracticeModel,
-	url: "data.json",
-
-	initialize: function() {
-		_.bindAll(this, 'getDistances', 'getPrices', 'filterByDistance', 'initializeModels');
-		this.sort_key = 'price';
-	},
-
-	comparator: function(a, b){
-		a = a.get(this.sort_key);
-		b = b.get(this.sort_key);
-		return a > b ? 1
-			: a < b ? -1
-			: 0; 
-	},
-
-	initializeModels: function(age, addressCoords, distance) {
-		this.getPrices(age);
-		this.getDistances(addressCoords);
-		this.filterByDistance(distance);
-	},
-
-	getDistances: function(addressCoords) {
-		this.each (function(model) {
-			model.getDistance(addressCoords);
-		});
-	},
-
-	getPrices: function(age) {
-		this.each (function(model) {
-			model.getPrice(age);
-		});
-	},
-
-	filterByDistance: function(distance) {
-		var filter = _.filter(this.models, function(item) {
-			return item.get('distance') < distance;
-		});
-		this.reset(filter);
-	},
-
-	getListOfPHOs: function() {
-		var phoList = {};
-		this.each (function(model) {
-			if (model.get('pho') in phoList) {
-				phoList[model.get('pho')] += 1;
-			} else {
-				phoList[model.get('pho')] = 1;
-			}
-		});;
-		return phoList;
-	}
-=======
 var SouthOrNorth = function(coords){
 	var northIslandCoords = [
 		new google.maps.LatLng(-41.689322259970425, 175.3857421875),
@@ -176,7 +120,6 @@ var PracticesCollection = Backbone.Collection.extend({
 	// 	});;
 	// 	return phoList;
 	// }
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 });
 
 app.Practices = new PracticesCollection();

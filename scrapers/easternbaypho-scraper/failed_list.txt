@@ -1,8 +1,0 @@
-============6===========
-ERROR Med Central: Could not get coordinates.
-ERROR Total Health Doctors: Could not get address or coordinates.
-ERROR Tarawera Medical Centre: Could not get address or coordinates.
-ERROR Toi Ora: Could not get coordinates.
-ERROR Whakatohea Health Centre: Could not get address or coordinates.
-ERROR Approved DHB fees for EBPHA: Could not get coordinates.
-============0===========

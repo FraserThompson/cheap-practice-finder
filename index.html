@@ -3,29 +3,17 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
-  <title>Cheap Practice Finder</title>
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
-  <link rel="stylesheet" type="text/css" href="css/backgrid.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-=======
   <meta name="description" content="Compare the prices of doctors near you. Search over 500 doctors from PHO's all over New Zealand and find the cheapest!">
   <title>Doctor Pricer</title>
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/backgrid.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.min.css">
   <link rel="stylesheet" type="text/css" href="css/animate.css">
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 </head>
 
 <body>
 	<div id="app" style="display: none;" class="container">
-<<<<<<< HEAD
-		<header><h1>Cheap Practice Finder</h1></header>
-=======
 		<header><h1>Doctor Pricer</h1></header>
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 		<section id="main">
       <div id="search-view">
         <div id="search-box"></div>
@@ -33,11 +21,7 @@
       </div>
       <div id="table-view">
         <div id="search-options"></div>
-<<<<<<< HEAD
-        <div id="backgrid-grid"></div>
-=======
         <div id="backgrid-grid" class='table-responsive'></div>
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
       </div>
 		</section>
 		<footer>
@@ -57,8 +41,6 @@
       <div id="map_canvas"><p>No map</p></div>
   </script>
 
-<<<<<<< HEAD
-=======
    <script type="text/template" id="expanded-template-mobile">
 		<td colspan="3" >
 	      <p><strong>PHO:</strong> <%- pho %></p>
@@ -69,7 +51,6 @@
 		</td>
 	</script>
 
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
   <script type="text/template" id="search-options-template">
       <p>Displaying <span id="count"></span> practices within
       <select class="form-control" id="radius-select">
@@ -78,21 +59,13 @@
         <option value="10">10km</option>
         <option value="15">15km</option>
       </select>
-<<<<<<< HEAD
-      of <%- address %> from <span id="phocount"></span> PHOs.
-=======
       of <%- address %>.
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
     </p>
   </script>
 
   <script type="text/template" id="search-template">
       <input id="new-search-address" class="form-control" type="text" placeholder="Type your address...">
-<<<<<<< HEAD
-      <input id="new-search-age" class="form-control" type="text" placeholder="age" style="display: none" maxlength="3">
-=======
       <input id="new-search-age" class="form-control" type="number" placeholder="age" style="display: none" maxlength="3">
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
   </script>
 
   <script type="text/template" id="error-template">
@@ -103,11 +76,7 @@
 
   <script type="text/template" id="info-template">
     <h4>Searching over 500 practices from the following PHOs</h4>
-<<<<<<< HEAD
-    <ul>
-=======
     <ul id='pho-list'>
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
       <li><a href="http://www.alliancehealth.org.nz/">Alliance Health Plus</a></li>
       <li><a href="http://www.aucklandpho.co.nz/">Auckland PHO</a></li>
       <li><a href="http://www.centralpho.org.nz/">Central PHO</a></li>
@@ -124,32 +93,6 @@
       <li><a href="http://www.wboppho.org.nz/">WBOP PHO</a></li>
     </ul>
     <h4>Important Information</h4>
-<<<<<<< HEAD
-    <p>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients.</p>
-    <p>Some practices may have enrolment restrictions.</p>
-    <p>Only practices which are currently taking patients will be displayed.</p>
-  </script>
-  
-  <script type="text/javascript" src="js/lib/jquery.min.js"></script>
-  <script type="text/javascript" src="js/lib/underscore-min.js"></script>
-  <script type="text/javascript" src="js/lib/backbone-min.js"></script>
-  <script type="text/javascript" src="js/lib/backgrid.min.js"></script>
-  <script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/lib/backbone.bootstrap-modal.js"></script>
-  <script type="text/javascript" src="js/lib/deep-model.min.js"></script>
-  <script type="text/javascript" src="js/lib/backgrid-filter.min.js"></script>
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry,places"></script>
-
-  <script src="js/models/Practice.js" type="text/javascript"></script>
-  <script src="js/models/SearchQuery.js" type="text/javascript"></script>
-  <script src="js/collections/Practices.js" type="text/javascript"></script>
-  <script src="js/views/ExpandedView.js" type="text/javascript"></script>
-  <script src="js/views/SearchOptionsView.js" type="text/javascript"></script>
-  <script src="js/views/InfoView.js" type="text/javascript"></script>
-  <script src="js/views/TableView.js" type="text/javascript"></script>
-  <script src="js/views/SearchView.js" type="text/javascript"></script>
-  <script src="js/Router.js" type="text/javascript"></script>
-=======
     <ul>
 	    <li>Fees are for a standard consult with a GP during standard hours and applicable only for enrolled patients.</li>
 	    <li>Some practices may have enrolment restrictions.</li>
@@ -171,6 +114,5 @@
 
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry,places"></script>
   <script src="js/scripts.js" type="text/javascript"></script>
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 </body>
 </html>

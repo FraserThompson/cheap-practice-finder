@@ -1,3 +1,0 @@
-============1===========
-ERROR Omega Medical Centre: Could not map URL.
-============0===========
