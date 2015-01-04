@@ -125,7 +125,7 @@ app.TableView = Backbone.View.extend({
 			row: BackgridExpandableRow,
 			collection: app.Practices,
 			emptyText: "None found.",
-			className: 'backgrid table-hover'
+			className: 'table table-condensed table-hover'
 		});
 		this.backgridGridElement.html(this.BackgridGrid.render().el);
 		this.searchOptionsView = new app.SearchOptionsView();
