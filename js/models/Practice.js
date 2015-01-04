@@ -4,10 +4,7 @@ var failed = 0;
 app.directionsService = new google.maps.DirectionsService();
 
 app.PracticeModel = Backbone.DeepModel.extend({
-<<<<<<< HEAD
-=======
 	idAttribute: 'name',
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	defaults: {
 		name: "default",
 		url: "default",
@@ -26,11 +23,7 @@ app.PracticeModel = Backbone.DeepModel.extend({
 	},
 
 	getPrice: function(age) {
-<<<<<<< HEAD
-		if (this.prices.length == 0){
-=======
 		if (!this.prices || this.prices.length == 0){
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 			this.set({price: 1000});
 			return;
 		}

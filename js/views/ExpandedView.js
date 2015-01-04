@@ -11,10 +11,7 @@ function calculateRoute(start, end, callback){
 		if (status == google.maps.DirectionsStatus.OK){
 			callback(response);
 		} else {
-<<<<<<< HEAD
-=======
 			app.trigger('status:error', {errorMessage: 'Something went horribly wrong!'})
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 			console.log("Failed to calculate route: " + status);
 		}
 	});
@@ -26,8 +23,6 @@ app.ExpandedView = Backbone.View.extend({
 
 	id: 'expanded-view',
 
-<<<<<<< HEAD
-=======
 	tagName: function() {
 		if (app.isMobile.matches) {
 			return 'tr';
@@ -36,17 +31,12 @@ app.ExpandedView = Backbone.View.extend({
 		}
 	},
 
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	clickPosition: 0,
 
 	table: $('#backgrid-grid'),
 
 	initialize: function(options) {
 		_.bindAll(this, 'render', 'unrender', 'setCSSPosition', 'activateMap');
-<<<<<<< HEAD
-		this.listenTo(app.Practices, 'backgrid:refresh', this.unrender, this);
-		this.clickPosition = options.clickPosition;
-=======
 		this.listenTo(app.Practices, 'backgrid:refresh', this.unrender);
 		if (app.isMobile.matches) {
 			this.mobile = 1;
@@ -55,30 +45,10 @@ app.ExpandedView = Backbone.View.extend({
 		this.clickPosition = options.clickPosition;
 		this.table_height = this.table.outerHeight();
 		this.table_width = this.table.outerWidth();
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 		$(window).on('resize', this.setCSSPosition);
 	},
 
 	setCSSPosition: function() {
-<<<<<<< HEAD
-		var popout_height = 520 //CHANGE THIS IF YOU CHANGE IT IN THE CSS BECAUSE CHROME 
-		var table_pos = this.table.offset();
-		var table_height = this.table.outerHeight()
-		var table_width = this.table.outerWidth()
-		table_pos.top += 28; // to account for the header row
-		var popout_top = this.clickPosition.top - popout_height/2;
-		if (popout_top < table_pos.top){
-			popout_top = table_pos.top;
-		}
-		else if (popout_top + popout_height > (table_pos.top - 28) + table_height){
-			popout_top = (table_pos.top - 28) + table_height-popout_height;
-		};
-		$(this.el).css({
-			position: "absolute",
-			top: popout_top + "px",
-			left: table_pos.left + table_width + "px"
-		});
-=======
 		if (!this.mobile){
 			var popout_height = this.$el.outerHeight();
 			var table_pos = this.table.position();
@@ -96,7 +66,6 @@ app.ExpandedView = Backbone.View.extend({
 		} else {
 			return;
 		}
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	},
 
 	render: function() {
@@ -107,10 +76,6 @@ app.ExpandedView = Backbone.View.extend({
 			var url = "https://www.google.co.nz/#q=" + this.model.get('name');
 		};
 		$(this.el).html(this.template({name: this.model.get('name'), pho: this.model.get('pho'), phone: this.model.get('phone'), url: url, address: this.model.get('address')}));
-<<<<<<< HEAD
-		this.setCSSPosition();
-		$(this.el).fadeIn(100, function() {
-=======
 		if (this.mobile){
 			this.$el.css({
 				'height': 'auto',
@@ -120,7 +85,6 @@ app.ExpandedView = Backbone.View.extend({
 		$(this.el).addClass('animated fadeIn');
 		$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
 			$(this.el).removeClass('animated fadeIn');
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 			self.activateMap(self.model);
 		});
 		return this;
@@ -160,11 +124,6 @@ app.ExpandedView = Backbone.View.extend({
 	unrender: function() {
 		var self = this;
 		$(window).off('resize', this.setCSSPosition)
-<<<<<<< HEAD
-		$(this.el).fadeOut(100, function() {
-			$(self.el).remove();
-		});
-=======
 		if (!this.mobile){
 			$(this.el).addClass('animated fadeOut');
 			$(this.el).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
@@ -176,6 +135,5 @@ app.ExpandedView = Backbone.View.extend({
 			$(self.el).remove();
 			self.remove();
 		};
->>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	}
 });
