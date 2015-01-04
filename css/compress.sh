@@ -1,0 +1,1 @@
+java -jar yui.jar -o style.min.css style.css

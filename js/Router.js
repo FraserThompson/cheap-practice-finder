@@ -12,6 +12,7 @@ app.Router = Backbone.Router.extend({
 
 	routes: {
 		'': 'index',
+<<<<<<< HEAD
 		'search?address=:address&age=:age': 'search'
 	},
 
@@ -57,5 +58,24 @@ app.Router = Backbone.Router.extend({
 	}
 });
 
+=======
+		'search/coords=:address&age=:age&rad=:rad': 'search'
+	},
+
+	search: function(address, age, rad){
+		$('#app').show();
+		app.Controller.createViews();
+		app.trigger('status:loading');
+		app.Controller.search(new app.SearchQueryModel({coords: address.split(','), age: age, radius: rad}));
+	},
+
+	index: function() {
+		app.Controller.createViews()
+		app.Controller.index();
+	}
+});
+
+_.extend(app, Backbone.Events);
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 app.ActualRouter = new app.Router();
 Backbone.history.start();

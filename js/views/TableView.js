@@ -17,6 +17,7 @@ function addressFromCoords(coords, successCallback, failCallback) {
 
 var BackgridExpandableRow = Backgrid.Row.extend({
 	events: {
+<<<<<<< HEAD
 		"mouseenter": "glowToggle",
 		"mouseleave": "glowToggle",
 		"click": "expandRow"
@@ -59,12 +60,39 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 		} else {
 			app.ExpandedRows.splice(0, 1);
 			this.expandedView.unrender();
+=======
+		'click': 'expandRow'
+	},
+
+	initialize: function() {
+		_.bindAll(this, 'expandRow', 'removeExpandedView');
+		this.listenTo(Backbone, 'backgrid:refresh backgrid:expand', this.removeExpandedView);
+		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
+	},
+
+	expandRow: function() {
+		var self = this;
+		if (!this.expandedView) {
+			Backbone.trigger('backgrid:expand');
+			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
+			self.expandedView.model = self.model;
+			this.$el.addClass('hover-glow');
+			self.$el.after(self.expandedView.render().el);
+			this.expandedView.setCSSPosition();
+		} else {
+			this.removeExpandedView();
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 		}
 	},
 
 	removeExpandedView: function() {
 		if(this.expandedView){
 			this.expandedView.unrender();
+<<<<<<< HEAD
+=======
+			this.$el.toggleClass('hover-glow');
+			this.expandedView = 0;
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 		}
 	}
 });
@@ -76,7 +104,11 @@ var BackgridColumns = [
 	label: "Name",
 	editable: false,
 	sortable: false,
+<<<<<<< HEAD
 	cell: "string",
+=======
+	cell: "string"
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 },
 {
 	name: "price",
@@ -86,11 +118,18 @@ var BackgridColumns = [
 	sortType: "toggle",
 	cell: Backgrid.NumberCell.extend({
 		render: function() {
+<<<<<<< HEAD
 				this.$el.empty();
 
 			if (this.model.get(this.column.get('name')) != 1000){
 				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
 			} else {
+=======
+			this.$el.empty();
+			if (this.model.get(this.column.get('name')) != 1000){
+				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
+			} else if (this.model.get(this.column.get('name')) == 1000){
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 				this.$el.html("Unknown");
 			}
 			this.delegateEvents();
@@ -121,16 +160,25 @@ var BackgridColumns = [
 ];
 
 app.TableView = Backbone.View.extend({
+<<<<<<< HEAD
 	
 	el: $("#table-view"),
 
 	radius: 2,
 
+=======
+
+	model: new app.SearchQueryModel(),
+	
+	el: $("#table-view"),
+
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	events: {
 		'change #radius-select': 'changeRadius'
 	},
 
 	initialize: function() {
+<<<<<<< HEAD
 		_.bindAll(this, 'render', 'unrender', 'changeRadius');
 		this.$el.hide(); //hide everything while we're doing stuff
 		this.searchOptions = this.$('#search-options');
@@ -162,16 +210,66 @@ app.TableView = Backbone.View.extend({
 		}, function(message){
 			self.searchOptions.html(self.searchOptionsView.renderError(message).el);
 			self.$el.slideDown();
+=======
+		this.$el.hide();
+		_.bindAll(this, 'render', 'changeRadius', 'refresh');
+		app.isMobile = window.matchMedia("only screen and (max-width: 760px)");
+		this.searchOptionsElement = this.$('#search-options');
+		this.backgridGridElement = this.$('#backgrid-grid');
+		this.BackgridGrid = new Backgrid.Grid({
+			columns: BackgridColumns,
+			row: BackgridExpandableRow,
+			collection: app.Practices,
+			emptyText: "None found.",
+			className: 'backgrid table-hover'
+		});
+		this.backgridGridElement.html(this.BackgridGrid.render().el);
+		this.searchOptionsView = new app.SearchOptionsView();
+	},
+
+	render: function(callback) {
+		var self = this;
+		var address = addressFromCoords(this.model.get('coords'), function(address) {
+			self.searchOptionsView.address = address;
+			self.searchOptionsView.render();
+			self.searchOptionsView.setRadius(self.model.get('radius'));
+			self.BackgridGrid.render().sort('price', 'ascending');
+			self.$el.slideDown();
+			callback();
+		}, function(message){
+			app.trigger('status:error', {errorMessage: message})
+			self.$el.slideDown();
+			callback();
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 		});
 		return this;
 	},
 
+<<<<<<< HEAD
 	unrender: function() {
 		this.$el.empty();
+=======
+	unrender: function(callback) {
+		$(this.el).fadeOut(200, function() {
+			callback();
+		});
+	},
+
+	refresh: function(callback) {
+		var self = this;
+		app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
+			app.Practices.changeRadius(self.model.get('radius'), function() {
+				self.render(function() {
+					callback();
+				});
+			});
+		});
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 	},
 
 	changeRadius: function(e) {
 		var self = this;
+<<<<<<< HEAD
 		this.radius = this.$('#radius-select').val()
 		app.Practices.fetch({
 			reset: true,
@@ -183,6 +281,14 @@ app.TableView = Backbone.View.extend({
 			error: function() {
 				console.log("Error fetching practices from JSON file.");
 			}
+=======
+		this.model.set({'radius': this.$('#radius-select').val()});
+		app.Practices.changeRadius(self.model.get('radius'), function() {
+			self.BackgridGrid.render().sort('price', 'ascending');
+			app.ActualRouter.navigate(
+	          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
+	          {trigger: false });
+>>>>>>> 10008f5919bb8185173792ae79b35a8a60212386
 		});
 	}
 });
