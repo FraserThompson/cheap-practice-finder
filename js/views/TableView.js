@@ -33,7 +33,7 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
 			self.expandedView.model = self.model;
 			this.$el.addClass('hover-glow');
-			$('#table-view').after(self.expandedView.render().el);
+			this.$el.after(self.expandedView.render().el);
 			this.expandedView.setCSSPosition();
 		} else {
 			this.removeExpandedView();
