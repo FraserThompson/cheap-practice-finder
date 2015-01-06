@@ -5865,7 +5865,32 @@
         "name": "Colville Community Health Centre",
         "pho": "Hauraki PHO",
         "phone": "Fax: 07 866 6619",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 11.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5889,7 +5914,32 @@
         "name": "Matamata Medical Centre",
         "pho": "Hauraki PHO",
         "phone": "07 881 9102 or 07 881 9104",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 30.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5901,7 +5951,32 @@
         "name": "Paeroa Medical Centre",
         "pho": "Hauraki PHO",
         "phone": "07 862 8755     Fax",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 0.0
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5913,7 +5988,32 @@
         "name": "Putaruru-Tirau Family Doctors",
         "pho": "Hauraki PHO",
         "phone": "Phone - 07 883 3965",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 7.0
+            },
+            {
+                "age": 18,
+                "price": 16.4
+            },
+            {
+                "age": 25,
+                "price": 32.7
+            },
+            {
+                "age": 45,
+                "price": 32.7
+            },
+            {
+                "age": 65,
+                "price": 32.2
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5925,7 +6025,32 @@
         "name": "Radius Medical Centre - Davies Corner, Chartwell",
         "pho": "Hauraki PHO",
         "phone": "",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5937,7 +6062,32 @@
         "name": "Radius Medical Centre - Head Office",
         "pho": "Hauraki PHO",
         "phone": "07 903 2071",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5949,7 +6099,32 @@
         "name": "Radius Medical Centre - Huntly East",
         "pho": "Hauraki PHO",
         "phone": "",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5961,7 +6136,32 @@
         "name": "Radius Medical Centre - K'Aute",
         "pho": "Hauraki PHO",
         "phone": "",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5973,7 +6173,32 @@
         "name": "Radius Medical Centre - Rototuna",
         "pho": "Hauraki PHO",
         "phone": "",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5985,7 +6210,32 @@
         "name": "Radius Medical Centre - St Andrews, Te Rapa",
         "pho": "Hauraki PHO",
         "phone": "",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -5997,7 +6247,32 @@
         "name": "Raukura Hauora O Tainui - Enderley",
         "pho": "Hauraki PHO",
         "phone": "07 853 3370     Fax",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 1000.0
+            },
+            {
+                "age": 25,
+                "price": 1000.0
+            },
+            {
+                "age": 45,
+                "price": 1000.0
+            },
+            {
+                "age": 65,
+                "price": 1000.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6009,7 +6284,32 @@
         "name": "Raukura Hauora O Tainui - Nawton",
         "pho": "Hauraki PHO",
         "phone": "07 847 2383     Fax",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 1000.0
+            },
+            {
+                "age": 25,
+                "price": 1000.0
+            },
+            {
+                "age": 45,
+                "price": 1000.0
+            },
+            {
+                "age": 65,
+                "price": 1000.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6021,7 +6321,32 @@
         "name": "Raukura Hauora O Tainui - Nga Miro",
         "pho": "Hauraki PHO",
         "phone": "07 824 8393     Fax",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 1000.0
+            },
+            {
+                "age": 25,
+                "price": 1000.0
+            },
+            {
+                "age": 45,
+                "price": 1000.0
+            },
+            {
+                "age": 65,
+                "price": 1000.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6033,7 +6358,32 @@
         "name": "Raukura Hauora O Tainui - Temple View",
         "pho": "Hauraki PHO",
         "phone": "07 847 1220     Fax",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 1000.0
+            },
+            {
+                "age": 25,
+                "price": 1000.0
+            },
+            {
+                "age": 45,
+                "price": 1000.0
+            },
+            {
+                "age": 65,
+                "price": 1000.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6045,7 +6395,32 @@
         "name": "Raukura Hauora O Tainui - Waahi",
         "pho": "Hauraki PHO",
         "phone": "07 828 9256     Fax",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 1000.0
+            },
+            {
+                "age": 25,
+                "price": 1000.0
+            },
+            {
+                "age": 45,
+                "price": 1000.0
+            },
+            {
+                "age": 65,
+                "price": 1000.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6081,7 +6456,32 @@
         "name": "Te Korowai Hauora o Hauraki – Coromandel",
         "pho": "Hauraki PHO",
         "phone": "07 866 8084",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6093,7 +6493,32 @@
         "name": "Te Korowai Hauora o Hauraki – Paeroa",
         "pho": "Hauraki PHO",
         "phone": "Phone - 07 862 9284",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6105,7 +6530,32 @@
         "name": "Te Korowai Hauora o Hauraki – Te Aroha",
         "pho": "Hauraki PHO",
         "phone": "Phone - 07 884 9208",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6117,7 +6567,32 @@
         "name": "Te Korowai Hauora o Hauraki – Thames (Head Office)",
         "pho": "Hauraki PHO",
         "phone": "Phone - 07 868 0033",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6129,7 +6604,32 @@
         "name": "Te Korowai Hauora o Hauraki – Whitianga",
         "pho": "Hauraki PHO",
         "phone": "Ph - 07 869  5244",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 10.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -6140,8 +6640,33 @@
         ],
         "name": "Waihi Family Doctors",
         "pho": "Hauraki PHO",
-        "phone": "Practice Manager-Raewyn Norman 078632112, 0211661718  orThis email address is being protected from spambots. You need JavaScript enabled to view it.//<!--\n document.getElementById('cloak95774').innerHTML = '';\n var prefix = '&#109;a' + 'i&#108;' + '&#116;o';\n var path = 'hr' + 'ef' + '=';\n var addy95774 = 'pm' + '&#64;';\n addy95774 = addy95774 + 'w&#97;&#105;h&#105;f&#97;m&#105;lyd&#111;ct&#111;rs' + '&#46;' + 'c&#111;' + '&#46;' + 'nz';\n var addy_text95774 = 'pm' + '&#64;' + 'w&#97;&#105;h&#105;f&#97;m&#105;lyd&#111;ct&#111;rs' + '&#46;' + 'c&#111;' + '&#46;' + 'nz';\n document.getElementById('cloak95774').innerHTML += '<a ' + path + '\\'' + prefix + ':' + addy95774 + '\\'>'+addy_text95774+'<\\/a>';\n //-->",
-        "prices": [],
+        "phone": "Practice Manager-Raewyn Norman 078632112, 0211661718  orThis email address is being protected from spambots. You need JavaScript enabled to view it.//<!--\n document.getElementById('cloak19413').innerHTML = '';\n var prefix = '&#109;a' + 'i&#108;' + '&#116;o';\n var path = 'hr' + 'ef' + '=';\n var addy19413 = 'pm' + '&#64;';\n addy19413 = addy19413 + 'w&#97;&#105;h&#105;f&#97;m&#105;lyd&#111;ct&#111;rs' + '&#46;' + 'c&#111;' + '&#46;' + 'nz';\n var addy_text19413 = 'pm' + '&#64;' + 'w&#97;&#105;h&#105;f&#97;m&#105;lyd&#111;ct&#111;rs' + '&#46;' + 'c&#111;' + '&#46;' + 'nz';\n document.getElementById('cloak19413').innerHTML += '<a ' + path + '\\'' + prefix + ':' + addy19413 + '\\'>'+addy_text19413+'<\\/a>';\n //-->",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 15.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
         "url": "http://www.haurakipho.org.nz/medical-centres/our-medical-centres"
     },
     {
@@ -7438,6 +7963,1930 @@
             }
         ],
         "url": "http://www.marlboroughpho.org.nz/Surgery_WairauCommunityClinic.htm"
+    },
+    {
+        "address": "113 Heuheu Street, P O Box 747, Taupo, Taupo",
+        "coordinates": [
+            -38.6892491,
+            176.0761407
+        ],
+        "name": "Taupo Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 378 7060",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/taupo-health-centre/241/contact"
+    },
+    {
+        "address": "113 Heuheu Street, P O Box 747, Taupo, Taupo",
+        "coordinates": [
+            -38.6892491,
+            176.0761407
+        ],
+        "name": "Taupo Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 378 7060",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/taupo-health-centre/241/contact"
+    },
+    {
+        "address": "109 Tongariro Street, P O Box 53, Taupo, Taupo",
+        "coordinates": [
+            -38.6853894,
+            176.0704305
+        ],
+        "name": "Lake Surgery",
+        "pho": "Midlands Health Network",
+        "phone": "07 378 6294",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/lake-surgery-taupo/299/contact"
+    },
+    {
+        "address": "28 Tautahanga Road, P O Box 58, Turangi, Taupo",
+        "coordinates": [
+            -38.9879736,
+            175.8072477
+        ],
+        "name": "Pihanga Health",
+        "pho": "Midlands Health Network",
+        "phone": "07 384 7576",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/pihanga-health/307/contact"
+    },
+    {
+        "address": "134 Derby Street, P O Box 672, Gisborne, Gisborne",
+        "coordinates": [
+            -38.6645122,
+            178.0226413
+        ],
+        "name": "City Medical",
+        "pho": "Midlands Health Network",
+        "phone": "06 868 6104",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/city-medical-gisborne-limited/315/contact"
+    },
+    {
+        "address": "75 Customhouse Street, , Gisborne, Gisborne",
+        "coordinates": [
+            -38.6699891,
+            178.025246
+        ],
+        "name": "Three Rivers Medical",
+        "pho": "Midlands Health Network",
+        "phone": "06 867 7411",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/three-rivers-medical-centre/335/contact"
+    },
+    {
+        "address": "8 Romeo Street, PO Box 90, Stratford, Taranaki",
+        "coordinates": [
+            -39.3480588,
+            174.2859579
+        ],
+        "name": "Avon Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 765 5454",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 15.0
+            },
+            {
+                "age": 18,
+                "price": 20.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/avon-medical-centre/486/contact"
+    },
+    {
+        "address": "Unit 7, 17 Nobs Line, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.049934,
+            174.0949677
+        ],
+        "name": "Bellomo Family Health",
+        "pho": "Midlands Health Network",
+        "phone": "06 757 2222",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 23.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/bellomo-family-health/508/contact"
+    },
+    {
+        "address": "99 Tukapa Street, P O Box 5002, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0740728,
+            174.0595067
+        ],
+        "name": "Carefirst",
+        "pho": "Midlands Health Network",
+        "phone": "06 753 9505",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/carefirst-medical-centre/518/contact"
+    },
+    {
+        "address": "72 Vivian Street, PO Box 357, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0607253,
+            174.0696355
+        ],
+        "name": "Central Medical",
+        "pho": "Midlands Health Network",
+        "phone": "06 758 6666",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 43.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/central-medical-centre/556/contact"
+    },
+    {
+        "address": "125 Vivian Street, PO Box 509, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0625101,
+            174.0656981
+        ],
+        "name": "City West Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 758 0863",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 30.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/city-west-medical-centre/603/contact"
+    },
+    {
+        "address": "283 Devon Street West , P O Box 461, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0615491,
+            174.0627982
+        ],
+        "name": "Devon Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 759 1888",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/devon-medical-centre/617/contact"
+    },
+    {
+        "address": "12 Brown St, , Inglewood, Taranaki",
+        "coordinates": [
+            -39.1557011,
+            174.2043079
+        ],
+        "name": "Dr Marie Fonseka",
+        "pho": "Midlands Health Network",
+        "phone": "06 756 7227",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 32.0
+            },
+            {
+                "age": 65,
+                "price": 32.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/dr-marie-fonseka/633/contact"
+    },
+    {
+        "address": "488 Devon Street East, , New Plymouth, Taranaki",
+        "coordinates": [
+            -39.051058,
+            174.0976437
+        ],
+        "name": "Eastside Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 757 3111",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 45.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/eastside-medical-centre/645/contact"
+    },
+    {
+        "address": "132 High Street, P O Box 141, Eltham, Taranaki",
+        "coordinates": [
+            -39.4313448,
+            174.2996837
+        ],
+        "name": "Eltham Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 764 8702",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/eltham-health-centre/671/contact"
+    },
+    {
+        "address": "70 Vivian Street, PO Box 434, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0607703,
+            174.0698048
+        ],
+        "name": "Family Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 758 7508",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 17.0
+            },
+            {
+                "age": 18,
+                "price": 32.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/family-health-centre/683/contact"
+    },
+    {
+        "address": "12 Brown Street, PO Box 224, Inglewood, Taranaki",
+        "coordinates": [
+            -39.1557011,
+            174.2043079
+        ],
+        "name": "Inglewood Medical Centre - Dr. Jones",
+        "pho": "Midlands Health Network",
+        "phone": "06 756 7777",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 31.0
+            },
+            {
+                "age": 25,
+                "price": 31.0
+            },
+            {
+                "age": 45,
+                "price": 31.0
+            },
+            {
+                "age": 65,
+                "price": 30.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/inglewood-medical-centre-dr-jones/699/contact"
+    },
+    {
+        "address": "2 Smith Road, , New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0710994,
+            174.1047733
+        ],
+        "name": "Merrilands Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 758 8773",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 40.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/merrilands-medical-centre/751/contact"
+    },
+    {
+        "address": "65 Victoria Street, P O Box 283, Hawera, Taranaki",
+        "coordinates": [
+            -39.5883348,
+            174.2795389
+        ],
+        "name": "Mountainview Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 278 0104",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 4300.0
+            },
+            {
+                "age": 45,
+                "price": 43.0
+            },
+            {
+                "age": 65,
+                "price": 38.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/mountainview-medical-centre/765/contact"
+    },
+    {
+        "address": "Unit 16, 17 Nobs Line, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.049934,
+            174.0949677
+        ],
+        "name": "Strandon Health",
+        "pho": "Midlands Health Network",
+        "phone": "06 769 9567",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 18.5
+            },
+            {
+                "age": 18,
+                "price": 20.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/strandon-health/832/contact"
+    },
+    {
+        "address": "56 Vivian Street, P O Box 142, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0606669,
+            174.0707837
+        ],
+        "name": "Vivian Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 758 5015",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 29.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 45.5
+            },
+            {
+                "age": 45,
+                "price": 46.0
+            },
+            {
+                "age": 65,
+                "price": 42.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/vivian-medical-centre/854/contact"
+    },
+    {
+        "address": "Havelock Street , P O Box 54, Opunake, Taranaki",
+        "coordinates": [
+            -39.4539553,
+            173.8582237
+        ],
+        "name": "Opunake Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 761 7324",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/opunake-medical-centre/787/contact"
+    },
+    {
+        "address": "36 Maratahu Street, P O Box 5135, New Plymouth, Taranaki",
+        "coordinates": [
+            -39.0686943,
+            174.0679481
+        ],
+        "name": "Tui Ora Family Health",
+        "pho": "Midlands Health Network",
+        "phone": "06 759 7310",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/tui-ora-family-health/840/contact"
+    },
+    {
+        "address": "41 Hunter Street, PO Box 594, Hawera, Taranaki",
+        "coordinates": [
+            -39.5863523,
+            174.2668625
+        ],
+        "name": "Ngati Ruanui Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "06 278 1310",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/ngati-ruanui-healthcare/1653/contact"
+    },
+    {
+        "address": "Cnr Alpha and Dick Streets , P O Box 125 , Cambridge, Waikato",
+        "coordinates": [
+            -37.891119,
+            175.4671792
+        ],
+        "name": "Cambridge Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 827 7184",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/cambridge-medical-centre/1/contact"
+    },
+    {
+        "address": "129 Pembroke Street, , Hamilton, Waikato",
+        "coordinates": [
+            -37.8029551,
+            175.2812851
+        ],
+        "name": "Clarence Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 838 3145",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 24.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/clarence-medical-centre/172/contact"
+    },
+    {
+        "address": "55 Studholme Street , P O Box 225 , Morrinsville, Waikato",
+        "coordinates": [
+            -37.6571131,
+            175.5271092
+        ],
+        "name": "Dallas Clinic",
+        "pho": "Midlands Health Network",
+        "phone": "07 889 3809",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 23.5
+            },
+            {
+                "age": 18,
+                "price": 28.0
+            },
+            {
+                "age": 25,
+                "price": 42.5
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/dallas-clinic/6/contact"
+    },
+    {
+        "address": "Cnr Alpha and Dick Streets , P O Box 125 , Cambridge, Waikato",
+        "coordinates": [
+            -37.891119,
+            175.4671792
+        ],
+        "name": "Chartwell Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 827 7184",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 15.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/cambridge-medical-centre/1/contact"
+    },
+    {
+        "address": "1021 Heaphy Terrace, Fairfield, Hamilton, Waikato",
+        "coordinates": [
+            -37.7713366,
+            175.2825814
+        ],
+        "name": "Fairfield Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 855 2079",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 19.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/fairfield-medical-centre/190/contact"
+    },
+    {
+        "address": "284 Peachgrove Road, P O Box 14 121, Hamilton, Waikato",
+        "coordinates": [
+            -37.7712758,
+            175.2925286
+        ],
+        "name": "Five Cross Roads Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 855 7824",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/five-cross-roads-medical-centre/209/contact"
+    },
+    {
+        "address": "2 Endeavour Avenue, Flagstaff, Hamilton, Waikato",
+        "coordinates": [
+            -37.7386904,
+            175.2545795
+        ],
+        "name": "Flagstaff Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 854 0189",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 46.0
+            },
+            {
+                "age": 25,
+                "price": 46.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/flagstaff-medical-centre/225/contact"
+    },
+    {
+        "address": "1 Urlich Ave, , Hamilton, Waikato",
+        "coordinates": [
+            -37.8168604,
+            175.2830021
+        ],
+        "name": "Glenview Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 843 4429",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 45.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/glenview-medical-centre/237/contact"
+    },
+    {
+        "address": "16 Beale Street, P O Box 4096, Hamilton, Waikato",
+        "coordinates": [
+            -37.7896211,
+            175.2926631
+        ],
+        "name": "Hamilton East Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 839 1232",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/hamilton-east-medical-centre/367/contact"
+    },
+    {
+        "address": "Cnr Dent & Ranui Street, P O Box 54, Ngatea, Thames Valley",
+        "coordinates": [
+            -37.27420765151504,
+            175.49577850108028
+        ],
+        "name": "Hauraki Plains Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 867 7521",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 29.0
+            },
+            {
+                "age": 25,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/hauraki-plains-health-centre/1101/contact"
+    },
+    {
+        "address": "28 Church Street, , Te Aroha, Thames Valley",
+        "coordinates": [
+            -37.5412212,
+            175.7120907
+        ],
+        "name": "Health Te Aroha",
+        "pho": "Midlands Health Network",
+        "phone": "07 884 8053",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 18.0
+            },
+            {
+                "age": 18,
+                "price": 25.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/health-te-aroha/1109/contact"
+    },
+    {
+        "address": "153 Cambridge Road, P O Box 11 102 , Hamilton, Waikato",
+        "coordinates": [
+            -37.7990315,
+            175.3164842
+        ],
+        "name": "Hillcrest Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 856 5087",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 16.0
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 25,
+                "price": 45.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/hillcrest-medical-centre/443/contact"
+    },
+    {
+        "address": "Shop 4, Mega Centre, 670 Cambridge Road, P O Box 348, Te Awamutu, Waikato",
+        "coordinates": [
+            -38.006856568409844,
+            175.33884894278867
+        ],
+        "name": "Mahoe Med Limited",
+        "pho": "Midlands Health Network",
+        "phone": "07 872 0923",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 28.0
+            },
+            {
+                "age": 25,
+                "price": 47.5
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/mahoe-med/75/contact"
+    },
+    {
+        "address": "87 Albert Street, P O Box 20, Whitianga, Thames Valley",
+        "coordinates": [
+            -36.8365746,
+            175.7037601
+        ],
+        "name": "Mercury Bay Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 866 5911",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 12.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/mercury-bay-medical-centre/1121/contact"
+    },
+    {
+        "address": "19 Canada Street, P O Box 86, Morrinsville, Waikato",
+        "coordinates": [
+            -37.6578445,
+            175.5310897
+        ],
+        "name": "Morrinsville Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 889 5126",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 27.0
+            },
+            {
+                "age": 18,
+                "price": 42.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/morrinsville-medical-centre/79/contact"
+    },
+    {
+        "address": "10B Pukete Road, Te Rapa, Hamilton, Waikato",
+        "coordinates": [
+            -37.7506675,
+            175.2411909
+        ],
+        "name": "NorthCare Pukete and Thomas Roads",
+        "pho": "Midlands Health Network",
+        "phone": "0800 ITS MY HEALTH (0800 487 694)",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/northcare-pukete-road/514/contact"
+    },
+    {
+        "address": "554 River Road, , Hamilton, Waikato",
+        "coordinates": [
+            -37.7701639,
+            175.2704964
+        ],
+        "name": "River Road Family Practice",
+        "pho": "Midlands Health Network",
+        "phone": "07 853 5099",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 60.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/river-road-family-practice/677/contact"
+    },
+    {
+        "address": "91 Kahikatea Drive, , Hamilton, Waikato",
+        "coordinates": [
+            -37.8083426,
+            175.2713924
+        ],
+        "name": "South City Health Ltd",
+        "pho": "Midlands Health Network",
+        "phone": "07 838 2323",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 44.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/south-city-health-ltd/695/contact"
+    },
+    {
+        "address": "47 Wilson Road, P O Box 19, Waihi Beach, Western Bay of Plenty",
+        "coordinates": [
+            -37.4111806,
+            175.9404414
+        ],
+        "name": "Waihi Beach Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 863 5757",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 15.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/waihi-beach-medical-centre/1165/contact"
+    },
+    {
+        "address": "6 Avalon Drive, P O Box 15 308, Hamilton, Waikato",
+        "coordinates": [
+            -37.779788,
+            175.2491293
+        ],
+        "name": "Avalon Medical",
+        "pho": "Midlands Health Network",
+        "phone": "07 846 0082",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/avalon-medical/935/contact"
+    },
+    {
+        "address": "31 Vercoe Road, Beerescourt, Hamilton, Waikato",
+        "coordinates": [
+            -37.7651636,
+            175.2599479
+        ],
+        "name": "Beerescourt Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 849 7200",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 5.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/beerescourt-medical-practice/154/contact"
+    },
+    {
+        "address": "21 Whatawhata Road, Dinsdale, Hamilton, Waikato",
+        "coordinates": [
+            -37.7953367,
+            175.2469095
+        ],
+        "name": "Dinsdale Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 847 8425",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/dinsdale-medical-centre/180/contact"
+    },
+    {
+        "address": "57 Bryce Street , , Cambridge, Waikato",
+        "coordinates": [
+            -37.8884208,
+            175.4644292
+        ],
+        "name": "Drs Pearson and Nyce",
+        "pho": "Midlands Health Network",
+        "phone": "07 827 5412",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 15.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/drs-pearson-and-nyce/22/contact"
+    },
+    {
+        "address": "8 Bridge Street, P O Box 173, Huntly, Waikato",
+        "coordinates": [
+            -37.5611934,
+            175.1513799
+        ],
+        "name": "Huntly West Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 828 7818",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/huntly-west-medical-centre-ltd/1035/contact"
+    },
+    {
+        "address": "10 Tainui Street, P O Box 11, Kawhia, Waikato",
+        "coordinates": [
+            -38.064201,
+            174.8222692
+        ],
+        "name": "Kawhia Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 871 0884",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 15.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/kawhia-health-centre/976/contact"
+    },
+    {
+        "address": "12 Hinewai Street, P O Box 7, Otorohanga, Waikato",
+        "coordinates": [
+            -38.1839966,
+            175.2098124
+        ],
+        "name": "Oto Medical Ltd",
+        "pho": "Midlands Health Network",
+        "phone": "07 873 7079",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/oto-med-ltd/982/contact"
+    },
+    {
+        "address": "Gate 3, 35-75 Maraetai Road, P O Box 48, Tokoroa, Waikato",
+        "coordinates": [
+            -38.23008545042015,
+            175.85991413695683
+        ],
+        "name": "Tokoroa Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 886 8777",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/tokoroa-medical-centre/1059/contact"
+    },
+    {
+        "address": "38 Tuhikaramea Road, Dinsdale, Hamilton, Waikato",
+        "coordinates": [
+            -37.7963644,
+            175.2470036
+        ],
+        "name": "Westend Health Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 847 4500",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/westend-health-centre/959/contact"
     },
     {
         "address": "109 Queen Street,Auckland City, Auckland",
