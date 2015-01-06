@@ -1728,6 +1728,14 @@
             {
                 "age": 0,
                 "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 36.0
+            },
+            {
+                "age": 18.0,
+                "price": 44.0
             }
         ],
         "url": "http://www.chchpho.org.nz/provider-riccarton.php"
@@ -1769,7 +1777,15 @@
         "prices": [
             {
                 "age": 0,
+                "price": 999
+            },
+            {
+                "age": 10,
                 "price": 0
+            },
+            {
+                "age": 25,
+                "price": 999
             }
         ],
         "url": "http://www.chchpho.org.nz/provider-298.php"
@@ -4917,7 +4933,44 @@
                 "price": 14.0
             }
         ],
-        "url": "/index.php?option=com_content&view=article&id=15&Itemid=149"
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=15&Itemid=149"
+    },
+    {
+        "address": "Whakatane Medical Practice Ltd   78 King Street Whakatane   Bay of Plenty, NZ",
+        "coordinates": [
+            -37.9534115,
+            176.9908015
+        ],
+        "name": "Med Central",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=17&Itemid=156"
     },
     {
         "address": "Phoenix House, Pyne Street, WHAKATANE",
@@ -4954,10 +5007,84 @@
                 "price": 14.0
             }
         ],
-        "url": "/index.php?option=com_content&view=article&id=18&Itemid=157"
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=18&Itemid=157"
     },
     {
-        "address": "26 Islington St, Kawerau 3127",
+        "address": "252 The Strand, P O Box 32, WHAKATANE",
+        "coordinates": [
+            -37.9522433,
+            176.9927185
+        ],
+        "name": "Total Health Doctors",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=20&Itemid=159"
+    },
+    {
+        "address": "104 Onslow St   Kawerau 3127",
+        "coordinates": [
+            -38.0903763,
+            176.7008791
+        ],
+        "name": "Tarawera Medical Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=22&Itemid=163"
+    },
+    {
+        "address": "26 Islington Street, Kawerau  (View Map)   Phone 07 323 6249   Fax 07 323 6349   Dr Emily Hermanson, Dr Eddie Barnett",
         "coordinates": [
             -38.0861347,
             176.7031613
@@ -4991,7 +5118,7 @@
                 "price": 14.0
             }
         ],
-        "url": "/index.php?option=com_content&view=article&id=13&Itemid=140"
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=13&Itemid=140"
     },
     {
         "address": "riverslea mall, college road, edgecumbe, new zealand",
@@ -5028,7 +5155,7 @@
                 "price": 14.0
             }
         ],
-        "url": "/index.php?option=com_content&view=article&id=21&Itemid=162"
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=21&Itemid=162"
     },
     {
         "address": "262 Pohutukawa Avenue, OHOPE, new zealand",
@@ -5065,7 +5192,7 @@
                 "price": 14.0
             }
         ],
-        "url": "/index.php?option=com_content&view=article&id=19&Itemid=158"
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=19&Itemid=158"
     },
     {
         "address": "94 Church Street, OPOTIKI, new zealand",
@@ -5102,7 +5229,81 @@
                 "price": 14.0
             }
         ],
-        "url": "/index.php?option=com_content&view=article&id=11&Itemid=138"
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=11&Itemid=138"
+    },
+    {
+        "address": "32A King Street, Opotiki",
+        "coordinates": [
+            -38.0066033,
+            177.2854971
+        ],
+        "name": "Toi Ora",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=23&Itemid=161"
+    },
+    {
+        "address": "117 Church Street, Opotiki",
+        "coordinates": [
+            -38.0045744,
+            177.2843756
+        ],
+        "name": "Whakatohea Health Centre",
+        "pho": "Eastern Bay PHO",
+        "phone": "See website",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 10.0
+            },
+            {
+                "age": 18,
+                "price": 14.0
+            },
+            {
+                "age": 25,
+                "price": 14.0
+            },
+            {
+                "age": 45,
+                "price": 14.0
+            },
+            {
+                "age": 65,
+                "price": 14.0
+            }
+        ],
+        "url": "http://www.ebpha.org.nz/index.php?option=com_content&view=article&id=24&Itemid=160"
     },
     {
         "address": "44 Wakelin Road Beachlands",
