@@ -120,7 +120,7 @@ app.TableView = Backbone.View.extend({
 	initialize: function() {
 		this.$el.hide();
 		_.bindAll(this, 'render', 'changeRadius', 'refresh');
-		app.isMobile = window.matchMedia("only screen and (max-width: 960px)");
+		app.isMobile = window.matchMedia("only screen and (max-width: 1024px)");
 		this.searchOptionsElement = this.$('#search-options');
 		this.backgridGridElement = this.$('#backgrid-grid');
 		this.BackgridGrid = new Backgrid.Grid({
