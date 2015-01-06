@@ -100,6 +100,7 @@ var PracticesCollection = Backbone.Collection.extend({
 	},
 
 	initializeModels: function(age, addressCoords, callback) {
+		var self = this;
 		this.each (function(model) {
 			model.getDistance(addressCoords);
 			model.getPrice(age);
