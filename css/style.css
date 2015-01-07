@@ -32,13 +32,13 @@ footer {
 .container {
 	height: 100%;
 	margin:0 auto 50px;
-	width: 580px;
+	max-width: 580px;
 	-webkit-animation-duration: 0.8s;
   	-moz-animation-duration: 0.8s;
 }
 
 #table-view {
-	padding: 15px;
+	padding: 15px 0px;
 	height: 100%;
 	width: 100%;
 }
