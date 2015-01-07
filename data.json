@@ -7907,6 +7907,881 @@
         "url": "http://www.healthhb.co.nz/our-practices/hastings/totara-health-centre-nelson-street/"
     },
     {
+        "address": "840 High Street, Lower Hutt",
+        "coordinates": [
+            -41.197697,
+            174.937943
+        ],
+        "name": "Avalon Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 567 7359",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 25.5
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "10 Criterion Lane, Upper Hutt",
+        "coordinates": [
+            -41.1252804,
+            175.0672822
+        ],
+        "name": "Dr Dunn's Surgery",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 528 9099",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 15.3
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 38.5
+            },
+            {
+                "age": 65,
+                "price": 34.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "29 Kings Crescent, Lower Hutt",
+        "coordinates": [
+            -41.2079044,
+            174.9094343
+        ],
+        "name": "Dr Hans Snoek",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 569 5601",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 25.0
+            },
+            {
+                "age": 18,
+                "price": 37.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 37.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "102 Oxford Terrace, Lower Hutt",
+        "coordinates": [
+            -41.2073825,
+            174.9294724
+        ],
+        "name": "Epuni Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 567 1217",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 31.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 38.0
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 36.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "786 Fergusson Drive, Upper Hutt",
+        "coordinates": [
+            -41.1253295,
+            175.0643225
+        ],
+        "name": "Fergusson Drive Surgery",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 528 3048",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 38.0
+            },
+            {
+                "age": 18,
+                "price": 38.5
+            },
+            {
+                "age": 25,
+                "price": 43.0
+            },
+            {
+                "age": 45,
+                "price": 43.0
+            },
+            {
+                "age": 65,
+                "price": 37.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "5 Fitzherbert Road, Wainuiomata",
+        "coordinates": [
+            -41.2601743,
+            174.9470734
+        ],
+        "name": "Fitzherbert Road Medical",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 564 3497",
+        "prices": [],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "723A Fergusson Drive, Upper Hutt",
+        "coordinates": [
+            -41.1254813,
+            175.058222
+        ],
+        "name": "Gain Health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 528 5353",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 38.0
+            },
+            {
+                "age": 25,
+                "price": 42.0
+            },
+            {
+                "age": 45,
+                "price": 42.5
+            },
+            {
+                "age": 65,
+                "price": 37.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "Level 1, 5 Raroa Road, Lower Hutt",
+        "coordinates": [
+            -41.2069807,
+            174.9090734
+        ],
+        "name": "Hutt City Health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 576 2009",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 28.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 34.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "6D The Strand, Wainuiomata",
+        "coordinates": [
+            -41.2598508,
+            174.9420977
+        ],
+        "name": "Hutt City Health Centre(WOA)",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 920 2280",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 28.0
+            },
+            {
+                "age": 25,
+                "price": 41.0
+            },
+            {
+                "age": 45,
+                "price": 41.0
+            },
+            {
+                "age": 65,
+                "price": 34.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "51 Farmer Cres, Pomare, Lower Hutt",
+        "coordinates": [
+            -41.2091655,
+            174.9080557
+        ],
+        "name": "Hutt Union Community Health Pomare",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 567 6414",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 5.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "Hutt Union Community Health Petone",
+        "coordinates": [
+            -41.2270384,
+            174.8851015
+        ],
+        "name": "Hutt Union Community Health Petone",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 568 6392",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 0.0
+            },
+            {
+                "age": 18,
+                "price": 15.0
+            },
+            {
+                "age": 25,
+                "price": 15.0
+            },
+            {
+                "age": 45,
+                "price": 15.0
+            },
+            {
+                "age": 65,
+                "price": 5.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "60 Bloomfield Terrace, Lower Hutt",
+        "coordinates": [
+            -41.2088249,
+            174.9086706
+        ],
+        "name": "Kopata Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 569 9009",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 37.0
+            },
+            {
+                "age": 18,
+                "price": 39.0
+            },
+            {
+                "age": 25,
+                "price": 39.0
+            },
+            {
+                "age": 45,
+                "price": 39.0
+            },
+            {
+                "age": 65,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "49-51 Main Street, Lower Hutt",
+        "coordinates": [
+            -41.2659255,
+            174.9504523
+        ],
+        "name": "Main Street Surgery",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 527 7401",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 30.5
+            },
+            {
+                "age": 18,
+                "price": 32.5
+            },
+            {
+                "age": 25,
+                "price": 37.5
+            },
+            {
+                "age": 45,
+                "price": 38.0
+            },
+            {
+                "age": 65,
+                "price": 33.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "11 Hector Street, Lower Hutt",
+        "coordinates": [
+            -41.2189067,
+            174.8771295
+        ],
+        "name": "Manuka Health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 939 1299",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "149 Muritai Road, Eastbourne",
+        "coordinates": [
+            -41.2903549,
+            174.8984134
+        ],
+        "name": "Muritai Health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 562 7606",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 28.0
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 40.0
+            },
+            {
+                "age": 45,
+                "price": 40.0
+            },
+            {
+                "age": 65,
+                "price": 39.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "39 Treadwell Street",
+        "coordinates": [
+            -41.1984974,
+            174.9486259
+        ],
+        "name": "Naenae Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 567 1066",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 34.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 29.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "32 Richmond Street, Petone",
+        "coordinates": [
+            -41.2259499,
+            174.8774874
+        ],
+        "name": "Petone Medical Centre 2009 Ltd",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 939 9868",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "35 Pretoria Street, Petone",
+        "coordinates": [
+            -41.2069335,
+            174.9136508
+        ],
+        "name": "Pretoria Street Surgery",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 939 3330",
+        "prices": [],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "7 Kiln Street, Upper Hutt",
+        "coordinates": [
+            -41.1480345,
+            175.0112524
+        ],
+        "name": "Silverstream Health Centre Ltd",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 527 7376",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 31.5
+            },
+            {
+                "age": 18,
+                "price": 40.0
+            },
+            {
+                "age": 25,
+                "price": 43.0
+            },
+            {
+                "age": 45,
+                "price": 43.0
+            },
+            {
+                "age": 65,
+                "price": 34.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "23 Ludham Crescent, Lower Hutt",
+        "coordinates": [
+            -41.2084498,
+            174.9308105
+        ],
+        "name": "Soma Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 569 4353",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 20.0
+            },
+            {
+                "age": 18,
+                "price": 35.0
+            },
+            {
+                "age": 25,
+                "price": 36.5
+            },
+            {
+                "age": 45,
+                "price": 35.0
+            },
+            {
+                "age": 65,
+                "price": 33.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "180 Stokes Valley Rd, Stokes Valley",
+        "coordinates": [
+            -41.1732908,
+            174.9821728
+        ],
+        "name": "Stokes Valley Health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 563 8200",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "1205 High Street, Taita",
+        "coordinates": [
+            -41.1796274,
+            174.9605362
+        ],
+        "name": "Taita Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 939 7390",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 11.5
+            },
+            {
+                "age": 18,
+                "price": 17.5
+            },
+            {
+                "age": 25,
+                "price": 17.5
+            },
+            {
+                "age": 45,
+                "price": 17.5
+            },
+            {
+                "age": 65,
+                "price": 17.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "Queen Street Carpark, Upper Hutt",
+        "coordinates": [
+            -41.1244327,
+            175.0707834
+        ],
+        "name": "Upper Hutt Health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 920 1800",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 32.0
+            },
+            {
+                "age": 18,
+                "price": 41.0
+            },
+            {
+                "age": 25,
+                "price": 44.5
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 31.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "148 Whitesline East, Waiwhetu",
+        "coordinates": [
+            -41.2241214,
+            174.9214725
+        ],
+        "name": "Waiwhetu Medical Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 569  2436",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 22.0
+            },
+            {
+                "age": 18,
+                "price": 28.0
+            },
+            {
+                "age": 25,
+                "price": 31.0
+            },
+            {
+                "age": 45,
+                "price": 31.0
+            },
+            {
+                "age": 65,
+                "price": 20.5
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
+        "address": "7 The Strand Wainuiomata",
+        "coordinates": [
+            -41.2594691,
+            174.9415366
+        ],
+        "name": "Whai Oranga O Te Iwi health Centre",
+        "pho": "Te Awakairangi Health Network",
+        "phone": "(04) 564 6966",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 5.0
+            },
+            {
+                "age": 18,
+                "price": 17.0
+            },
+            {
+                "age": 25,
+                "price": 17.0
+            },
+            {
+                "age": 45,
+                "price": 17.0
+            },
+            {
+                "age": 65,
+                "price": 17.0
+            }
+        ],
+        "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
+    },
+    {
         "address": "Francis Street Medical, Lister Court,, 16 Francis Street, BLENHEIM",
         "coordinates": [
             -41.517338,
