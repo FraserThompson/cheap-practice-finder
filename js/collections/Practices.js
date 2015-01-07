@@ -101,10 +101,14 @@ var PracticesCollection = Backbone.Collection.extend({
 
 	initializeModels: function(age, addressCoords, callback) {
 		var self = this;
+		var remove_these = [];
 		this.each (function(model) {
 			model.getDistance(addressCoords);
-			model.getPrice(age);
+			if (model.getPrice(age) == -1){
+				remove_these.push(model);
+			};
 		});
+		this.remove(remove_these);
 		callback();
 	}
 
