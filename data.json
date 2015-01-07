@@ -8100,7 +8100,32 @@
         "name": "Fitzherbert Road Medical",
         "pho": "Te Awakairangi Health Network",
         "phone": "(04) 564 3497",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 28.5
+            },
+            {
+                "age": 18,
+                "price": 30.5
+            },
+            {
+                "age": 25,
+                "price": 32.0
+            },
+            {
+                "age": 45,
+                "price": 34.0
+            },
+            {
+                "age": 65,
+                "price": 30.5
+            }
+        ],
         "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
     },
     {
@@ -8519,7 +8544,32 @@
         "name": "Pretoria Street Surgery",
         "pho": "Te Awakairangi Health Network",
         "phone": "(04) 939 3330",
-        "prices": [],
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6,
+                "price": 46.0
+            },
+            {
+                "age": 18,
+                "price": 46.0
+            },
+            {
+                "age": 25,
+                "price": 47.0
+            },
+            {
+                "age": 45,
+                "price": 47.0
+            },
+            {
+                "age": 65,
+                "price": 41.0
+            }
+        ],
         "url": "http://www.teawakairangihealth.org.nz/practice-and-fees"
     },
     {
@@ -21807,11 +21857,15 @@
         "prices": [
             {
                 "age": 0,
+                "price": 999
+            },
+            {
+                "age": 10,
                 "price": 0
             },
             {
-                "age": 6.0,
-                "price": 10.0
+                "age": 25,
+                "price": 999
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=102"
