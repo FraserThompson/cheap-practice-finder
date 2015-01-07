@@ -18672,7 +18672,7 @@
             },
             {
                 "age": 45.0,
-                "price": 44.0
+                "price": 45.0
             },
             {
                 "age": 65.0,
@@ -18906,23 +18906,23 @@
             },
             {
                 "age": 6.0,
-                "price": 32.0
+                "price": 33.0
             },
             {
                 "age": 18.0,
-                "price": 46.5
+                "price": 47.5
             },
             {
                 "age": 25.0,
-                "price": 46.5
+                "price": 47.5
             },
             {
                 "age": 45.0,
-                "price": 46.5
+                "price": 47.5
             },
             {
                 "age": 65.0,
-                "price": 32.0
+                "price": 33.0
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=65"
@@ -20438,6 +20438,742 @@
             }
         ],
         "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=10"
+    },
+    {
+        "address": "106 Don Street, INVERCARGILL9810",
+        "coordinates": [
+            -46.4105509,
+            168.3546024
+        ],
+        "name": "Bester McKay Family Doctors",
+        "pho": "Southern PHO",
+        "phone": "03 218 6325",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 38.0
+            },
+            {
+                "age": 25.0,
+                "price": 42.0
+            },
+            {
+                "age": 45.0,
+                "price": 42.0
+            },
+            {
+                "age": 65.0,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=19"
+    },
+    {
+        "address": "63 Catherine Street, INVERCARGILL 9810, , , , Invercargill",
+        "coordinates": [
+            -46.3958452,
+            168.365916
+        ],
+        "name": "Catherine Street Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 217 6656",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 37.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=21"
+    },
+    {
+        "address": "105 Don Street, INVERCARGILL 9840",
+        "coordinates": [
+            -46.4109638,
+            168.3546104
+        ],
+        "name": "Doctor Finlayson's Practice",
+        "pho": "Southern PHO",
+        "phone": "03 218 3434",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 35.0
+            },
+            {
+                "age": 25.0,
+                "price": 35.0
+            },
+            {
+                "age": 45.0,
+                "price": 35.0
+            },
+            {
+                "age": 65.0,
+                "price": 35.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=23"
+    },
+    {
+        "address": "69 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4109069,
+            168.3521167
+        ],
+        "name": "Doctor Johri's Practice",
+        "pho": "Southern PHO",
+        "phone": "03 218 8669",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 24.5
+            },
+            {
+                "age": 18.0,
+                "price": 24.5
+            },
+            {
+                "age": 25.0,
+                "price": 48.5
+            },
+            {
+                "age": 45.0,
+                "price": 48.5
+            },
+            {
+                "age": 65.0,
+                "price": 36.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=27"
+    },
+    {
+        "address": "Suite 1, 112 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4105505,
+            168.3550502
+        ],
+        "name": "Doctors Allen, Adam & Cleveland",
+        "pho": "Southern PHO",
+        "phone": "03 218 6343",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 37.0
+            },
+            {
+                "age": 18.0,
+                "price": 39.5
+            },
+            {
+                "age": 25.0,
+                "price": 39.5
+            },
+            {
+                "age": 45.0,
+                "price": 39.5
+            },
+            {
+                "age": 65.0,
+                "price": 38.5
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=17"
+    },
+    {
+        "address": "60 Victoria Avenue, INVERCARGILL 9810",
+        "coordinates": [
+            -46.405535,
+            168.3483666
+        ],
+        "name": "Doctors Baillie and Corkill",
+        "pho": "Southern PHO",
+        "phone": "03 218 9112",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 26.0
+            },
+            {
+                "age": 18.0,
+                "price": 41.0
+            },
+            {
+                "age": 25.0,
+                "price": 41.0
+            },
+            {
+                "age": 45.0,
+                "price": 41.0
+            },
+            {
+                "age": 65.0,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=18"
+    },
+    {
+        "address": "75 Glengarry Crescent, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4018122,
+            168.3854613
+        ],
+        "name": "Glengarry Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 217 4863",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 27.0
+            },
+            {
+                "age": 18.0,
+                "price": 33.0
+            },
+            {
+                "age": 25.0,
+                "price": 37.0
+            },
+            {
+                "age": 45.0,
+                "price": 36.0
+            },
+            {
+                "age": 65.0,
+                "price": 36.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=25"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4105866,
+            168.3528971
+        ],
+        "name": "Invercargill Medical Centre ( Formerly Dr McKercher's Practice)",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 37.0
+            },
+            {
+                "age": 45.0,
+                "price": 37.0
+            },
+            {
+                "age": 65.0,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=28"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL",
+        "coordinates": [
+            -46.4109624,
+            168.3589808
+        ],
+        "name": "Invercargill Medical Centre (Formerly Dr De Croos)",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 29.0
+            },
+            {
+                "age": 18.0,
+                "price": 34.0
+            },
+            {
+                "age": 25.0,
+                "price": 34.0
+            },
+            {
+                "age": 45.0,
+                "price": 34.0
+            },
+            {
+                "age": 65.0,
+                "price": 34.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=22"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4105505,
+            168.3550502
+        ],
+        "name": "Invercargill Medical Centre (Formerly Dr Foote)",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 37.0
+            },
+            {
+                "age": 45.0,
+                "price": 37.0
+            },
+            {
+                "age": 65.0,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=24"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL  9810",
+        "coordinates": [
+            -46.4105505,
+            168.3550502
+        ],
+        "name": "Invercargill Medical Centre (Formerly Dr Henderson)",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 37.0
+            },
+            {
+                "age": 45.0,
+                "price": 37.0
+            },
+            {
+                "age": 65.0,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=26"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4109624,
+            168.3589808
+        ],
+        "name": "Invercargill Medical Centre (Formerly Dr Rambukwelle & Associates)",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 37.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 42.0
+            },
+            {
+                "age": 45.0,
+                "price": 42.0
+            },
+            {
+                "age": 65.0,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=30"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4105505,
+            168.3550502
+        ],
+        "name": "Invercargill Medical Centre (Formerly Dr Tooke)",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 37.0
+            },
+            {
+                "age": 25.0,
+                "price": 37.0
+            },
+            {
+                "age": 45.0,
+                "price": 37.0
+            },
+            {
+                "age": 65.0,
+                "price": 37.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=33"
+    },
+    {
+        "address": "10 Deveron Street, Invercargill",
+        "coordinates": [
+            -46.412243,
+            168.3535675
+        ],
+        "name": "Number 10 Youth One Stop Shop",
+        "pho": "Southern PHO",
+        "phone": "03 214 1013",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 10.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=102"
+    },
+    {
+        "address": "97 Gala Street, Queens Park, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4066054,
+            168.3529644
+        ],
+        "name": "Queens Park General Practice",
+        "pho": "Southern PHO",
+        "phone": "03 218 3189",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 30.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=29"
+    },
+    {
+        "address": "270 Elles Road, Strathern, INVERCARGILL 9812",
+        "coordinates": [
+            -46.4283857,
+            168.3616411
+        ],
+        "name": "South City Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 218 4043",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 35.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 42.0
+            },
+            {
+                "age": 45.0,
+                "price": 42.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=31"
+    },
+    {
+        "address": "169 Don Street, INVERCARGILL 9810",
+        "coordinates": [
+            -46.4105866,
+            168.3528971
+        ],
+        "name": "Terpstra Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 218 9116",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 42.0
+            },
+            {
+                "age": 18.0,
+                "price": 42.0
+            },
+            {
+                "age": 25.0,
+                "price": 44.0
+            },
+            {
+                "age": 45.0,
+                "price": 44.0
+            },
+            {
+                "age": 65.0,
+                "price": 50.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=32"
+    },
+    {
+        "address": "82 Elles Road, Georgetown, INVERCARGILL 9812",
+        "coordinates": [
+            -46.4192685,
+            168.3617298
+        ],
+        "name": "Vercoe Brown & Associates",
+        "pho": "Southern PHO",
+        "phone": "03 214 6222",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 26.0
+            },
+            {
+                "age": 18.0,
+                "price": 35.0
+            },
+            {
+                "age": 25.0,
+                "price": 42.0
+            },
+            {
+                "age": 45.0,
+                "price": 42.0
+            },
+            {
+                "age": 65.0,
+                "price": 42.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=34"
+    },
+    {
+        "address": "60 Victoria Avenue, Avenal, INVERCARGILL 9810",
+        "coordinates": [
+            -46.405535,
+            168.3483666
+        ],
+        "name": "Victoria Avenue Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 218 3282",
+        "prices": [],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=35"
+    },
+    {
+        "address": "1 Herbert Street, Gladstone, INVERCARGILL 9810",
+        "coordinates": [
+            -46.394977,
+            168.3477574
+        ],
+        "name": "Waihopai Health Services",
+        "pho": "Southern PHO",
+        "phone": "03 211 0999",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 47.0
+            },
+            {
+                "age": 18.0,
+                "price": 51.0
+            },
+            {
+                "age": 25.0,
+                "price": 51.0
+            },
+            {
+                "age": 45.0,
+                "price": 51.0
+            },
+            {
+                "age": 65.0,
+                "price": 51.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=36"
+    },
+    {
+        "address": "233 North Road, Waikiwi, INVERCARGILL 9810",
+        "coordinates": [
+            -46.3791755,
+            168.3472262
+        ],
+        "name": "Waikiwi Medical Centre",
+        "pho": "Southern PHO",
+        "phone": "03 215 8000",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0
+            },
+            {
+                "age": 6.0,
+                "price": 40.0
+            },
+            {
+                "age": 18.0,
+                "price": 40.0
+            },
+            {
+                "age": 25.0,
+                "price": 40.0
+            },
+            {
+                "age": 45.0,
+                "price": 40.0
+            },
+            {
+                "age": 65.0,
+                "price": 40.0
+            }
+        ],
+        "url": "http://www.southernpho.health.nz/info.php?pg=det&pid=37"
     },
     {
         "address": "76 Bureta Rd Tauranga",
