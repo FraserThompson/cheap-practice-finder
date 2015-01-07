@@ -71,10 +71,7 @@ var BackgridColumns = [
 	cell: Backgrid.NumberCell.extend({
 		render: function() {
 			this.$el.empty();
-			if (this.model.get(this.column.get('name')) == 999){
-				this.$el.html("N\\A");
-			}
-			else if (this.model.get(this.column.get('name')) != 1000){
+			if (this.model.get(this.column.get('name')) != 1000){
 				this.$el.html("$" + this.formatter.fromRaw(this.model.get(this.column.get('name'))));
 			} else {
 				this.$el.html("Unknown");

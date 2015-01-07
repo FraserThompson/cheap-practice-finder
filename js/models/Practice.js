@@ -34,6 +34,9 @@ app.PracticeModel = Backbone.DeepModel.extend({
 			}
 		}
 		this.set({price: this.prices[i].price});
+		if (this.prices[i].price == 999){
+			return -1;
+		}
 	},
 
 	getDistance: function(addressCoords) {
