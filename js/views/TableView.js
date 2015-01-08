@@ -135,15 +135,14 @@ app.TableView = Backbone.View.extend({
 			self.searchOptionsView.address = address;
 			self.searchOptionsView.render();
 			self.searchOptionsView.setRadius(self.model.get('radius'));
-			app.Practices.changeRadius(self.model.get('radius'), function() {
-				alert(app.Practices.length)
+			// app.Practices.changeRadius(self.model.get('radius'), function() {
 				self.BackgridGrid.render().sort('price', 'ascending');
 				self.$el.slideDown();
 				app.ActualRouter.navigate(
 	          	'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=' + self.model.get('radius'),
 	          	{trigger: false });
 				callback();
-			});
+			// });
 		}, function(message){
 			app.trigger('status:error', {errorMessage: message})
 			self.$el.slideDown();
