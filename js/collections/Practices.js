@@ -8,12 +8,16 @@ var PracticesCollection = Backbone.Collection.extend({
 	initialize: function() {
 		_.bindAll(this, 'initializeModels', 'changeRadius', 'fetch', 'parse');
 		this.removed = [];
+		this.jsondata = [];
 	},
 
 	parse: function() {
 		if (!this.jsondata){
 			alert("NO DATA WHEN PARSING");
-			this.jsondata = $.getJSON('data.json');
+			this.jsondata = $.getJSON('data.json', function(data) {
+				alert('before parseing:' + this.data.length);
+				return data;
+			});
 		}
 		alert('before parseing:' + this.jsondata.length);
 		return this.jsondata;
@@ -21,16 +25,14 @@ var PracticesCollection = Backbone.Collection.extend({
 
 	fetch: function(options) {
 		var self = this;
-		var trimmed = [];
 		this.removed = [];
 		$.getJSON('data.json', function(data) {
 			$.each(data, function(key, val) {
 				var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(options.location[0], options.location[1]));
 				if ((distance_between/1000) <= 15){
-					trimmed.push(val);
+					self.jsondata.push(val);
 				}
 			});
-			self.jsondata = trimmed;
 		});
 		return Backbone.Collection.prototype.fetch.call(this, options)
 	},
