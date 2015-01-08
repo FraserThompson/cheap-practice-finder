@@ -12,11 +12,6 @@ var PracticesCollection = Backbone.Collection.extend({
 	},
 
 	parse: function() {
-		if (!this.jsondata){
-			alert("NO DATA WHEN PARSING");
-		} else {
-			alert('before parseing:' + this.jsondata.length);
-		}
 		return this.jsondata;
 	},
 
@@ -30,7 +25,6 @@ var PracticesCollection = Backbone.Collection.extend({
 					self.jsondata.push(val);
 				}
 			});
-			alert('after fetching: ' + self.jsondata.length)
 			return Backbone.Collection.prototype.fetch.call(self, options)
 		});
 	},
