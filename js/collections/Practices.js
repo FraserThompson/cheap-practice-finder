@@ -8,6 +8,7 @@ var PracticesCollection = Backbone.Collection.extend({
 	initialize: function() {
 		_.bindAll(this, 'initializeModels', 'changeRadius', 'fetch', 'parse');
 		this.removed = [];
+		this.data = $.getJSON(this.url);
 	},
 
 	parse: function() {
