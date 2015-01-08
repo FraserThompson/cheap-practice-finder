@@ -4,22 +4,19 @@ var PracticesCollection = Backbone.Collection.extend({
 
 	model: app.PracticeModel,
 	url: 'data.json',
-	jsondata: [],
 
 	initialize: function() {
 		_.bindAll(this, 'initializeModels', 'changeRadius', 'fetch', 'parse');
 		this.removed = [];
+		this.jsondata = [];
 	},
 
 	parse: function() {
 		if (!this.jsondata){
 			alert("NO DATA WHEN PARSING");
-			this.jsondata = $.getJSON('data.json', function(data) {
-				alert('before parseing:' + this.data.length);
-				return data;
-			});
+		} else {
+			alert('before parseing:' + this.jsondata.length);
 		}
-		alert('before parseing:' + this.jsondata.length);
 		return this.jsondata;
 	},
 
@@ -34,7 +31,7 @@ var PracticesCollection = Backbone.Collection.extend({
 				}
 			});
 			alert('after fetching: ' + self.jsondata.length)
-			return Backbone.Collection.prototype.fetch.call(this, options)
+			return Backbone.Collection.prototype.fetch.call(self, options)
 		});
 	},
 
