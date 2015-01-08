@@ -24,10 +24,8 @@ app.Controller = {
 				reset: true,
 				success: function() {
 					app.trigger('status:clear');
-					alert("before init: " + app.Practices.length);
 					app.Practices.initializeModels(model.get('age'), model.get('coords'), function() {
 						self.tableView.model.set(model.toJSON());
-						alert("after init: " + app.Practices.length);
 						self.tableView.refresh(function() {
 							self.searchView.setElement($('#search-box')).render();
 						});
