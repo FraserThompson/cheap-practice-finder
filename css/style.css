@@ -113,7 +113,8 @@ tr:hover{
 	cursor: pointer;
 }
 .open:hover{
-	cursor:pointer;
+	cursor: pointer;
+	text-decoration: underline;
 }
 
 input::-webkit-outer-spin-button,
