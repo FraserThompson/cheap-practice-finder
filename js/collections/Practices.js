@@ -12,10 +12,10 @@ var PracticesCollection = Backbone.Collection.extend({
 
 	parse: function() {
 		if (!this.jsondata){
-			alert("NO DATA WHEN PARSING")
-		} else {
-			alert('before parseing:' + this.jsondata.length)
+			alert("NO DATA WHEN PARSING");
+			this.jsondata = $.getJSON('data.json');
 		}
+		alert('before parseing:' + this.jsondata.length);
 		return this.jsondata;
 	},
 
