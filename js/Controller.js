@@ -24,6 +24,9 @@ app.Controller = {
 				reset: true,
 				success: function() {
 					app.trigger('status:clear');
+					app.ActualRouter.navigate(
+			          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=2',
+			          {trigger: false });
 					app.Practices.initializeModels(model.get('age'), model.get('coords'), function() {
 						self.tableView.model.set(model.toJSON());
 						self.tableView.refresh(function() {
