@@ -23,6 +23,17 @@ footer {
 	height: 50px;
 }
 
+tr {
+	cursor: pointer;
+}
+
+.backgrid .string-cell::before{
+	content: "+ ";
+	font-size: 150%;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
 #pho-list {
 	columns: 2;
 	-webkit-columns: 2;
@@ -58,7 +69,6 @@ footer {
 
 #search-options{
 	text-align: center;
-	margin: auto;
 }
 
 #new-search-age {
@@ -90,19 +100,17 @@ footer {
 
 .hover-glow {
 	background-color: lightblue !important;
-	transition: background .4s ease-in;
+	transition: background .4s linear;
+	-webkit-transition-duration: 0.4s;
+  	-moz-transition-duration: 0.4s;
 }
 
-.open {
+.open{
   	color: #428bca;
 	cursor: pointer;
 }
 .open:hover{
 	cursor:pointer;
-}
-
-input[type='number'] {
-    -moz-appearance:textfield;
 }
 
 input::-webkit-outer-spin-button,
