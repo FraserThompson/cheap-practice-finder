@@ -23,20 +23,19 @@ var BackgridExpandableRow = Backgrid.Row.extend({
 	initialize: function() {
 		_.bindAll(this, 'expandRow', 'removeExpandedView');
 		this.listenTo(Backbone, 'backgrid:refresh backgrid:expand', this.removeExpandedView);
-		BackgridExpandableRow.__super__.initialize.apply(this, arguments);
+		BackgridExpandableRow.__super__.initialize.apply(this, arguments); 
 	},
 
 	expandRow: function() {
-		var self = this;
 		if (!this.expandedView) {
 			Backbone.trigger('backgrid:expand');
 			this.expandedView = new app.ExpandedView({clickPosition: $(this.el).position()})
-			self.expandedView.model = self.model;
+			this.expandedView.model = this.model;
 			this.$el.addClass('hover-glow');
 			if (!app.isMobile.matches) {
-				$('#table-view').after(self.expandedView.render().el);
+				$('#table-view').after(this.expandedView.render().el);
 			} else {
-				this.$el.after(self.expandedView.render().el);
+				this.$el.after(this.expandedView.render().el);
 			}
 			this.expandedView.setCSSPosition();
 		} else {
@@ -125,7 +124,6 @@ app.TableView = Backbone.View.extend({
 			row: BackgridExpandableRow,
 			collection: app.Practices,
 			emptyText: "None found.",
-			className: 'table table-condensed table-hover'
 		});
 		this.backgridGridElement.html(this.BackgridGrid.render().el);
 		this.searchOptionsView = new app.SearchOptionsView();
@@ -156,13 +154,11 @@ app.TableView = Backbone.View.extend({
 
 	refresh: function(callback) {
 		var self = this;
-		// app.Practices.initializeModels(this.model.get('age'), this.model.get('coords'), function() {
-			app.Practices.changeRadius(self.model.get('radius'), function() {
-				self.render(function() {
-					callback();
-				});
+		app.Practices.changeRadius(self.model.get('radius'), function() {
+			self.render(function() {
+				callback();
 			});
-		// });
+		});
 	},
 
 	changeRadius: function(e) {
