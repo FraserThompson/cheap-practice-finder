@@ -27,10 +27,13 @@ tr {
 	cursor: pointer;
 }
 
-.backgrid .string-cell::before{
-	content: "+ ";
+tr:hover{
+	background-color: #EDEDED;
+}
+
+.backgrid .string-cell:before{
+	content: '+ ';
 	font-size: 150%;
-	font-weight: bold;
 	vertical-align: middle;
 }
 
