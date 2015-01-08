@@ -28,10 +28,7 @@ app.Controller = {
 						self.tableView.model.set(model.toJSON());
 						self.tableView.refresh(function() {
 							self.searchView.setElement($('#search-box')).render();
-							app.ActualRouter.navigate(
-					          'search/coords=' + model.get('coords') + '&age=' +  model.get('age') + '&rad=2',
-					          {trigger: false });
-							});
+						});
 					});
 				},
 				error: function() {
