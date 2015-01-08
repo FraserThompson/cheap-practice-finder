@@ -85,7 +85,7 @@ app.SearchView = Backbone.View.extend({
 			app.trigger('status:loading');
 			self.age_input.removeClass('animated fadeOut').hide();
 			app.ActualRouter.navigate(
-	          'search/coords=' + model.get('coords') + '&age=' +  model.get('age') + '&rad=2',
+	          'search/coords=' + self.model.get('coords') + '&age=' +  self.model.get('age') + '&rad=2',
 	          {trigger: false });
 			app.Controller.search(self.model);
 		})
