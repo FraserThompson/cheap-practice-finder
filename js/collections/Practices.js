@@ -4,11 +4,11 @@ var PracticesCollection = Backbone.Collection.extend({
 
 	model: app.PracticeModel,
 	url: 'data.json',
+	jsondata: [],
 
 	initialize: function() {
 		_.bindAll(this, 'initializeModels', 'changeRadius', 'fetch', 'parse');
 		this.removed = [];
-		this.jsondata = [];
 	},
 
 	parse: function() {
@@ -26,15 +26,16 @@ var PracticesCollection = Backbone.Collection.extend({
 	fetch: function(options) {
 		var self = this;
 		this.removed = [];
-		$.getJSON('data.json', function(data) {
+		$.getJSON(this.url, function(data) {
 			$.each(data, function(key, val) {
 				var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(options.location[0], options.location[1]));
 				if ((distance_between/1000) <= 15){
 					self.jsondata.push(val);
 				}
 			});
+			alert('after fetching: ' + self.jsondata.length)
+			return Backbone.Collection.prototype.fetch.call(this, options)
 		});
-		return Backbone.Collection.prototype.fetch.call(this, options)
 	},
 
 	changeRadius: function(distance, callback) {
