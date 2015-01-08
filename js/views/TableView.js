@@ -136,6 +136,7 @@ app.TableView = Backbone.View.extend({
 			self.searchOptionsView.render();
 			self.searchOptionsView.setRadius(self.model.get('radius'));
 			app.Practices.changeRadius(self.model.get('radius'), function() {
+				alert(app.Practices.length)
 				self.BackgridGrid.render().sort('price', 'ascending');
 				self.$el.slideDown();
 				app.ActualRouter.navigate(

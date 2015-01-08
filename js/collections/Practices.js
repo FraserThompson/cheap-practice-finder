@@ -26,7 +26,6 @@ var PracticesCollection = Backbone.Collection.extend({
 				}
 			});
 			self.data = trimmed;
-			alert("Results from fetching: " + trimmed.length);
 		});
 		return Backbone.Collection.prototype.fetch.call(this, options)
 	},
