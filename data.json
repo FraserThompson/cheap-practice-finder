@@ -1547,7 +1547,7 @@
         "url": "http://www.aucklandpho.co.nz/index.php?mact=CompanyDirectory,cntnt01,details,0&cntnt01companyid=26&cntnt01returnid=116"
     },
     {
-        "address": "229 Grey Street,",
+        "address": "229 Grey Street, Palmerston North, 4414",
         "coordinates": [
             -40.3473585936442,
             175.620925806666
@@ -1584,7 +1584,7 @@
         "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/5226/Default.aspx"
     },
     {
-        "address": "2 Aotaki Street,",
+        "address": "2 Aotaki Street, Otaki, 5512",
         "coordinates": [
             -40.7524856167491,
             175.141036422822
@@ -1621,7 +1621,7 @@
         "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/2869/Default.aspx"
     },
     {
-        "address": "50 Queen Street,",
+        "address": "50 Queen Street, Levin, 5510",
         "coordinates": [
             -40.6195588887893,
             175.283952049663
@@ -1658,7 +1658,7 @@
         "url": "http://www.centralpho.org.nz/PracticesandFees/GeneralPractices/tabid/100/ctl/Map/mid/484/practice/3796/Default.aspx"
     },
     {
-        "address": "The Palms, 445 Fergusson Street",
+        "address": "The Palms, 445 Fergusson Street, Palmerston North, 4410",
         "coordinates": [
             -40.3565700490353,
             175.61961139656
@@ -1828,7 +1828,7 @@
         "url": "http://www.chchpho.org.nz/provider-298.php"
     },
     {
-        "address": "183 Ohiro Road, Brooklyn",
+        "address": "183 Ohiro Road, Brooklyn, Wellington",
         "coordinates": [
             -41.3047112557738,
             174.763596024943
@@ -1865,7 +1865,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/295/Default.aspx"
     },
     {
-        "address": "155 Ohiro Road, Brooklyn",
+        "address": "155 Ohiro Road, Brooklyn, Wellington, 6021",
         "coordinates": [
             -41.3036265546074,
             174.763853637503
@@ -1902,7 +1902,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/298/Default.aspx"
     },
     {
-        "address": "107c Westchester Drive, Churton Park",
+        "address": "107c Westchester Drive, Churton Park, Wellington, 6037",
         "coordinates": [
             -41.2020017,
             174.8082795
@@ -1939,7 +1939,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/6591/Default.aspx"
     },
     {
-        "address": "189 - 191 Willis St,",
+        "address": "189 - 191 Willis St, Wellington, 6011",
         "coordinates": [
             -41.2916084056584,
             174.773514985014
@@ -1976,7 +1976,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/322/Default.aspx"
     },
     {
-        "address": "Level 1, Deloitte House, 10 Brandon Street",
+        "address": "Level 1, Deloitte House, 10 Brandon Street, Wellington, 6011",
         "coordinates": [
             -41.2835062591943,
             174.777380496361
@@ -2013,7 +2013,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/316/Default.aspx"
     },
     {
-        "address": "Level 1, 36 Allen Street",
+        "address": "Level 1, 36 Allen Street, Wellington, 6011",
         "coordinates": [
             -41.293056942819,
             174.782414611199
@@ -2050,7 +2050,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/315/Default.aspx"
     },
     {
-        "address": "4 Taurima Street, Hataitai",
+        "address": "4 Taurima Street, Hataitai, Wellington, 6021",
         "coordinates": [
             -41.3043959150521,
             174.793518326786
@@ -2087,7 +2087,44 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/337/Default.aspx"
     },
     {
-        "address": "51 Kapiti Road,",
+        "address": "46 Ocean Rd, Paraparaumu Beach, 5032",
+        "coordinates": [
+            -40.8962645,
+            174.9832264
+        ],
+        "name": "Drs Cammack & Evans",
+        "pho": "Compass Health",
+        "phone": "04 2985114",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 26.0
+            },
+            {
+                "age": 18,
+                "price": 34.0
+            },
+            {
+                "age": 25,
+                "price": 44.0
+            },
+            {
+                "age": 45,
+                "price": 44.0
+            },
+            {
+                "age": 65,
+                "price": 44.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/327/Default.aspx"
+    },
+    {
+        "address": "51 Kapiti Road, Paraparaumu",
         "coordinates": [
             -40.9120221,
             175.0031146
@@ -2124,7 +2161,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/6585/Default.aspx"
     },
     {
-        "address": "12 Tapiri St, Hataitai",
+        "address": "12 Tapiri St, Hataitai, Wellington, 6021",
         "coordinates": [
             -41.3059412412874,
             174.793763432687
@@ -2161,7 +2198,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/356/Default.aspx"
     },
     {
-        "address": "4 Taurima St, Hataitai",
+        "address": "4 Taurima St, Hataitai, Wellington, 6021",
         "coordinates": [
             -41.3043959150521,
             174.793518326786
@@ -2198,7 +2235,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/372/Default.aspx"
     },
     {
-        "address": "Kapiti Health Centre, Warrimoo Street",
+        "address": "Kapiti Health Centre, Warrimoo Street, Paraparaumu, 5032",
         "coordinates": [
             -40.910608744553,
             175.006952052416
@@ -2235,7 +2272,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/357/Default.aspx"
     },
     {
-        "address": "159 The Parade, Island Bay",
+        "address": "159 The Parade, Island Bay, Wellington, 6023",
         "coordinates": [
             -41.3353625020406,
             174.773474366711
@@ -2272,7 +2309,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/367/Default.aspx"
     },
     {
-        "address": "24 Moorefield Road, Johnsonville",
+        "address": "24 Moorefield Road, Johnsonville, Wellington, 6037",
         "coordinates": [
             -41.2218114476702,
             174.806400347867
@@ -2309,7 +2346,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/370/Default.aspx"
     },
     {
-        "address": "42 Upland Road, Kelburn",
+        "address": "42 Upland Road, Kelburn, Wellington",
         "coordinates": [
             -41.2877948740891,
             174.765507708793
@@ -2346,7 +2383,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/381/Default.aspx"
     },
     {
-        "address": "5 Upland Rd, Kelburn",
+        "address": "5 Upland Rd, Kelburn, Wellington",
         "coordinates": [
             -41.2857995737486,
             174.767006515261
@@ -2383,7 +2420,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/380/Default.aspx"
     },
     {
-        "address": "8 Dekka St, Khandallah",
+        "address": "8 Dekka St, Khandallah, Wellington, 6035",
         "coordinates": [
             -41.2474061169988,
             174.790334364882
@@ -2420,7 +2457,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/384/Default.aspx"
     },
     {
-        "address": "49 Hinau Street, Linden",
+        "address": "49 Hinau Street, Linden, Wellington, 5028",
         "coordinates": [
             -41.1581925510255,
             174.832965644893
@@ -2457,7 +2494,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/395/Default.aspx"
     },
     {
-        "address": "107 The Esplanade, Paremata",
+        "address": "107 The Esplanade, Paremata, Porirua, 5026",
         "coordinates": [
             -41.091693298327,
             174.867888515687
@@ -2494,7 +2531,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/398/Default.aspx"
     },
     {
-        "address": "46 Park Rd, Miramar",
+        "address": "46 Park Rd, Miramar, Wellington",
         "coordinates": [
             -41.3140902910754,
             174.818138998074
@@ -2531,7 +2568,44 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/406/Default.aspx"
     },
     {
-        "address": "15 Batchelor Street, Newlands",
+        "address": "22 Margaret Road, Raumati",
+        "coordinates": [
+            -40.9203012,
+            174.9810464
+        ],
+        "name": "Natural Healing Raumati",
+        "pho": "Compass Health",
+        "phone": "04 9021048",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 50.0
+            },
+            {
+                "age": 18,
+                "price": 55.0
+            },
+            {
+                "age": 25,
+                "price": 55.0
+            },
+            {
+                "age": 45,
+                "price": 55.0
+            },
+            {
+                "age": 65,
+                "price": 55.0
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/4210/Default.aspx"
+    },
+    {
+        "address": "15 Batchelor Street, Newlands, Wellington, 6037",
         "coordinates": [
             -41.2223744204311,
             174.82219769496
@@ -2568,7 +2642,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/413/Default.aspx"
     },
     {
-        "address": "33 Rintoul St, Newtown",
+        "address": "33 Rintoul St, Newtown, Wellington, 6021",
         "coordinates": [
             -41.3132677530763,
             174.778887997349
@@ -2605,7 +2679,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/415/Default.aspx"
     },
     {
-        "address": "75 Ottawa Rd, Ngaio",
+        "address": "75 Ottawa Rd, Ngaio, Wellington",
         "coordinates": [
             -41.2473738890994,
             174.774879767997
@@ -2642,7 +2716,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/416/Default.aspx"
     },
     {
-        "address": "52 Northland Rd, Northland",
+        "address": "52 Northland Rd, Northland, Wellington, 6012",
         "coordinates": [
             -41.283434862219,
             174.757271880914
@@ -2679,7 +2753,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/424/Default.aspx"
     },
     {
-        "address": "123 Moorefield Rd, Johnsonville",
+        "address": "123 Moorefield Rd, Johnsonville, Wellington, 6037",
         "coordinates": [
             -41.2288941009139,
             174.800986978523
@@ -2716,7 +2790,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/431/Default.aspx"
     },
     {
-        "address": "4 Bedford Court, Cannons Creek",
+        "address": "4 Bedford Court, Cannons Creek, Porirua, 5024",
         "coordinates": [
             -41.1413139758592,
             174.863379953858
@@ -2753,7 +2827,44 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/5105/Default.aspx"
     },
     {
-        "address": "58 Miramar Ave, Miramar",
+        "address": "40 Ihakara Street, Paraparaumu, Kapiti Coast, 5032",
+        "coordinates": [
+            -40.9170014,
+            174.9973735
+        ],
+        "name": "Paraparaumu Medical",
+        "pho": "Compass Health",
+        "phone": "04 9028507",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 38.5
+            },
+            {
+                "age": 18,
+                "price": 43.0
+            },
+            {
+                "age": 25,
+                "price": 43.0
+            },
+            {
+                "age": 45,
+                "price": 43.0
+            },
+            {
+                "age": 65,
+                "price": 40.5
+            }
+        ],
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/436/Default.aspx"
+    },
+    {
+        "address": "58 Miramar Ave, Miramar, Wellington, 6022",
         "coordinates": [
             -41.3159404526599,
             174.815024414331
@@ -2790,7 +2901,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/446/Default.aspx"
     },
     {
-        "address": "Level 4,  Plimmer Tower, Lambton Quay",
+        "address": "Level 4,  Plimmer Tower, Lambton Quay, Wellington, 6011",
         "coordinates": [
             -41.2859617182011,
             174.775249667975
@@ -2827,7 +2938,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/453/Default.aspx"
     },
     {
-        "address": "10 Steyne Avenue, Plimmerton",
+        "address": "10 Steyne Avenue, Plimmerton, Porirua, 5026",
         "coordinates": [
             -41.0825564258592,
             174.865880945682
@@ -2864,7 +2975,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/452/Default.aspx"
     },
     {
-        "address": "23 Raumati Road, Raumati Beach",
+        "address": "23 Raumati Road, Raumati Beach, Paraparaumu, 5032",
         "coordinates": [
             -40.9190529590133,
             174.98273252998
@@ -2901,7 +3012,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/473/Default.aspx"
     },
     {
-        "address": "Student Health and Counselling Centre, Mt Cook",
+        "address": "Student Health and Counselling Centre, Mt Cook, Wellington, 6140",
         "coordinates": [
             -36.0998648060489,
             174.590354368876
@@ -2938,7 +3049,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/555/Default.aspx"
     },
     {
-        "address": "Student Health Service, Mauri Ora, L1, Student Union B",
+        "address": "Student Health Service, Mauri Ora, L1, Student Union B, Gate 1, Kelburn P Wellington",
         "coordinates": [
             -41.2880074413849,
             174.768104524731
@@ -2975,7 +3086,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/486/Default.aspx"
     },
     {
-        "address": "Rewa Terrace, Tawa",
+        "address": "Rewa Terrace, Tawa, Wellington, 5028",
         "coordinates": [
             -41.1694441943566,
             174.82429040894
@@ -3012,7 +3123,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/501/Default.aspx"
     },
     {
-        "address": "331 Willis Street,",
+        "address": "331 Willis Street, Wellington",
         "coordinates": [
             -41.2959692359451,
             174.771052810887
@@ -3049,7 +3160,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/499/Default.aspx"
     },
     {
-        "address": "Coastlands Mall, Paraparaumu",
+        "address": "Coastlands Mall, Paraparaumu, Paraparaumu",
         "coordinates": [
             -40.9165876099765,
             175.005529433268
@@ -3086,7 +3197,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/706/Default.aspx"
     },
     {
-        "address": "Level 1, 50 The Terrace (via 44 The Terrace), CBD",
+        "address": "Level 1, 50 The Terrace (via 44 The Terrace), CBD, Wellington, 6011",
         "coordinates": [
             -41.2805247051171,
             174.775055541358
@@ -3123,7 +3234,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/514/Default.aspx"
     },
     {
-        "address": "3 Whitehouse Rd, Titahi Bay",
+        "address": "3 Whitehouse Rd, Titahi Bay, Porirua, 5022",
         "coordinates": [
             -41.1080009613562,
             174.839494553871
@@ -3160,7 +3271,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/502/Default.aspx"
     },
     {
-        "address": "76 Main Road, Titahi Bay",
+        "address": "76 Main Road, Titahi Bay, Porirua, 5022",
         "coordinates": [
             -41.1089313246568,
             174.840461186736
@@ -3197,7 +3308,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/503/Default.aspx"
     },
     {
-        "address": "104a Wadestown Rd, Wadestown",
+        "address": "104a Wadestown Rd, Wadestown, Wellington, 6012",
         "coordinates": [
             -41.2617736239261,
             174.774419694351
@@ -3234,7 +3345,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/564/Default.aspx"
     },
     {
-        "address": "Marae Lane,",
+        "address": "Marae Lane, Waikanae, 5036",
         "coordinates": [
             -40.8782238929786,
             175.063272918862
@@ -3271,7 +3382,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/525/Default.aspx"
     },
     {
-        "address": "Whitby Mall, Discovery Drive",
+        "address": "Whitby Mall, Discovery Drive, Whitby, 5024",
         "coordinates": [
             -41.1158750461098,
             174.890211187909
@@ -3308,7 +3419,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WellingtonPractices/tabid/100/ctl/Map/mid/484/practice/537/Default.aspx"
     },
     {
-        "address": "159-163 South High Street, Carterton",
+        "address": "159-163 South High Street, Carterton, Wairarapa, 5713",
         "coordinates": [
             -41.0355184542467,
             175.517051656938
@@ -3345,44 +3456,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/760/Default.aspx"
     },
     {
-        "address": "3 Clifford Square, Featherston",
-        "coordinates": [
-            -41.1172080281923,
-            175.328611810834
-        ],
-        "name": "Featherston Medical Centre",
-        "pho": "Compass Health",
-        "phone": "06 3089220",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0.0
-            },
-            {
-                "age": 6,
-                "price": 28.0
-            },
-            {
-                "age": 18,
-                "price": 30.0
-            },
-            {
-                "age": 25,
-                "price": 31.0
-            },
-            {
-                "age": 45,
-                "price": 32.0
-            },
-            {
-                "age": 65,
-                "price": 30.0
-            }
-        ],
-        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/757/Default.aspx"
-    },
-    {
-        "address": "186 East Street, Greytown",
+        "address": "186 East Street, Greytown, Wairarapa",
         "coordinates": [
             -41.0892119631547,
             175.452116596773
@@ -3419,44 +3493,7 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/759/Default.aspx"
     },
     {
-        "address": "Crayne Street, Masterton",
-        "coordinates": [
-            -40.9583816678359,
-            175.649420799783
-        ],
-        "name": "Kuripuni Medical Centre",
-        "pho": "Compass Health",
-        "phone": "06 3774093",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0.0
-            },
-            {
-                "age": 6,
-                "price": 35.0
-            },
-            {
-                "age": 18,
-                "price": 36.0
-            },
-            {
-                "age": 25,
-                "price": 38.0
-            },
-            {
-                "age": 45,
-                "price": 42.0
-            },
-            {
-                "age": 65,
-                "price": 40.0
-            }
-        ],
-        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/762/Default.aspx"
-    },
-    {
-        "address": "5 Oxford Street, Martinborough",
+        "address": "5 Oxford Street, Martinborough, Wairarapa, 5711",
         "coordinates": [
             -41.2193817552599,
             175.460591705136
@@ -3493,14 +3530,14 @@
         "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/758/Default.aspx"
     },
     {
-        "address": "5 Park Street, Masterton",
+        "address": "24 Lincoln Road, Masterton, Wairarapa, 5713",
         "coordinates": [
-            -40.9494916695605,
-            175.663883298098
+            -40.9476591,
+            175.659255
         ],
-        "name": "Whaiora",
+        "name": "Masterton Medical",
         "pho": "Compass Health",
-        "phone": "06 3700818",
+        "phone": "06 3700011",
         "prices": [
             {
                 "age": 0,
@@ -3508,26 +3545,26 @@
             },
             {
                 "age": 6,
-                "price": 11.5
+                "price": 30.0
             },
             {
                 "age": 18,
-                "price": 17.5
+                "price": 33.0
             },
             {
                 "age": 25,
-                "price": 17.5
+                "price": 36.0
             },
             {
                 "age": 45,
-                "price": 17.5
+                "price": 36.0
             },
             {
                 "age": 65,
-                "price": 17.5
+                "price": 32.0
             }
         ],
-        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/966/Default.aspx"
+        "url": "http://www.compasshealth.org.nz/PracticesandFees/WairarapaPractices/tabid/101/ctl/Map/mid/499/practice/763/Default.aspx"
     },
     {
         "address": "Corner Unsworth Drive & Upper Harbour Highway",
@@ -9128,10 +9165,10 @@
         "url": "http://www.marlboroughpho.org.nz/Surgery_WairauCommunityClinic.htm"
     },
     {
-        "address": "113 Heuheu Street, P O Box 747, Taupo, Taupo",
+        "address": "113 Heuheu Street, TAUPO",
         "coordinates": [
-            -38.6892491,
-            176.0761407
+            -38.987974,
+            175.807248
         ],
         "name": "Taupo Health Centre",
         "pho": "Midlands Health Network",
@@ -9162,13 +9199,13 @@
                 "price": 17.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/taupo-health-centre/241/contact"
+        "url": "http://www.healthpoint.co.nz/private/specialist/mr-lincoln-israel/at/auckland-colorectal-centre/"
     },
     {
-        "address": "117 Heuheu Street, P O Box 242, Taupo, Taupo",
+        "address": "117 Heuheu Street, TAUPO",
         "coordinates": [
-            -38.6892347,
-            176.0762249
+            -38.68932580000001,
+            176.0765531
         ],
         "name": "Taupo Medical Centre",
         "pho": "Midlands Health Network",
@@ -9199,17 +9236,17 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/taupo-medical-centre/278/contact"
+        "url": "http://www.healthpoint.co.nz/private/specialist/mr-lincoln-israel/at/auckland-colorectal-centre/"
     },
     {
-        "address": "109 Tongariro Street, P O Box 53, Taupo, Taupo",
+        "address": "Skin Institute Takapuna, 398 Lake Road, Takapuna, Auckland",
         "coordinates": [
-            -38.6853894,
-            176.0704305
+            -36.7919302,
+            174.7750122
         ],
         "name": "Lake Surgery",
         "pho": "Midlands Health Network",
-        "phone": "07 378 6294",
+        "phone": "(09) 486 7111",
         "prices": [
             {
                 "age": 0,
@@ -9236,13 +9273,13 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/lake-surgery-taupo/299/contact"
+        "url": "http://www.healthpoint.co.nz/private/dermatology/skin-institute/at/398-lake-road-takapuna/"
     },
     {
-        "address": "28 Tautahanga Road, P O Box 58, Turangi, Taupo",
+        "address": "28 Tautahanga Road, TURANGI",
         "coordinates": [
-            -38.9879736,
-            175.8072477
+            -38.987968,
+            175.807257
         ],
         "name": "Pihanga Health",
         "pho": "Midlands Health Network",
@@ -9276,14 +9313,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/pihanga-health/307/contact"
     },
     {
-        "address": "134 Derby Street, P O Box 672, Gisborne, Gisborne",
+        "address": "Lynnmall Shopping Centre, 3058 Great North Road, New Lynn, Auckland 0600",
         "coordinates": [
-            -38.6645122,
-            178.0226413
+            -36.9078599,
+            174.6852085
         ],
         "name": "City Medical",
         "pho": "Midlands Health Network",
-        "phone": "06 868 6104",
+        "phone": "(09) 827 3163",
         "prices": [
             {
                 "age": 0,
@@ -9310,17 +9347,17 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/city-medical-gisborne-limited/315/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/lynnmall-city-medical-centre/"
     },
     {
-        "address": "75 Customhouse Street, , Gisborne, Gisborne",
+        "address": "75 Customhouse Street, GISBORNE",
         "coordinates": [
             -38.6699891,
             178.025246
         ],
         "name": "Three Rivers Medical",
         "pho": "Midlands Health Network",
-        "phone": "06 867 7411",
+        "phone": " 06 867 7411",
         "prices": [
             {
                 "age": 0,
@@ -9347,44 +9384,7 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/three-rivers-medical-centre/335/contact"
-    },
-    {
-        "address": "76 Station Road, PO Box 41 , Te Karaka, Gisborne",
-        "coordinates": [
-            -38.4725603,
-            177.8630652
-        ],
-        "name": "Waikohu Health Centre (resident in Waikohu Ward)",
-        "pho": "Midlands Health Network",
-        "phone": "06 862 3630",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0.0
-            },
-            {
-                "age": 6,
-                "price": 0.0
-            },
-            {
-                "age": 18,
-                "price": 0.0
-            },
-            {
-                "age": 25,
-                "price": 0.0
-            },
-            {
-                "age": 45,
-                "price": 0.0
-            },
-            {
-                "age": 65,
-                "price": 0.0
-            }
-        ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/waikohu-health-centre/361/contact"
+        "url": "http://www.healthpoint.co.nz/private/fertility/fertility-associates/at/75-custom-house-street-gisborne/"
     },
     {
         "address": "76 Station Road, PO Box 41 , Te Karaka, Gisborne",
@@ -9424,7 +9424,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/waikohu-health-centre/361/contact"
     },
     {
-        "address": "8 Romeo Street, PO Box 90, Stratford, Taranaki",
+        "address": "8 Romeo Street, STRATFORD",
         "coordinates": [
             -39.3480588,
             174.2859579
@@ -9461,7 +9461,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/avon-medical-centre/486/contact"
     },
     {
-        "address": "Unit 7, 17 Nobs Line, New Plymouth, Taranaki",
+        "address": "Unit 7 / 17 Nobs Line, NEW PLYMOUTH",
         "coordinates": [
             -39.049934,
             174.0949677
@@ -9498,7 +9498,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/bellomo-family-health/508/contact"
     },
     {
-        "address": "99 Tukapa Street, P O Box 5002, New Plymouth, Taranaki",
+        "address": "99 Tukapa Street, NEW PLYMOUTH",
         "coordinates": [
             -39.0740728,
             174.0595067
@@ -9569,10 +9569,10 @@
                 "price": 43.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/central-medical-centre/556/contact"
+        "url": "http://www.healthpoint.co.nz/central-auckland/"
     },
     {
-        "address": "125 Vivian Street, PO Box 509, New Plymouth, Taranaki",
+        "address": "125 Vivian Street, NEW PLYMOUTH",
         "coordinates": [
             -39.0625101,
             174.0656981
@@ -9606,10 +9606,10 @@
                 "price": 40.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/city-west-medical-centre/603/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/lynnmall-city-medical-centre/"
     },
     {
-        "address": "283 Devon Street West , P O Box 461, New Plymouth, Taranaki",
+        "address": "283 Devon Street West, NEW PLYMOUTH",
         "coordinates": [
             -39.0615491,
             174.0627982
@@ -9646,10 +9646,10 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/devon-medical-centre/617/contact"
     },
     {
-        "address": "12 Brown St, , Inglewood, Taranaki",
+        "address": "12 Brown Street, INGLEWOOD",
         "coordinates": [
-            -39.1557011,
-            174.2043079
+            -39.1560899,
+            174.20424
         ],
         "name": "Dr Marie Fonseka",
         "pho": "Midlands Health Network",
@@ -9683,7 +9683,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/dr-marie-fonseka/633/contact"
     },
     {
-        "address": "488 Devon Street East, , New Plymouth, Taranaki",
+        "address": "488 Devon Street East, NEW PLYMOUTH",
         "coordinates": [
             -39.051058,
             174.0976437
@@ -9717,10 +9717,10 @@
                 "price": 44.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/eastside-medical-centre/645/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/east-health-trust/"
     },
     {
-        "address": "132 High Street, P O Box 141, Eltham, Taranaki",
+        "address": "132 High Street, ELTHAM",
         "coordinates": [
             -39.4313448,
             174.2996837
@@ -9757,14 +9757,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/eltham-health-centre/671/contact"
     },
     {
-        "address": "80 Kapanga Road, P O Box 51, Coromandel, Thames Valley",
+        "address": "70 Vivian Street, NEW PLYMOUTH",
         "coordinates": [
-            -36.7595793,
-            175.4979476
+            -39.0607703,
+            174.0698048
         ],
         "name": "Family Health Centre",
         "pho": "Midlands Health Network",
-        "phone": "07 866 8500",
+        "phone": "06 758 7508",
         "prices": [
             {
                 "age": 0,
@@ -9791,7 +9791,7 @@
                 "price": 39.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/coromandel-family-health-centre/1093/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/mt-wellington-family-health-centre/"
     },
     {
         "address": "12 Brown Street, PO Box 224, Inglewood, Taranaki",
@@ -9868,14 +9868,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/inglewood-medical-centre-dr-finnigan/717/contact"
     },
     {
-        "address": "95 Vivian Street, , New Plymouth, Taranaki",
+        "address": "4 Homestead Rd, Kerikeri, Northland 0230",
         "coordinates": [
-            -39.0617112,
-            174.067851
+            -35.2273862,
+            173.9476081
         ],
         "name": "Pheonix Urgent Drs GP Clinic",
         "pho": "Midlands Health Network",
-        "phone": "06 759 4295",
+        "phone": "(09) 972 7022",
         "prices": [
             {
                 "age": 0,
@@ -9902,13 +9902,13 @@
                 "price": 35.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/phoenix-urgent-doctors/808/contact"
+        "url": "http://www.healthpoint.co.nz/private/ophthalmology/eye-centre-primecare-1/at/kerikeri-medical-centre/"
     },
     {
-        "address": "8 Egmont Street, P O Box 855, New Plymouth, Taranaki",
+        "address": "8 Egmont Street, NEW PLYMOUTH",
         "coordinates": [
-            -39.0574065,
-            174.0711451
+            -39.0572506,
+            174.070972
         ],
         "name": "Medicross Taranaki Ltd",
         "pho": "Midlands Health Network",
@@ -9942,7 +9942,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/medicross-taranaki-ltd/731/contact"
     },
     {
-        "address": "2 Smith Road, , New Plymouth, Taranaki",
+        "address": "2 Smith Road, NEW PLYMOUTH",
         "coordinates": [
             -39.0710994,
             174.1047733
@@ -9979,7 +9979,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/merrilands-medical-centre/751/contact"
     },
     {
-        "address": "490 St Aubyn Street, P O Box 6052, New Plymouth, Taranaki",
+        "address": "490 St Aubyn Street, NEW PLYMOUTH",
         "coordinates": [
             -39.0628318,
             174.045603
@@ -10016,14 +10016,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/moturoa-medical-centre/757/contact"
     },
     {
-        "address": "65 Victoria Street, P O Box 283, Hawera, Taranaki",
+        "address": "Hawera Hospital, 37 Hunter Street, HAWERA",
         "coordinates": [
-            -39.5883348,
-            174.2795389
+            -39.5875849,
+            174.2663925
         ],
         "name": "Mountainview Medical Centre",
         "pho": "Midlands Health Network",
-        "phone": "06 278 0104",
+        "phone": "06 278 9866",
         "prices": [
             {
                 "age": 0,
@@ -10050,13 +10050,13 @@
                 "price": 38.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/mountainview-medical-centre/765/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/mt-albert-medical-centre/"
     },
     {
-        "address": "1149 South Road, P O Box 40, Oakura, Taranaki",
+        "address": "Main Road, OAKURA",
         "coordinates": [
-            -39.1170548,
-            173.9567079
+            -39.1145669,
+            173.9534849
         ],
         "name": "Oakura Medical Centre",
         "pho": "Midlands Health Network",
@@ -10090,7 +10090,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/oakura-medical-centre/779/contact"
     },
     {
-        "address": "188 Parklands Avenue, , New Plymouth, Taranaki",
+        "address": "188 Parklands Avenue, NEW PLYMOUTH",
         "coordinates": [
             -39.028794,
             174.149673
@@ -10124,10 +10124,10 @@
                 "price": 33.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/parklands-medical-centre/794/contact"
+        "url": "http://www.healthpoint.co.nz/public/palliative-care/auckland-district-palliative-care-network/at/auckland-city-hospital/"
     },
     {
-        "address": "177 Powderham Street, PO Box 4138, New Plymouth, Taranaki",
+        "address": "177 Powderham Street, NEW PLYMOUTH",
         "coordinates": [
             -39.0615457,
             174.0656047
@@ -10164,14 +10164,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/powderham-medical-centre/814/contact"
     },
     {
-        "address": "95 Regan Street, PO Box 321, Stratford, Taranaki",
+        "address": "89 Regan Street, STRATFORD",
         "coordinates": [
-            -39.3383393,
-            174.2823162
+            -39.3383149,
+            174.2832825
         ],
         "name": "Regan Street Health Centre",
         "pho": "Midlands Health Network",
-        "phone": "06 765 8178",
+        "phone": "06 765 6676",
         "prices": [
             {
                 "age": 0,
@@ -10198,10 +10198,10 @@
                 "price": 41.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/regan-street-medical-centre/826/contact"
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/regan-street-health-centre/820/contact"
     },
     {
-        "address": "Unit 16, 17 Nobs Line, New Plymouth, Taranaki",
+        "address": "Unit 16 / 17 Nobs Line, NEW PLYMOUTH",
         "coordinates": [
             -39.049934,
             174.0949677
@@ -10238,7 +10238,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/strandon-health/832/contact"
     },
     {
-        "address": "52 Tukapa Street, , New Plymouth, Taranaki",
+        "address": "52 Tukuapa Street, NEW PLYMOUTH",
         "coordinates": [
             -39.0711799,
             174.0619727
@@ -10272,13 +10272,13 @@
                 "price": 36.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/tukapa-medical-centre/848/contact"
+        "url": "http://www.healthpoint.co.nz/taranaki/care-first-new-plymouth/"
     },
     {
-        "address": "56 Vivian Street, P O Box 142, New Plymouth, Taranaki",
+        "address": "56 Vivian Street, NEW PLYMOUTH",
         "coordinates": [
-            -39.0606669,
-            174.0707837
+            -39.0604592,
+            174.0707343
         ],
         "name": "Vivian Medical Centre",
         "pho": "Midlands Health Network",
@@ -10309,13 +10309,13 @@
                 "price": 42.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/vivian-medical-centre/854/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/general-practitioner/dr-vivian-santos-fontanilla/at/henderson-medical-centre-1/"
     },
     {
-        "address": "Cnr Miranda and Page Street, P O Box 45, Stratford, Taranaki",
+        "address": "Page Street, STRATFORD",
         "coordinates": [
-            -39.342853273223,
-            174.2844675301635
+            -39.3434812,
+            174.2809644
         ],
         "name": "Dr Gerard Radich",
         "pho": "Midlands Health Network",
@@ -10349,7 +10349,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/dr-r-g-radich/639/contact"
     },
     {
-        "address": "Havelock Street , P O Box 54, Opunake, Taranaki",
+        "address": "Havelock Street, OPUNAKE",
         "coordinates": [
             -39.4539553,
             173.8582237
@@ -10386,7 +10386,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/opunake-medical-centre/787/contact"
     },
     {
-        "address": "1 Lincoln Street, P O Box 93, Patea, Taranaki",
+        "address": "1 Lincoln Street, PATEA",
         "coordinates": [
             -39.755526,
             174.4729138
@@ -10425,8 +10425,8 @@
     {
         "address": "95 Regan Street, PO Box 321, Stratford, Taranaki",
         "coordinates": [
-            -39.3383393,
-            174.2823162
+            -36.8484597,
+            174.7633315
         ],
         "name": "Regan Street Medical Centre",
         "pho": "Midlands Health Network",
@@ -10462,8 +10462,8 @@
     {
         "address": "36 Maratahu Street, P O Box 5135, New Plymouth, Taranaki",
         "coordinates": [
-            -39.0686943,
-            174.0679481
+            -36.8484597,
+            174.7633315
         ],
         "name": "Tui Ora Family Health",
         "pho": "Midlands Health Network",
@@ -10494,13 +10494,13 @@
                 "price": 17.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/tui-ora-family-health/840/contact"
+        "url": "http://www.healthpoint.co.nz/download,61484.do"
     },
     {
-        "address": "Cnr McLean & Grey Street, P O Box 30, Waitara, Taranaki",
+        "address": "Cnr McLean & Grey Street, WAITARA",
         "coordinates": [
-            -39.0010938,
-            174.2376652
+            -39.0003072,
+            174.2336541
         ],
         "name": "Waitara Health Centre",
         "pho": "Midlands Health Network",
@@ -10536,8 +10536,8 @@
     {
         "address": "41 Hunter Street, PO Box 594, Hawera, Taranaki",
         "coordinates": [
-            -39.5863523,
-            174.2668625
+            -36.8484597,
+            174.7633315
         ],
         "name": "Ngati Ruanui Health Centre",
         "pho": "Midlands Health Network",
@@ -10571,10 +10571,10 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/ngati-ruanui-healthcare/1653/contact"
     },
     {
-        "address": "Cnr Alpha and Dick Streets , P O Box 125 , Cambridge, Waikato",
+        "address": "48 Alpha Street, CAMBRIDGE",
         "coordinates": [
-            -37.891119,
-            175.4671792
+            -37.8936579,
+            175.4657879
         ],
         "name": "Cambridge Medical Centre",
         "pho": "Midlands Health Network",
@@ -10605,10 +10605,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/cambridge-medical-centre/1/contact"
+        "url": "http://www.healthpoint.co.nz/waikato/leamington-medical-centre-cambridge/"
     },
     {
-        "address": "129 Pembroke Street, , Hamilton, Waikato",
+        "address": "129 Pembroke Street, HAMILTON",
         "coordinates": [
             -37.8029551,
             175.2812851
@@ -10642,13 +10642,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/clarence-medical-centre/172/contact"
+        "url": "http://www.healthpoint.co.nz/private/specialist/associate-professor-neil-johnson/"
     },
     {
-        "address": "55 Studholme Street , P O Box 225 , Morrinsville, Waikato",
+        "address": "55 Studholme Street, MORRINSVILLE",
         "coordinates": [
-            -37.6571131,
-            175.5271092
+            -37.6573318,
+            175.5269561
         ],
         "name": "Dallas Clinic",
         "pho": "Midlands Health Network",
@@ -10679,10 +10679,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/dallas-clinic/6/contact"
+        "url": "http://www.healthpoint.co.nz/public/ophthalmology/capital-coast-dhb-ophthalmology-service/"
     },
     {
-        "address": "71 - 73 Duke Street , P O Box 806 , Cambridge, Waikato",
+        "address": "71 - 73 Duke Street, CAMBRIDGE",
         "coordinates": [
             -37.8950112,
             175.4714981
@@ -10716,10 +10716,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/dr-a-e-pinfold/10/contact"
+        "url": "http://www.healthpoint.co.nz/private/urology/michael-mackey-urologist/at/ascot-central-remuera/"
     },
     {
-        "address": "9 Lynden Court, P O Box 12 356, Hamilton, Waikato",
+        "address": "9 Lynden Court, Chartwell, HAMILTON",
         "coordinates": [
             -37.751118,
             175.2781055
@@ -10753,13 +10753,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/chartwell-health-centre-ltd/164/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/coastcare-chartwell-medical-centre/"
     },
     {
-        "address": "118 Shakespeare Street , , Cambridge, Waikato",
+        "address": "118 Shakespeare Street, CAMBRIDGE",
         "coordinates": [
-            -37.905665,
-            175.4759373
+            -37.883319,
+            175.463768
         ],
         "name": "Dr N P E Schofield",
         "pho": "Midlands Health Network",
@@ -10793,7 +10793,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/dr-n-p-e-schofield/18/contact"
     },
     {
-        "address": "1021 Heaphy Terrace, Fairfield, Hamilton, Waikato",
+        "address": "1021 Heaphy Terrace, HAMILTON",
         "coordinates": [
             -37.7713366,
             175.2825814
@@ -10830,7 +10830,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/fairfield-medical-centre/190/contact"
     },
     {
-        "address": "284 Peachgrove Road, P O Box 14 121, Hamilton, Waikato",
+        "address": "284 Peachgrove Road, HAMILTON",
         "coordinates": [
             -37.7712758,
             175.2925286
@@ -10864,10 +10864,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/five-cross-roads-medical-centre/209/contact"
+        "url": "http://www.healthpoint.co.nz/private/anaesthesia/anaesthesia-auckland-limited/"
     },
     {
-        "address": "2 Endeavour Avenue, Flagstaff, Hamilton, Waikato",
+        "address": "2 Endeavour Avenue, HAMILTON",
         "coordinates": [
             -37.7386904,
             175.2545795
@@ -10904,7 +10904,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/flagstaff-medical-centre/225/contact"
     },
     {
-        "address": "1 Urlich Ave, , Hamilton, Waikato",
+        "address": "1 Urlich Ave, HAMILTON",
         "coordinates": [
             -37.8168604,
             175.2830021
@@ -10941,7 +10941,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/glenview-medical-centre/237/contact"
     },
     {
-        "address": "16 Beale Street, P O Box 4096, Hamilton, Waikato",
+        "address": "16 Beale Street, HAMILTON",
         "coordinates": [
             -37.7896211,
             175.2926631
@@ -10975,13 +10975,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/hamilton-east-medical-centre/367/contact"
+        "url": "http://www.healthpoint.co.nz/waikato/hamilton-east-medical-centre/"
     },
     {
-        "address": "Cnr Dent & Ranui Street, P O Box 54, Ngatea, Thames Valley",
+        "address": "Dent Street, NGATEA",
         "coordinates": [
-            -37.27420765151504,
-            175.49577850108028
+            -37.2751267,
+            175.4961009
         ],
         "name": "Hauraki Plains Health Centre",
         "pho": "Midlands Health Network",
@@ -11015,7 +11015,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/hauraki-plains-health-centre/1101/contact"
     },
     {
-        "address": "28 Church Street, , Te Aroha, Thames Valley",
+        "address": "28 Church Street, TE AROHA",
         "coordinates": [
             -37.5412212,
             175.7120907
@@ -11049,13 +11049,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/health-te-aroha/1109/contact"
+        "url": "http://www.healthpoint.co.nz/south-auckland/aroha-ki-te-taangata/"
     },
     {
-        "address": "153 Cambridge Road, P O Box 11 102 , Hamilton, Waikato",
+        "address": "Cnr Cambridge Road and Masters Avenue, HAMILTON",
         "coordinates": [
-            -37.7990315,
-            175.3164842
+            -37.7946597,
+            175.3225111
         ],
         "name": "Hillcrest Medical Centre",
         "pho": "Midlands Health Network",
@@ -11086,10 +11086,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/hillcrest-medical-centre/443/contact"
+        "url": "http://www.healthpoint.co.nz/public/maternity/north-auckland/hillcrest/"
     },
     {
-        "address": "127 Shakespeare Street , , Cambridge, Waikato",
+        "address": "127 Shakespeare Street, CAMBRIDGE",
         "coordinates": [
             -37.9061102,
             175.4751589
@@ -11123,7 +11123,7 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/leamington-medical-centre/63/contact"
+        "url": "http://www.healthpoint.co.nz/waikato/leamington-medical-centre-cambridge/"
     },
     {
         "address": "6 Little London Lane, , Hamilton, Waikato",
@@ -11163,14 +11163,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/little-london-medical-clinic/469/contact"
     },
     {
-        "address": "Shop 4, Mega Centre, 670 Cambridge Road, P O Box 348, Te Awamutu, Waikato",
+        "address": "670 Cambridge Road, TE AWAMUTU",
         "coordinates": [
-            -38.006856568409844,
-            175.33884894278867
+            -38.0067611,
+            175.3388251
         ],
         "name": "Mahoe Med Limited",
         "pho": "Midlands Health Network",
-        "phone": "07 872 0923",
+        "phone": "07 871 7899",
         "prices": [
             {
                 "age": 0,
@@ -11197,17 +11197,17 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/mahoe-med/75/contact"
+        "url": "http://www.healthpoint.co.nz/waikato/mahoe-medical-centre-te-awamutu/"
     },
     {
-        "address": "54 Masters Avenue, Hillcrest, Hamilton, Waikato",
+        "address": "Gilgit Urology, Gilgit Road Specialist Centre, 15 Gilgit Road, Epsom, Auckland 1003",
         "coordinates": [
-            -37.7956088,
-            175.3202363
+            -36.8726927,
+            174.7711209
         ],
         "name": "Masters Avenue Medical",
         "pho": "Midlands Health Network",
-        "phone": "078567801",
+        "phone": "(09) 623 7525",
         "prices": [
             {
                 "age": 0,
@@ -11234,10 +11234,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/masters-avenue-medical-clinic/2191/contact"
+        "url": "http://www.healthpoint.co.nz/private/urology/gilgit-urology/"
     },
     {
-        "address": "87 Albert Street, P O Box 20, Whitianga, Thames Valley",
+        "address": "87 Albert Street, WHITIANGA",
         "coordinates": [
             -36.8365746,
             175.7037601
@@ -11274,10 +11274,10 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/mercury-bay-medical-centre/1121/contact"
     },
     {
-        "address": "19 Canada Street, P O Box 86, Morrinsville, Waikato",
+        "address": "19 Canada Street, MORRINSVILLE",
         "coordinates": [
-            -37.6578445,
-            175.5310897
+            -37.6578649,
+            175.530978
         ],
         "name": "Morrinsville Medical Centre",
         "pho": "Midlands Health Network",
@@ -11308,13 +11308,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/morrinsville-medical-centre/79/contact"
+        "url": "http://www.healthpoint.co.nz/private/ophthalmology/hamilton-eye-clinic/at/19-canada-street-morrinsville/"
     },
     {
-        "address": "10B Pukete Road, Te Rapa, Hamilton, Waikato",
+        "address": "107 Thomas Road, Rototuna, Hamilton, Waikato",
         "coordinates": [
-            -37.7506675,
-            175.2411909
+            -37.7309875,
+            175.2752702
         ],
         "name": "NorthCare Pukete and Thomas Roads",
         "pho": "Midlands Health Network",
@@ -11345,13 +11345,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/northcare-pukete-road/514/contact"
+        "url": "https://www.itsmyhealth.co.nz/medical-centre/northcare-thomas-road/609/contact"
     },
     {
-        "address": "Unit 9, Pauanui Village Shopping Centre, 52 Jubilee Drive, P O Box 116, Pauanui, Thames Valley",
+        "address": "Pauanui Village Shopping Centre, PAUANUI",
         "coordinates": [
-            -37.023911342979076,
-            175.86114966690366
+            -37.0168657,
+            175.8648082
         ],
         "name": "Pauanui Health Centre",
         "pho": "Midlands Health Network",
@@ -11385,7 +11385,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/pauanui-health-centre/1135/contact"
     },
     {
-        "address": "554 River Road, , Hamilton, Waikato",
+        "address": "554 River Road, HAMILTON",
         "coordinates": [
             -37.7701639,
             175.2704964
@@ -11419,10 +11419,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/river-road-family-practice/677/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/family-doctors/at/10-wade-river-road-whangaparaoa/"
     },
     {
-        "address": "91 Kahikatea Drive, , Hamilton, Waikato",
+        "address": "91 Kahikatea Drive, HAMILTON",
         "coordinates": [
             -37.8083426,
             175.2713924
@@ -11456,50 +11456,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/south-city-health-ltd/695/contact"
+        "url": "http://www.healthpoint.co.nz/public/palliative-care/totara-hospice-south-auckland-1/"
     },
     {
-        "address": "Gate 1, Knighton Road, Private Bag 3105, Hamilton, Waikato",
+        "address": "Main Road, TAIRUA",
         "coordinates": [
-            -37.78862489825853,
-            175.31452404854588
-        ],
-        "name": "Student Health Service-Waikato University",
-        "pho": "Midlands Health Network",
-        "phone": "07 838 4037",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0.0
-            },
-            {
-                "age": 6,
-                "price": 0.0
-            },
-            {
-                "age": 18,
-                "price": 0.0
-            },
-            {
-                "age": 25,
-                "price": 0.0
-            },
-            {
-                "age": 45,
-                "price": 1000
-            },
-            {
-                "age": 65,
-                "price": 1000
-            }
-        ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/student-health-service-university-of-waikato/747/contact"
-    },
-    {
-        "address": "Shop 3, 237 Main Road, P O Box 10, Tairua, Thames Valley",
-        "coordinates": [
-            -37.0009167,
-            175.8487614
+            -37.0039539,
+            175.8481017
         ],
         "name": "Tairua Medical Centre",
         "pho": "Midlands Health Network",
@@ -11533,7 +11496,44 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/tairua-medical-centre/1140/contact"
     },
     {
-        "address": "817 Rolleston Street, P O Box 710, Thames, Thames Valley",
+        "address": "220 Bank Street, TE AWAMUTU",
+        "coordinates": [
+            -38.0112619,
+            175.3224024
+        ],
+        "name": "Te Awamutu Medical Centre",
+        "pho": "Midlands Health Network",
+        "phone": "07 872 0300",
+        "prices": [
+            {
+                "age": 0,
+                "price": 0.0
+            },
+            {
+                "age": 6,
+                "price": 21.0
+            },
+            {
+                "age": 18,
+                "price": 27.0
+            },
+            {
+                "age": 25,
+                "price": 47.0
+            },
+            {
+                "age": 45,
+                "price": 1000
+            },
+            {
+                "age": 65,
+                "price": 1000
+            }
+        ],
+        "url": "http://www.healthpoint.co.nz/waikato/mahoe-medical-centre-te-awamutu/"
+    },
+    {
+        "address": "817 Rolleston Street, THAMES",
         "coordinates": [
             -37.1379466,
             175.5450857
@@ -11567,13 +11567,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/thames-medical-centre/1146/contact"
+        "url": "http://www.healthpoint.co.nz/waikato/thames-medical-centre/"
     },
     {
-        "address": "750 Victoria Street, , Hamilton, Waikato",
+        "address": "750 Victoria Street, HAMILTON",
         "coordinates": [
-            -37.7822989,
-            175.2786664
+            -37.7820256,
+            175.2786422
         ],
         "name": "Victoria Clinic Ltd",
         "pho": "Midlands Health Network",
@@ -11604,13 +11604,13 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/victoria-clinic-limited/949/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/victoria-park-medical-suites/"
     },
     {
-        "address": "47 Wilson Road, P O Box 19, Waihi Beach, Western Bay of Plenty",
+        "address": "47 Wilson Road, WAIHI BEACH",
         "coordinates": [
-            -37.4111806,
-            175.9404414
+            -37.4111724,
+            175.940299
         ],
         "name": "Waihi Beach Medical Centre",
         "pho": "Midlands Health Network",
@@ -11644,7 +11644,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/waihi-beach-medical-centre/1165/contact"
     },
     {
-        "address": "103 Lincoln Road, , Whangamata, Thames Valley",
+        "address": "103 Lincoln Road, WHANGAMATA",
         "coordinates": [
             -37.2062211,
             175.8710101
@@ -11678,10 +11678,10 @@
                 "price": 1000
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/whangamata-medical-centre/1175/contact"
+        "url": "http://www.healthpoint.co.nz/waikato/whangamata-community-x-ray-services-x-ray/"
     },
     {
-        "address": "12 Main Street, , Te Kauwhata, Waikato",
+        "address": "12 Main Road, TE KAUWHATA",
         "coordinates": [
             -37.4038877,
             175.1434303
@@ -11718,14 +11718,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/te-kauwhata-health-centre/1043/contact"
     },
     {
-        "address": "6 Avalon Drive, P O Box 15 308, Hamilton, Waikato",
+        "address": "53-65 Commercial Road, Helensville 0800",
         "coordinates": [
-            -37.779788,
-            175.2491293
+            -36.6753989,
+            174.4513862
         ],
         "name": "Avalon Medical",
         "pho": "Midlands Health Network",
-        "phone": "07 846 0082",
+        "phone": "(09) 420 8400",
         "prices": [
             {
                 "age": 0,
@@ -11752,7 +11752,7 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/avalon-medical/935/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/kaipara-medical-centre/"
     },
     {
         "address": "31 Vercoe Road, Beerescourt, Hamilton, Waikato",
@@ -11792,7 +11792,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/beerescourt-medical-practice/154/contact"
     },
     {
-        "address": "80 Kapanga Road, P O Box 51, Coromandel, Thames Valley",
+        "address": "80 Kapanga Road, COROMANDEL",
         "coordinates": [
             -36.7595793,
             175.4979476
@@ -11826,10 +11826,10 @@
                 "price": 15.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/coromandel-family-health-centre/1093/contact"
+        "url": "http://www.healthpoint.co.nz/public/older-peoples-health/capital-coast-dhb-rehabilitation-service/at/wellington-hospital-nga-puna-waiora/"
     },
     {
-        "address": "21 Whatawhata Road, Dinsdale, Hamilton, Waikato",
+        "address": "21 Whatawhata Road, HAMILTON",
         "coordinates": [
             -37.7953367,
             175.2469095
@@ -11863,10 +11863,10 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/dinsdale-medical-centre/180/contact"
+        "url": "http://www.healthpoint.co.nz/public/intensive-care/capital-coast-dhb-intensive-care-unit-icu/at/wellington-hospital-nga-puna-waiora/"
     },
     {
-        "address": "42 Main Street, , Huntly, Waikato",
+        "address": "42 Main Street,  HUNTLY",
         "coordinates": [
             -37.5562242,
             175.1589323
@@ -11903,7 +11903,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/doctors-42/1023/contact"
     },
     {
-        "address": "57 Bryce Street , , Cambridge, Waikato",
+        "address": "57 Bryce Street, CAMBRIDGE",
         "coordinates": [
             -37.8884208,
             175.4644292
@@ -11940,14 +11940,14 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/drs-pearson-and-nyce/22/contact"
     },
     {
-        "address": "107 Grandview Road, P O Box 15 696, Hamilton, Waikato",
+        "address": "107 Grandview Road, HAMILTON",
         "coordinates": [
             -37.7804609,
             175.2373378
         ],
         "name": "NorthCare Grandview Road",
         "pho": "Midlands Health Network",
-        "phone": "0800 ITS MY HEALTH (0800 487 694)",
+        "phone": "0800 487 694",
         "prices": [
             {
                 "age": 0,
@@ -11977,7 +11977,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/northcare-grandview-road/479/contact"
     },
     {
-        "address": "8 Bridge Street, P O Box 173, Huntly, Waikato",
+        "address": "Bridge Street, HUNTLY",
         "coordinates": [
             -37.5611934,
             175.1513799
@@ -12011,10 +12011,10 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/huntly-west-medical-centre-ltd/1035/contact"
+        "url": "http://www.healthpoint.co.nz/private/radiology/horizon-radiology/at/5-onslow-street-huntly/"
     },
     {
-        "address": "10 Tainui Street, P O Box 11, Kawhia, Waikato",
+        "address": "10 Tainui Street, KAWHIA",
         "coordinates": [
             -38.064201,
             174.8222692
@@ -12088,7 +12088,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/oto-med-ltd/982/contact"
     },
     {
-        "address": "41 Miriama Street, P O Box 27, Taumarunui, Waikato",
+        "address": "41 Miriama Street, TAUMARUNUI",
         "coordinates": [
             -38.8844091,
             175.2634065
@@ -12125,7 +12125,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/pfeffer-medical-services/1077/contact"
     },
     {
-        "address": "130 Rostrevor Street, P O Box 9350, Hamilton, Waikato",
+        "address": "130 Rostrevor Street, HAMILTON",
         "coordinates": [
             -37.783591,
             175.2733616
@@ -12162,44 +12162,7 @@
         "url": "https://www.itsmyhealth.co.nz/medical-centre/redicare-family-practice/629/contact"
     },
     {
-        "address": "Kururau Road, P O Box 286, Taumarunui, Waikato",
-        "coordinates": [
-            -38.8915194,
-            175.2304266
-        ],
-        "name": "Taumarunui Medical Centre Ltd",
-        "pho": "Midlands Health Network",
-        "phone": "07 895 3333",
-        "prices": [
-            {
-                "age": 0,
-                "price": 0.0
-            },
-            {
-                "age": 6,
-                "price": 11.5
-            },
-            {
-                "age": 18,
-                "price": 17.5
-            },
-            {
-                "age": 25,
-                "price": 17.5
-            },
-            {
-                "age": 45,
-                "price": 17.5
-            },
-            {
-                "age": 65,
-                "price": 17.5
-            }
-        ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/taumarunui-medical-centre/1083/contact"
-    },
-    {
-        "address": "28 Ailsa Street, , Te Kuiti, Waikato",
+        "address": "28 Ailsa Street, TE KUITI",
         "coordinates": [
             -38.3343192,
             175.151784
@@ -12233,7 +12196,7 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/te-kuiti-medical-centre/1004/contact"
+        "url": "http://www.healthpoint.co.nz/private/orthopaedics/waikato/te-kuiti/?people="
     },
     {
         "address": "Gate 3, 35-75 Maraetai Road, P O Box 48, Tokoroa, Waikato",
@@ -12270,10 +12233,10 @@
                 "price": 17.5
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/tokoroa-medical-centre/1059/contact"
+        "url": "http://www.healthpoint.co.nz/private/radiology/horizon-radiology/at/tokoroa-hospital/"
     },
     {
-        "address": "38 Tuhikaramea Road, Dinsdale, Hamilton, Waikato",
+        "address": "38 Tuhikaramea Road, HAMILTON",
         "coordinates": [
             -37.7963644,
             175.2470036
@@ -12307,7 +12270,7 @@
                 "price": 17.0
             }
         ],
-        "url": "https://www.itsmyhealth.co.nz/medical-centre/westend-health-centre/959/contact"
+        "url": "http://www.healthpoint.co.nz/doctors/gp/clendon-family-health-centre/"
     },
     {
         "address": "109 Queen Street,Auckland City, Auckland",
