@@ -18,10 +18,14 @@ var PracticesCollection = Backbone.Collection.extend({
 	fetch: function(options) {
 		var self = this;
 		this.removed = [];
+		this.jsondata = [];
 		$.getJSON(this.url, function(data) {
 			$.each(data, function(key, val) {
-				var distance_between = google.maps.geometry.spherical.computeDistanceBetween(new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]), new google.maps.LatLng(options.location[0], options.location[1]));
-				if ((distance_between/1000) <= 15){
+				val['start'] = new google.maps.LatLng(options.location[0], options.location[1]);
+				val['end'] = new google.maps.LatLng(val['coordinates'][0], val['coordinates'][1]);
+				var distance_between = google.maps.geometry.spherical.computeDistanceBetween(val['start'], val['end']);
+				val['distance'] = distance_between/1000;
+				if (val['distance'] <= 15){
 					self.jsondata.push(val);
 				}
 			});
@@ -48,11 +52,10 @@ var PracticesCollection = Backbone.Collection.extend({
 		callback();
 	},
 
-	initializeModels: function(age, addressCoords, callback) {
+	initializeModels: function(age, callback) {
 		var self = this;
 		var remove_these = [];
 		this.each (function(model) {
-			model.getDistance(addressCoords);
 			if (model.getPrice(age) == -1){
 				remove_these.push(model);
 			};

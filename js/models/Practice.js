@@ -13,12 +13,11 @@ app.PracticeModel = Backbone.DeepModel.extend({
 	},
 
 	initialize: function() {
-		_.bindAll(this, "getPrice", "getDistance");
+		_.bindAll(this, "getPrice");
 	},
 
 	parse: function(response) {
 		this.prices = response.prices;
-		this.set({end: new google.maps.LatLng(response.coordinates[0], response.coordinates[1])});
 		return response;
 	},
 
@@ -37,17 +36,5 @@ app.PracticeModel = Backbone.DeepModel.extend({
 		if (this.prices[i].price == 999){
 			return -1;
 		}
-	},
-
-	getDistance: function(addressCoords) {
-		this.set({start: new google.maps.LatLng(addressCoords[0], addressCoords[1])});
-		if (this.get("coordinates.0") != 0.000) {
-			var distance_between = google.maps.geometry.spherical.computeDistanceBetween(this.get("start"), this.get("end"));
-			this.set({distance: distance_between/1000});
-		} else {
-			failed++;
-			console.log("Failed to geocode: " + failed);
-		}
-	return distance_between/1000;
 	}
 });
