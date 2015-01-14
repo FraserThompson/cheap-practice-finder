@@ -1,4 +1,4 @@
-angular.callbacks._1(
+callback(
     {
     "practices":
     [
