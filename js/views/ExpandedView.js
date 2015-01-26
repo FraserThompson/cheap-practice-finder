@@ -1,6 +1,8 @@
 var app = app || {};
 
 function calculateRoute(start, end, callback){
+	var start = new google.maps.LatLng(start['k'], start['D']);
+	var end = new google.maps.LatLng(end['k'], end['D']);
 	var request = {
 		origin: start,
 		destination: end,
