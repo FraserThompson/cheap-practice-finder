@@ -18,9 +18,9 @@ header, footer {
 
 footer {
 	position: absolute;
-	bottom: 60px;
+	bottom: 10px;
 	left: 0px;
-	height: 50px;
+	height: 100px;
 }
 
 tr {
@@ -45,7 +45,7 @@ tr:hover{
 
 .container {
 	height: 100%;
-	margin:0 auto 50px;
+	margin:0 auto 100px;
 	max-width: 580px;
 	-webkit-animation-duration: 0.8s;
   	-moz-animation-duration: 0.8s;
