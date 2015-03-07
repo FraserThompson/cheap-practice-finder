@@ -5,8 +5,8 @@ callback(
     {
         "address": "11 Parkvale Road, Karori, Wellington",
         "coordinates": [
-            -43.8172101,
-            172.9647686
+            -41.284061,
+            174.736818
         ],
         "name": "Karori Medical Centre",
         "pho": "Independant",
